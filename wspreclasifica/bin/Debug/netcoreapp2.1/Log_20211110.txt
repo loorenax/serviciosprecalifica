@@ -1,0 +1,214 @@
+20211110 17:09:32 writeLogParametros
+  --> msg: Parametros: 
+20211110 17:09:32 writeLogParametros
+  --> msg: idProspecto: 
+20211110 17:09:32 writeLogParametros
+  --> msg: nombres: Lorena
+20211110 17:09:32 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211110 17:09:32 writeLogParametros
+  --> msg: segundoApellido: 
+20211110 17:09:32 writeLogParametros
+  --> msg: genero: Mujer
+20211110 17:09:32 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211110 17:09:32 writeLogParametros
+  --> msg: rfc: eicl
+20211110 17:09:32 writeLogParametros
+  --> msg: idCodigoPostal: 74565
+20211110 17:09:32 writeLogParametros
+  --> msg: calleyNo: d
+20211110 17:09:32 writeLogParametros
+  --> msg: celular: 462
+20211110 17:09:32 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211110 17:09:32 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211110 17:09:32 writeLogParametros
+  --> msg: queBuscas: 
+20211110 17:09:32 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211110 17:09:32 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211110 17:09:32 writeLogResult
+  --> msg: Result: 
+20211110 17:09:32 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211110 17:09:32 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211110 17:09:32 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211110 17:09:32 writeLogResult
+  --> msg: ID: 13
+20211110 17:14:41 writeLogParametros
+  --> msg: Parametros: 
+20211110 17:14:41 writeLogParametros
+  --> msg: idProspecto: 
+20211110 17:14:41 writeLogParametros
+  --> msg: nombres: Lorena
+20211110 17:14:41 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211110 17:14:41 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211110 17:14:41 writeLogParametros
+  --> msg: genero: Mujer
+20211110 17:14:41 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211110 17:14:41 writeLogParametros
+  --> msg: rfc: EICL
+20211110 17:14:41 writeLogParametros
+  --> msg: idCodigoPostal: 74565
+20211110 17:14:41 writeLogParametros
+  --> msg: calleyNo: D
+20211110 17:14:41 writeLogParametros
+  --> msg: celular: 462
+20211110 17:14:41 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211110 17:14:41 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211110 17:14:41 writeLogParametros
+  --> msg: tipoCredito: Adquirir un inmueble
+20211110 17:14:41 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211110 17:14:41 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211110 17:14:41 writeLogResult
+  --> msg: Result: 
+20211110 17:14:41 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211110 17:14:41 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211110 17:14:41 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211110 17:14:41 writeLogResult
+  --> msg: ID: 14
+20211110 17:23:19 writeLogParametros
+  --> msg: Parametros: 
+20211110 17:23:19 writeLogParametros
+  --> msg: idProspecto: 
+20211110 17:23:19 writeLogParametros
+  --> msg: nombres: Lorena
+20211110 17:23:19 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211110 17:23:19 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211110 17:23:19 writeLogParametros
+  --> msg: genero: Mujer
+20211110 17:23:19 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211110 17:23:19 writeLogParametros
+  --> msg: rfc: EICL
+20211110 17:23:19 writeLogParametros
+  --> msg: idCodigoPostal: 74564
+20211110 17:23:19 writeLogParametros
+  --> msg: calleyNo: 128A
+20211110 17:23:19 writeLogParametros
+  --> msg: celular: 462
+20211110 17:23:19 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211110 17:23:19 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211110 17:23:19 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211110 17:23:19 writeLogParametros
+  --> msg: ingresoMensual: 21000
+20211110 17:23:19 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211110 17:23:19 writeLogResult
+  --> msg: Result: 
+20211110 17:23:19 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211110 17:23:19 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211110 17:23:19 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211110 17:23:19 writeLogResult
+  --> msg: ID: 15
+20211110 17:27:07 writeLogParametros
+  --> msg: Parametros: 
+20211110 17:27:07 writeLogParametros
+  --> msg: idProspecto: 
+20211110 17:27:07 writeLogParametros
+  --> msg: nombres: Laura
+20211110 17:27:07 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211110 17:27:07 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211110 17:27:07 writeLogParametros
+  --> msg: genero: Mujer
+20211110 17:27:07 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211110 17:27:07 writeLogParametros
+  --> msg: rfc: EICL
+20211110 17:27:07 writeLogParametros
+  --> msg: idCodigoPostal: 74564
+20211110 17:27:07 writeLogParametros
+  --> msg: calleyNo: D
+20211110 17:27:07 writeLogParametros
+  --> msg: celular: 462
+20211110 17:27:07 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211110 17:27:07 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211110 17:27:07 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211110 17:27:07 writeLogParametros
+  --> msg: ingresoMensual: 23000
+20211110 17:27:07 writeLogParametros
+  --> msg: valorAproximado: Entre $900 mil y $2 millones
+20211110 17:27:07 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211110 17:27:08 writeLogResult
+  --> msg: Result: 
+20211110 17:27:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211110 17:27:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211110 17:27:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211110 17:27:08 writeLogResult
+  --> msg: ID: 15
+20211110 17:35:46 writeLogParametros
+  --> msg: Parametros: 
+20211110 17:35:46 writeLogParametros
+  --> msg: idProspecto: 
+20211110 17:35:46 writeLogParametros
+  --> msg: nombres: Lorena
+20211110 17:35:46 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211110 17:35:46 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211110 17:35:46 writeLogParametros
+  --> msg: genero: Mujer
+20211110 17:35:46 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211110 17:35:46 writeLogParametros
+  --> msg: rfc: EICL
+20211110 17:35:46 writeLogParametros
+  --> msg: idCodigoPostal: 74570
+20211110 17:35:46 writeLogParametros
+  --> msg: calleyNo: D
+20211110 17:35:46 writeLogParametros
+  --> msg: celular: 462
+20211110 17:35:46 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211110 17:35:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211110 17:35:46 writeLogParametros
+  --> msg: tipoCredito: Obtener liquidez
+20211110 17:35:46 writeLogParametros
+  --> msg: ingresoMensual: 30000
+20211110 17:35:46 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211110 17:35:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211110 17:35:46 writeLogResult
+  --> msg: Result: 
+20211110 17:35:46 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211110 17:35:46 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211110 17:35:46 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211110 17:35:46 writeLogResult
+  --> msg: ID: 15

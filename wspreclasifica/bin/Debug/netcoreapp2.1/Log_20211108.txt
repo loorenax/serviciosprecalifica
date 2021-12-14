@@ -1,0 +1,70 @@
+20211108 15:42:28 send
+  --> msg: 
+  --> exception: Failure sending mail.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.SendMail.send(String _Para, String _Asunto, String _MensajeCuerpo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\SendMail.cs:line 67
+20211108 16:10:03 send
+  --> msg: 
+  --> exception: Failure sending mail.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.SendMail.send(String _Para, String _Asunto, String _MensajeCuerpo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\SendMail.cs:line 67
+20211108 20:35:10 send
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.SendMail.send(String _Para, String _Asunto, String _MensajeCuerpo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\SendMail.cs:line 77
+20211108 20:35:50 send
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.SendMail.send(String _Para, String _Asunto, String _MensajeCuerpo)
+20211108 20:53:10 enviarCodigoValidacion
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.EnviarCorreo(MailMessage message) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.enviarCodigoValidacion(String correoTo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 126
+20211108 20:54:08 enviarCodigoValidacion
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.EnviarCorreo(MailMessage message) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.enviarCodigoValidacion(String correoTo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 126
+20211108 21:25:28 enviarCodigoValidacion
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.EnviarCorreo(MailMessage message) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.enviarCodigoValidacion(String correoTo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 126
+20211108 21:30:41 enviarCodigoValidacion
+  --> msg: 
+  --> exception: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.EnviarCorreo(MailMessage message) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.enviarCodigoValidacion(String correoTo) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 126

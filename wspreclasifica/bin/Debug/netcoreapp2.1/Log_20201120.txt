@@ -1,0 +1,25 @@
+20201120 13:21:04 Buscar_Caso
+  --> msg: 
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at wsssatam.Datos.D_Contactos.ws_Cnt_getCasos(Mdl_Busqueda_Casos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Datos\D_Contactos.cs:line 140
+   at wsssatam.Controllers.contactos.ContactosController.Buscar_Caso(Mdl_Busqueda_Casos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Controllers\contactos\ContactosController.cs:line 27
+20201120 18:38:45 Buscar_Caso
+  --> msg: buscar-b {CURP:AUGR680902HJCGNB}
+20201120 18:50:49 Generar_Informe_Resultados
+  --> msg: 
+  --> exception: Could not find a part of the path 'D:\Sitios\RI_testssatam\Informes_Resultados\2F931D54-9600-4B9C-9D49-46998F2240FB.pdf'.
+  --> source: System.Private.CoreLib
+  --> stacktrace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at wsssatam.Models.Laboratorio.Informe_Resultado_Laboratorio.Generar_Informe_Resultados() in C:\Trabajo\wsssatam\WsSsaTam\Models\Laboratorio\Informe_Resultado_Laboratorio.cs:line 59

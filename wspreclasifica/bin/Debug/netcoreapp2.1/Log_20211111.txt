@@ -1,0 +1,27 @@
+20211111 13:20:17 enviarCorreo
+  --> msg: 
+  --> exception: Server does not support secure connections.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 62
+20211111 13:21:13 enviarCorreo
+  --> msg: 
+  --> exception: Server does not support secure connections.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 62
+20211111 13:21:46 enviarCorreo
+  --> msg: 
+  --> exception: Server does not support secure connections.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\GestorCorreo.cs:line 62

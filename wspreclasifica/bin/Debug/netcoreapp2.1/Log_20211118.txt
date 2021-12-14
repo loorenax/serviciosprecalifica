@@ -1,0 +1,90 @@
+20211118 10:26:23 writeLogParametros
+  --> msg: idProspecto: 
+20211118 10:26:23 writeLogParametros
+  --> msg: nombres: Javier
+20211118 10:26:23 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211118 10:26:23 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211118 10:26:23 writeLogParametros
+  --> msg: genero: Hombre
+20211118 10:26:23 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211118 10:26:23 writeLogParametros
+  --> msg: rfc: EICJ8009041B6
+20211118 10:26:23 writeLogParametros
+  --> msg: idCodigoPostal: 74564
+20211118 10:26:23 writeLogParametros
+  --> msg: calleyNo: Danubio 128 a
+20211118 10:26:23 writeLogParametros
+  --> msg: celular: 462
+20211118 10:26:23 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211118 10:26:23 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211118 10:26:23 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211118 10:26:23 writeLogParametros
+  --> msg: ingresoMensual: 23000
+20211118 10:26:23 writeLogParametros
+  --> msg: valorAproximado: Entre $900 mil y $2 millones
+20211118 10:26:23 writeLogParametros
+  --> msg: domicilio: 
+20211118 10:26:23 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211118 10:26:23 writeLogResult
+  --> msg: Result: 
+20211118 10:26:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211118 10:26:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211118 10:26:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211118 10:26:23 writeLogResult
+  --> msg: ID: 20
+20211118 11:19:33 writeLogParametros
+  --> msg: Parametros: 
+20211118 11:19:33 writeLogParametros
+  --> msg: idProspecto: 
+20211118 11:19:33 writeLogParametros
+  --> msg: nombres: Lorena
+20211118 11:19:33 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211118 11:19:33 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211118 11:19:33 writeLogParametros
+  --> msg: genero: Mujer
+20211118 11:19:33 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211118 11:19:33 writeLogParametros
+  --> msg: rfc: EICL8009041B6
+20211118 11:19:33 writeLogParametros
+  --> msg: idCodigoPostal: 74570
+20211118 11:19:33 writeLogParametros
+  --> msg: calleyNo: Valle de Ambles 53c
+20211118 11:19:33 writeLogParametros
+  --> msg: celular: 462
+20211118 11:19:33 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211118 11:19:33 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211118 11:19:33 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211118 11:19:33 writeLogParametros
+  --> msg: ingresoMensual: 15000
+20211118 11:19:33 writeLogParametros
+  --> msg: valorAproximado: Entre $900 mil y $2 millones
+20211118 11:19:33 writeLogParametros
+  --> msg: domicilio: 
+20211118 11:19:33 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211118 11:19:34 writeLogResult
+  --> msg: Result: 
+20211118 11:19:34 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211118 11:19:34 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211118 11:19:34 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211118 11:19:34 writeLogResult
+  --> msg: ID: 21

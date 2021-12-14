@@ -1,0 +1,24 @@
+20201123 10:58:52 Buscar_Casos_Por_Contacto
+  --> msg: 
+  --> exception: Column 'Caso_ID' does not belong to table Casos_X_Contacto.
+  --> source: System.Data.Common
+  --> stacktrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at wsssatam.Datos.D_Contactos.ws_Cnt_getCasos_x_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Datos\D_Contactos.cs:line 133
+   at wsssatam.Controllers.contactos.ContactosController.Buscar_Casos_Por_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Controllers\contactos\ContactosController.cs:line 59
+20201123 10:59:05 Buscar_Casos_Por_Contacto
+  --> msg: 
+  --> exception: Column 'Caso_ID' does not belong to table Casos_X_Contacto.
+  --> source: System.Data.Common
+  --> stacktrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at wsssatam.Datos.D_Contactos.ws_Cnt_getCasos_x_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Datos\D_Contactos.cs:line 133
+   at wsssatam.Controllers.contactos.ContactosController.Buscar_Casos_Por_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Controllers\contactos\ContactosController.cs:line 59
+20201123 11:01:50 Buscar_Casos_Por_Contacto
+  --> msg: 
+  --> exception: Column 'Caso_ID' does not belong to table Casos_X_Contacto.
+  --> source: System.Data.Common
+  --> stacktrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at wsssatam.Datos.D_Contactos.ws_Cnt_getCasos_x_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Datos\D_Contactos.cs:line 133
+   at wsssatam.Controllers.contactos.ContactosController.Buscar_Casos_Por_Contacto(Mdl_Casos_Contactos modelRegistro) in C:\Trabajo\wsssatam\WsSsaTam\Controllers\contactos\ContactosController.cs:line 59

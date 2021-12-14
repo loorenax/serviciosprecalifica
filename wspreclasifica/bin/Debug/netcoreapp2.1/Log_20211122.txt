@@ -1,0 +1,418 @@
+20211122 20:42:19 writeLogParametros
+  --> msg: idProspecto: 
+20211122 20:42:19 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 20:42:19 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 20:42:19 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 20:42:19 writeLogParametros
+  --> msg: genero: Mujer
+20211122 20:42:19 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 20:42:19 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 20:42:19 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 20:42:19 writeLogParametros
+  --> msg: calleyNo: Valle
+20211122 20:42:19 writeLogParametros
+  --> msg: celular: 8116988508
+20211122 20:42:19 writeLogParametros
+  --> msg: correo: capi.al.roja@gamil.com
+20211122 20:42:19 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20211122 20:42:19 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 20:42:19 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 20:42:19 writeLogParametros
+  --> msg: ingresoMensual: 29000
+20211122 20:42:19 writeLogParametros
+  --> msg: valorAproximado: Entre $2 millones y $3 millones
+20211122 20:42:19 writeLogParametros
+  --> msg: domicilio: 
+20211122 20:42:19 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 20:42:19 writeLogResult
+  --> msg: Result: 
+20211122 20:42:19 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 20:42:19 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 20:42:19 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 20:42:19 writeLogResult
+  --> msg: ID: 23
+20211122 20:42:47 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\OTP.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 76
+20211122 20:52:46 writeLogParametros
+  --> msg: Parametros: 
+20211122 20:52:46 writeLogParametros
+  --> msg: idProspecto: 
+20211122 20:52:46 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 20:52:46 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 20:52:46 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 20:52:46 writeLogParametros
+  --> msg: genero: Mujer
+20211122 20:52:46 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 20:52:46 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 20:52:46 writeLogParametros
+  --> msg: idCodigoPostal: 74565
+20211122 20:52:46 writeLogParametros
+  --> msg: calleyNo: Valle
+20211122 20:52:46 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 20:52:46 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 20:52:46 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20211122 20:52:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 20:52:46 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 20:52:46 writeLogParametros
+  --> msg: ingresoMensual: 10000
+20211122 20:52:46 writeLogParametros
+  --> msg: valorAproximado: Entre $900 mil y $2 millones
+20211122 20:52:46 writeLogParametros
+  --> msg: domicilio: 
+20211122 20:52:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 20:52:46 writeLogResult
+  --> msg: Result: 
+20211122 20:52:46 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 20:52:46 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 20:52:46 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 20:52:46 writeLogResult
+  --> msg: ID: 23
+20211122 20:52:46 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\OTP.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 76
+20211122 21:03:58 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:03:58 writeLogParametros
+  --> msg: idProspecto: 
+20211122 21:03:58 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 21:03:58 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:03:58 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:03:58 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:03:58 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:03:58 writeLogParametros
+  --> msg: rfc: EICA8009041b6
+20211122 21:03:58 writeLogParametros
+  --> msg: idCodigoPostal: 74568
+20211122 21:03:58 writeLogParametros
+  --> msg: calleyNo: VALLE
+20211122 21:03:58 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:03:58 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:03:58 writeLogParametros
+  --> msg: enviarAvisoPor: Correo
+20211122 21:03:58 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:03:58 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:03:58 writeLogParametros
+  --> msg: ingresoMensual: 32000
+20211122 21:03:58 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211122 21:03:58 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:03:58 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:03:59 writeLogResult
+  --> msg: Result: 
+20211122 21:03:59 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:03:59 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:03:59 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:03:59 writeLogResult
+  --> msg: ID: 23
+20211122 21:05:06 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\OTP.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 76
+20211122 21:09:26 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:09:26 writeLogParametros
+  --> msg: idProspecto: 
+20211122 21:09:26 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 21:09:26 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:09:26 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:09:26 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:09:26 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:09:26 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 21:09:26 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 21:09:26 writeLogParametros
+  --> msg: calleyNo: VALLE
+20211122 21:09:26 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:09:26 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:09:26 writeLogParametros
+  --> msg: enviarAvisoPor: Correo
+20211122 21:09:26 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:09:26 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:09:26 writeLogParametros
+  --> msg: ingresoMensual: 18000
+20211122 21:09:26 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211122 21:09:26 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:09:26 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:09:27 writeLogResult
+  --> msg: Result: 
+20211122 21:09:27 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:09:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:09:27 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:09:27 writeLogResult
+  --> msg: ID: 23
+20211122 21:10:57 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\OTP.cs:line 58
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 76
+20211122 21:13:08 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:13:08 writeLogParametros
+  --> msg: idProspecto: 
+20211122 21:13:08 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 21:13:08 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:13:08 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:13:08 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:13:08 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:13:08 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 21:13:08 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 21:13:08 writeLogParametros
+  --> msg: calleyNo: VALLE
+20211122 21:13:08 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:13:08 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:13:08 writeLogParametros
+  --> msg: enviarAvisoPor: WhatsApp
+20211122 21:13:08 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:13:08 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:13:08 writeLogParametros
+  --> msg: ingresoMensual: 032000
+20211122 21:13:08 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211122 21:13:08 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:13:08 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:13:08 writeLogResult
+  --> msg: Result: 
+20211122 21:13:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:13:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:13:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:13:08 writeLogResult
+  --> msg: ID: 23
+20211122 21:14:07 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo()
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro)
+20211122 21:18:34 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:18:34 writeLogParametros
+  --> msg: idProspecto: 23
+20211122 21:18:34 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 21:18:34 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:18:34 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:18:34 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:18:34 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:18:34 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 21:18:34 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 21:18:34 writeLogParametros
+  --> msg: calleyNo: VALLE
+20211122 21:18:34 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:18:34 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:18:34 writeLogParametros
+  --> msg: enviarAvisoPor: WhatsApp
+20211122 21:18:34 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:18:34 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:18:34 writeLogParametros
+  --> msg: ingresoMensual: 032000
+20211122 21:18:34 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211122 21:18:34 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:18:34 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:18:34 writeLogResult
+  --> msg: Result: 
+20211122 21:18:34 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:18:34 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:18:34 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:18:34 writeLogResult
+  --> msg: ID: 23
+20211122 21:18:41 setProspecto
+  --> msg: 
+  --> exception: Object reference not set to an instance of an object.
+  --> source: wspreclasifica
+  --> stacktrace:    at wspreclasifica.OTP.enviarCodigo()
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspecto(mdlPreclasifica modelRegistro)
+20211122 21:22:48 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:22:48 writeLogParametros
+  --> msg: idProspecto: 23
+20211122 21:22:48 writeLogParametros
+  --> msg: nombres: Almendra
+20211122 21:22:48 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:22:48 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:22:48 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:22:48 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:22:48 writeLogParametros
+  --> msg: rfc: EICA8009041B6
+20211122 21:22:48 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 21:22:48 writeLogParametros
+  --> msg: calleyNo: VALLE
+20211122 21:22:48 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:22:48 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:22:48 writeLogParametros
+  --> msg: enviarAvisoPor: WhatsApp
+20211122 21:22:48 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:22:48 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:22:48 writeLogParametros
+  --> msg: ingresoMensual: 032000
+20211122 21:22:48 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211122 21:22:48 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:22:48 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:22:48 writeLogResult
+  --> msg: Result: 
+20211122 21:22:48 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:22:48 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:22:48 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:22:48 writeLogResult
+  --> msg: ID: 23
+20211122 21:26:49 writeLogParametros
+  --> msg: Parametros: 
+20211122 21:26:49 writeLogParametros
+  --> msg: idProspecto: 
+20211122 21:26:49 writeLogParametros
+  --> msg: nombres: Canela
+20211122 21:26:49 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211122 21:26:49 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20211122 21:26:49 writeLogParametros
+  --> msg: genero: Mujer
+20211122 21:26:49 writeLogParametros
+  --> msg: fechaNacimiento: 4/9/1980
+20211122 21:26:49 writeLogParametros
+  --> msg: rfc: EICC8009041B6
+20211122 21:26:49 writeLogParametros
+  --> msg: idCodigoPostal: 74567
+20211122 21:26:49 writeLogParametros
+  --> msg: calleyNo: VALLECITO
+20211122 21:26:49 writeLogParametros
+  --> msg: celular: 4624202462
+20211122 21:26:49 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211122 21:26:49 writeLogParametros
+  --> msg: enviarAvisoPor: Correo
+20211122 21:26:49 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211122 21:26:49 writeLogParametros
+  --> msg: tipoCredito: Mejorar mi crédito actual
+20211122 21:26:49 writeLogParametros
+  --> msg: ingresoMensual: 27000
+20211122 21:26:49 writeLogParametros
+  --> msg: valorAproximado: Entre $2 millones y $3 millones
+20211122 21:26:49 writeLogParametros
+  --> msg: domicilio: 
+20211122 21:26:49 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211122 21:26:49 writeLogResult
+  --> msg: Result: 
+20211122 21:26:49 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211122 21:26:49 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211122 21:26:49 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211122 21:26:49 writeLogResult
+  --> msg: ID: 24

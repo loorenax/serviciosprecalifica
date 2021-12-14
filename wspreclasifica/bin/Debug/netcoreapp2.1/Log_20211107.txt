@@ -1,0 +1,26 @@
+20211107 15:39:04 getColoniasPorCP
+  --> msg: 
+  --> exception: The stored procedure 'sys_GetParametroSP' doesn't exist.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlCommand.DeriveParameters()
+   at System.Data.SqlClient.SqlCommandBuilder.DeriveParameters(SqlCommand command)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.DiscoverSpParameterSet(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSetInternal(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at wspreclasifica.Datos.Cnxn.SetFormatDyDatos(Dictionary`2 _DyDatos, String spname) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Datos\Cnxn.cs:line 29
+   at wspreclasifica.Datos.PreClasifica.getColoniasByCP(String _codigoPostal) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Datos\PreClasifica.cs:line 22
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.getColoniasPorCP(String codigoPostal) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 38
+20211107 15:40:06 getColoniasPorCP
+  --> msg: 
+  --> exception: The stored procedure 'sys_GetParametroSP' doesn't exist.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlCommand.DeriveParameters()
+   at System.Data.SqlClient.SqlCommandBuilder.DeriveParameters(SqlCommand command)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.DiscoverSpParameterSet(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSetInternal(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at wspreclasifica.Datos.Cnxn.SetFormatDyDatos(Dictionary`2 _DyDatos, String spname) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Datos\Cnxn.cs:line 29
+   at wspreclasifica.Datos.PreClasifica.getColoniasByCP(String _codigoPostal) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Datos\PreClasifica.cs:line 22
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.getColoniasPorCP(String codigoPostal) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 38

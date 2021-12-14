@@ -1,0 +1,26 @@
+20211117 21:19:16 validarCirculoCredito
+  --> msg: 
+  --> exception: UNAUTHORIZED
+
+Status: 401
+Response: 
+
+  --> source: wspreclasifica
+  --> stacktrace:    at ClienteCirculoCreditoPRD.Client.GetReporteCreditoPMAsync(String x_signature, String x_api_key, String username, String password, PersonaPeticion body, CancellationToken cancellationToken) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 158
+   at ClienteCirculoCreditoPRD.Client.<>c__DisplayClass15_0.<<GetReporteCreditoPM>b__0>d.MoveNext() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 63
+--- End of stack trace from previous location where exception was thrown ---
+   at ClienteCirculoCreditoPRD.Client.GetReporteCreditoPM(String x_signature, String x_api_key, String username, String password, PersonaPeticion body) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 63
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.validarCirculoCredito(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 244
+20211117 21:21:16 validarCirculoCredito
+  --> msg: 
+  --> exception: NOT FOUND
+
+Status: 404
+Response: 
+
+  --> source: wspreclasifica
+  --> stacktrace:    at ClienteCirculoCreditoPRD.Client.GetReporteCreditoPMAsyncDEV(String x_api_key, PersonaPeticion body, CancellationToken cancellationToken) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 338
+   at ClienteCirculoCreditoPRD.Client.<>c__DisplayClass17_0.<<GetReporteCreditoPMDEV>b__0>d.MoveNext() in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 235
+--- End of stack trace from previous location where exception was thrown ---
+   at ClienteCirculoCreditoPRD.Client.GetReporteCreditoPMDEV(String x_api_key, PersonaPeticion body) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Services\ClienteCirculoCredito.cs:line 235
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.validarCirculoCredito(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\wspreclasifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 254

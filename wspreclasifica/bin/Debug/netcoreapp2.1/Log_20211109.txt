@@ -1,0 +1,210 @@
+20211109 20:23:17 writeLogParametros
+  --> msg: Parametros: 
+20211109 20:23:17 writeLogParametros
+  --> msg: idProspecto: 
+20211109 20:23:17 writeLogParametros
+  --> msg: nombres: Canelita
+20211109 20:23:17 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211109 20:23:17 writeLogParametros
+  --> msg: segundoApellido: 
+20211109 20:23:17 writeLogParametros
+  --> msg: genero: Mujer
+20211109 20:23:17 writeLogParametros
+  --> msg: fechaNacimiento: 25/9/1999
+20211109 20:23:17 writeLogParametros
+  --> msg: rfc: EICC
+20211109 20:23:17 writeLogParametros
+  --> msg: idCodigoPostal: 74570
+20211109 20:23:17 writeLogParametros
+  --> msg: calleyNo: Danubio 128a
+20211109 20:23:17 writeLogParametros
+  --> msg: celular: 462
+20211109 20:23:17 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211109 20:23:17 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211109 20:23:17 writeLogParametros
+  --> msg: queBuscas: Adquirir un inmueble
+20211109 20:23:17 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211109 20:23:17 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211109 20:23:18 writeLogResult
+  --> msg: Result: 
+20211109 20:23:18 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211109 20:23:18 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211109 20:23:18 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211109 20:23:18 writeLogResult
+  --> msg: ID: 4
+20211109 20:30:49 writeLogParametros
+  --> msg: Parametros: 
+20211109 20:30:49 writeLogParametros
+  --> msg: idProspecto: 
+20211109 20:30:49 writeLogParametros
+  --> msg: nombres: Almendra
+20211109 20:30:49 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211109 20:30:49 writeLogParametros
+  --> msg: segundoApellido: 
+20211109 20:30:49 writeLogParametros
+  --> msg: genero: Mujer
+20211109 20:30:49 writeLogParametros
+  --> msg: fechaNacimiento: 28/7/2001
+20211109 20:30:49 writeLogParametros
+  --> msg: rfc: eica
+20211109 20:30:49 writeLogParametros
+  --> msg: idCodigoPostal: 74570
+20211109 20:30:49 writeLogParametros
+  --> msg: calleyNo: Danubio 128a
+20211109 20:30:49 writeLogParametros
+  --> msg: celular: 462
+20211109 20:30:49 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211109 20:30:49 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211109 20:30:49 writeLogParametros
+  --> msg: queBuscas: Adquirir un inmueble
+20211109 20:30:49 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211109 20:30:49 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211109 20:30:51 writeLogResult
+  --> msg: Result: 
+20211109 20:30:51 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211109 20:30:51 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211109 20:30:51 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211109 20:30:51 writeLogResult
+  --> msg: ID: 5
+20211109 20:38:24 writeLogParametros
+  --> msg: Parametros: 
+20211109 20:38:24 writeLogParametros
+  --> msg: idProspecto: 
+20211109 20:38:24 writeLogParametros
+  --> msg: nombres: Javier
+20211109 20:38:24 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211109 20:38:24 writeLogParametros
+  --> msg: segundoApellido: 
+20211109 20:38:24 writeLogParametros
+  --> msg: genero: Mujer
+20211109 20:38:24 writeLogParametros
+  --> msg: fechaNacimiento: 25/8/1999
+20211109 20:38:24 writeLogParametros
+  --> msg: rfc: EICJ
+20211109 20:38:24 writeLogParametros
+  --> msg: idCodigoPostal: 74565
+20211109 20:38:24 writeLogParametros
+  --> msg: calleyNo: Danubio 128a
+20211109 20:38:24 writeLogParametros
+  --> msg: celular: 462
+20211109 20:38:24 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211109 20:38:24 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211109 20:38:24 writeLogParametros
+  --> msg: queBuscas: Adquirir un inmueble
+20211109 20:38:24 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211109 20:38:24 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211109 20:38:25 writeLogResult
+  --> msg: Result: 
+20211109 20:38:25 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211109 20:38:25 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211109 20:38:25 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211109 20:38:25 writeLogResult
+  --> msg: ID: 6
+20211109 20:51:17 writeLogParametros
+  --> msg: Parametros: 
+20211109 20:51:17 writeLogParametros
+  --> msg: idProspecto: 
+20211109 20:51:17 writeLogParametros
+  --> msg: nombres: Canela
+20211109 20:51:17 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20211109 20:51:17 writeLogParametros
+  --> msg: segundoApellido: 
+20211109 20:51:17 writeLogParametros
+  --> msg: genero: Mujer
+20211109 20:51:17 writeLogParametros
+  --> msg: fechaNacimiento: 25/9/1980
+20211109 20:51:17 writeLogParametros
+  --> msg: rfc: EICC
+20211109 20:51:17 writeLogParametros
+  --> msg: idCodigoPostal: 74568
+20211109 20:51:17 writeLogParametros
+  --> msg: calleyNo: Danubio 128a
+20211109 20:51:17 writeLogParametros
+  --> msg: celular: 4662
+20211109 20:51:17 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211109 20:51:17 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211109 20:51:17 writeLogParametros
+  --> msg: queBuscas: Adquirir un inmueble
+20211109 20:51:17 writeLogParametros
+  --> msg: valorAproximado: Entre $900 mil y $2 millones
+20211109 20:51:17 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211109 20:51:18 writeLogResult
+  --> msg: Result: 
+20211109 20:51:18 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211109 20:51:18 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211109 20:51:18 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211109 20:51:18 writeLogResult
+  --> msg: ID: 7
+20211109 21:31:30 writeLogParametros
+  --> msg: Parametros: 
+20211109 21:31:30 writeLogParametros
+  --> msg: idProspecto: 
+20211109 21:31:30 writeLogParametros
+  --> msg: nombres: CANELA
+20211109 21:31:30 writeLogParametros
+  --> msg: primerApellido: ESPINOZA
+20211109 21:31:30 writeLogParametros
+  --> msg: segundoApellido: 
+20211109 21:31:30 writeLogParametros
+  --> msg: genero: Mujer
+20211109 21:31:30 writeLogParametros
+  --> msg: fechaNacimiento: 25/9/1995
+20211109 21:31:30 writeLogParametros
+  --> msg: rfc: EICC
+20211109 21:31:30 writeLogParametros
+  --> msg: idCodigoPostal: 74570
+20211109 21:31:30 writeLogParametros
+  --> msg: calleyNo: Danubio 128a
+20211109 21:31:30 writeLogParametros
+  --> msg: celular: 462
+20211109 21:31:30 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20211109 21:31:30 writeLogParametros
+  --> msg: codigoVerificacion: 
+20211109 21:31:30 writeLogParametros
+  --> msg: queBuscas: Adquirir un inmueble
+20211109 21:31:30 writeLogParametros
+  --> msg: valorAproximado: Menos de $900 mil
+20211109 21:31:30 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20211109 21:31:33 writeLogResult
+  --> msg: Result: 
+20211109 21:31:33 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20211109 21:31:33 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20211109 21:31:33 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20211109 21:31:33 writeLogResult
+  --> msg: ID: 8
