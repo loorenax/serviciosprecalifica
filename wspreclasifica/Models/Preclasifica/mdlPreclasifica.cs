@@ -22,6 +22,9 @@ namespace wspreclasifica.Models.Preclasifica
         public string correo { get; set; }
         public string enviarAvisoPor { get; set; }
 
+        public string idEstadoCivil { get; set; }
+        public string idActividad { get; set; }
+
         /********************   Para el registro de las preclasificaciones  **********************************/
         public string codigoVerificacion { get; set; }
         public string tipoCredito { get; set; }
@@ -30,5 +33,6 @@ namespace wspreclasifica.Models.Preclasifica
         
         public string domicilio { get; set; }
         public string resultadoPreclasificacion { get; set; }
+        public string tieneBuenHistorial { get; set; }
     }
 }

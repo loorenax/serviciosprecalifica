@@ -39,7 +39,6 @@ C:\Trabajo\Proyectos H\webservprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1
 C:\Trabajo\Proyectos H\webservprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.pdb
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\wspreclasifica.deps.json
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\wspreclasifica.runtimeconfig.json
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\wspreclasifica.runtimeconfig.dev.json
@@ -48,12 +47,15 @@ C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\System.Web.Entity.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\System.Web.Extensions.dll
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csprojAssemblyReference.cache
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.RazorAssemblyInfo.cache
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.RazorAssemblyInfo.cs
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.AssemblyReference.cache
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.GeneratedMSBuildEditorConfig.editorconfig
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.AssemblyInfoInputs.cache
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.AssemblyInfo.cs
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.CoreCompileInputs.cache
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.RazorAssemblyInfo.cache
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.RazorAssemblyInfo.cs
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.RazorTargetAssemblyInfo.cache
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.CopyComplete
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.pdb
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.genruntimeconfig.cache

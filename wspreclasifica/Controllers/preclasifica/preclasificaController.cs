@@ -307,6 +307,76 @@ namespace wspreclasifica.Controllers.preclasifica
         }
 
 
+        [HttpPost("setProspectoMalHistorial")]
+        public ActionResult<object> setProspectoMalHistorial([FromBody] mdlPreclasifica modelRegistro)
+        {
+            DataSet ds = new DataSet();
+
+            try
+            {
+                //ds = D_Laboratorio.ws_ResLab_getResultados(modelRegistro.CURP, modelRegistro.Fecha_Toma);
+                Dictionary<string, object> dydatos = Utilerias.Convert_Model_To_Dictionary(modelRegistro);
+                Utilerias.writeLogParametros(dydatos);
+
+                ds = dat.setProspecto(dydatos);
+
+                Utilerias.writeLogResult(ds.Tables["result"]);
+                if (ds.Tables["result"].Rows[0]["Estatus_Procedimiento"].ToString() == Utilerias._OK_)
+                {
+                    dydatos.Add("P_idProspecto", ds.Tables["result"].Rows[0]["ID"].ToString());
+                    DataSet dsotp = dat.setPreclasificacion(dydatos);
+
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Utilerias.WriteProblems(ex, null);
+            }
+
+
+            return Utilerias.DataSetToDictionaryArray(ds);
+        }
+
+
+        /// <summary>
+        /// Este se ejecuta despues de dar el codigo 
+        /// </summary>
+        /// <param name="modelRegistro"></param>
+        /// <returns></returns>
+        [HttpPost("setProspectoAutenticado")]
+        public ActionResult<object> setProspectoAutenticado([FromBody] mdlPreclasifica modelRegistro)
+        {
+            DataSet ds = new DataSet();
+
+            try
+            {
+                //ds = D_Laboratorio.ws_ResLab_getResultados(modelRegistro.CURP, modelRegistro.Fecha_Toma);
+                Dictionary<string, object> dydatos = Utilerias.Convert_Model_To_Dictionary(modelRegistro);
+                Utilerias.writeLogParametros(dydatos);
+
+                ds = dat.setProspecto(dydatos);
+
+                Utilerias.writeLogResult(ds.Tables["result"]);
+                if (ds.Tables["result"].Rows[0]["Estatus_Procedimiento"].ToString() == Utilerias._OK_)
+                {
+                    if (!dydatos.ContainsKey("P_idProspecto")) {
+                        dydatos.Add("P_idProspecto", ds.Tables["result"].Rows[0]["ID"].ToString());
+                    }
+                    
+                    DataSet dsotp = dat.setPreclasificacion(dydatos);
+
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Utilerias.WriteProblems(ex, null);
+            }
+
+
+            return Utilerias.DataSetToDictionaryArray(ds);
+        }
 
     }
 }

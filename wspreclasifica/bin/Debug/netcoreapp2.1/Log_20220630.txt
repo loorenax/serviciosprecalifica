@@ -1,0 +1,2874 @@
+20220630 13:55:13 writeLogParametros
+  --> msg: idProspecto: 
+20220630 13:55:13 writeLogParametros
+  --> msg: nombres: 
+20220630 13:55:13 writeLogParametros
+  --> msg: primerApellido: 
+20220630 13:55:13 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 13:55:13 writeLogParametros
+  --> msg: genero: 
+20220630 13:55:13 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 13:55:13 writeLogParametros
+  --> msg: rfc: 
+20220630 13:55:13 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 13:55:13 writeLogParametros
+  --> msg: calleyNo: 
+20220630 13:55:13 writeLogParametros
+  --> msg: celular: 
+20220630 13:55:13 writeLogParametros
+  --> msg: correo: 
+20220630 13:55:13 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 13:55:13 writeLogParametros
+  --> msg: idEstadoCivil: 
+20220630 13:55:13 writeLogParametros
+  --> msg: idActividad: 
+20220630 13:55:13 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 13:55:13 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 13:55:13 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 13:55:13 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 13:55:13 writeLogParametros
+  --> msg: domicilio: 
+20220630 13:55:13 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 13:55:13 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 13:55:14 writeLogResult
+  --> msg: Result: 
+20220630 13:55:14 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 13:55:14 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL RFC es obligatorio.
+20220630 13:55:14 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 13:55:14 writeLogResult
+  --> msg: ID: - vacío -
+20220630 13:57:12 writeLogParametros
+  --> msg: Parametros: 
+20220630 13:57:12 writeLogParametros
+  --> msg: idProspecto: 
+20220630 13:57:12 writeLogParametros
+  --> msg: nombres: 
+20220630 13:57:12 writeLogParametros
+  --> msg: primerApellido: 
+20220630 13:57:12 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 13:57:12 writeLogParametros
+  --> msg: genero: 
+20220630 13:57:12 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 13:57:12 writeLogParametros
+  --> msg: rfc: 
+20220630 13:57:12 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 13:57:12 writeLogParametros
+  --> msg: calleyNo: 
+20220630 13:57:12 writeLogParametros
+  --> msg: celular: 
+20220630 13:57:12 writeLogParametros
+  --> msg: correo: 
+20220630 13:57:12 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 13:57:12 writeLogParametros
+  --> msg: idEstadoCivil: 
+20220630 13:57:12 writeLogParametros
+  --> msg: idActividad: 
+20220630 13:57:12 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 13:57:12 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 13:57:12 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 13:57:12 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 13:57:12 writeLogParametros
+  --> msg: domicilio: 
+20220630 13:57:12 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 13:57:12 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 13:58:25 writeLogParametros
+  --> msg: Parametros: 
+20220630 13:58:25 writeLogParametros
+  --> msg: idProspecto: 
+20220630 13:58:25 writeLogParametros
+  --> msg: nombres: 
+20220630 13:58:25 writeLogParametros
+  --> msg: primerApellido: 
+20220630 13:58:25 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 13:58:25 writeLogParametros
+  --> msg: genero: 
+20220630 13:58:25 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 13:58:25 writeLogParametros
+  --> msg: rfc: 
+20220630 13:58:25 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 13:58:25 writeLogParametros
+  --> msg: calleyNo: 
+20220630 13:58:25 writeLogParametros
+  --> msg: celular: 
+20220630 13:58:25 writeLogParametros
+  --> msg: correo: 
+20220630 13:58:25 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 13:58:25 writeLogParametros
+  --> msg: idEstadoCivil: 
+20220630 13:58:25 writeLogParametros
+  --> msg: idActividad: 
+20220630 13:58:25 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 13:58:25 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 13:58:25 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 13:58:25 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 13:58:25 writeLogParametros
+  --> msg: domicilio: 
+20220630 13:58:25 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 13:58:25 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 13:58:27 writeLogResult
+  --> msg: Result: 
+20220630 13:58:27 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 13:58:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.<br>EL genero es obligatorio.<br>La colonia es obligatoria.<br>El celular es obligatorio.<br>El correo es obligatorio.
+20220630 13:58:27 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 13:58:27 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:04:40 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:04:40 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:04:40 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 14:04:40 writeLogParametros
+  --> msg: primerApellido: aaaaa
+20220630 14:04:40 writeLogParametros
+  --> msg: segundoApellido: aaaa
+20220630 14:04:40 writeLogParametros
+  --> msg: genero: 
+20220630 14:04:40 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:04:40 writeLogParametros
+  --> msg: rfc: 
+20220630 14:04:40 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:04:40 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:04:40 writeLogParametros
+  --> msg: celular: 
+20220630 14:04:40 writeLogParametros
+  --> msg: correo: 
+20220630 14:04:40 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:04:40 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:04:40 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:04:40 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:04:40 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:04:40 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:04:40 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:04:40 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:04:40 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:04:40 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:04:41 writeLogResult
+  --> msg: Result: 
+20220630 14:04:41 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 14:04:41 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL genero es obligatorio.<br>La colonia es obligatoria.<br>El celular es obligatorio.<br>El correo es obligatorio.
+20220630 14:04:41 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 14:04:41 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:07:14 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:07:14 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:07:14 writeLogParametros
+  --> msg: nombres: bbb
+20220630 14:07:14 writeLogParametros
+  --> msg: primerApellido: bbb
+20220630 14:07:14 writeLogParametros
+  --> msg: segundoApellido: bbb
+20220630 14:07:14 writeLogParametros
+  --> msg: genero: 
+20220630 14:07:14 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:07:14 writeLogParametros
+  --> msg: rfc: 
+20220630 14:07:14 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:07:14 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:07:14 writeLogParametros
+  --> msg: celular: 
+20220630 14:07:14 writeLogParametros
+  --> msg: correo: 
+20220630 14:07:14 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:07:14 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:07:14 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:07:14 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:07:14 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:07:14 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:07:14 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:07:14 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:07:14 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:07:14 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:07:23 writeLogResult
+  --> msg: Result: 
+20220630 14:07:23 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 14:07:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: La fecha de nacimiento es obligatoria.
+20220630 14:07:23 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 14:07:23 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:08:43 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:08:43 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:08:43 writeLogParametros
+  --> msg: nombres: ccc
+20220630 14:08:43 writeLogParametros
+  --> msg: primerApellido: ccc
+20220630 14:08:43 writeLogParametros
+  --> msg: segundoApellido: cc
+20220630 14:08:43 writeLogParametros
+  --> msg: genero: 
+20220630 14:08:43 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:08:43 writeLogParametros
+  --> msg: rfc: 
+20220630 14:08:43 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:08:43 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:08:43 writeLogParametros
+  --> msg: celular: 
+20220630 14:08:43 writeLogParametros
+  --> msg: correo: 
+20220630 14:08:43 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:08:43 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:08:43 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:08:43 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:08:43 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:08:43 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:08:43 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:08:43 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:08:43 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:08:43 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:08:44 writeLogResult
+  --> msg: Result: 
+20220630 14:08:44 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 14:08:44 writeLogResult
+  --> msg: Mensaje_Procedimiento: La fecha de nacimiento es obligatoria.
+20220630 14:08:44 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 14:08:44 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:10:36 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:10:36 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:10:36 writeLogParametros
+  --> msg: nombres: bbfff
+20220630 14:10:36 writeLogParametros
+  --> msg: primerApellido: ffff
+20220630 14:10:36 writeLogParametros
+  --> msg: segundoApellido: ff
+20220630 14:10:36 writeLogParametros
+  --> msg: genero: 
+20220630 14:10:36 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:10:36 writeLogParametros
+  --> msg: rfc: 
+20220630 14:10:36 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:10:36 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:10:36 writeLogParametros
+  --> msg: celular: 
+20220630 14:10:36 writeLogParametros
+  --> msg: correo: 
+20220630 14:10:36 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:10:36 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:10:36 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:10:36 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:10:36 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:10:36 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:10:36 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:10:36 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:10:36 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:10:36 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:10:36 writeLogResult
+  --> msg: Result: 
+20220630 14:10:36 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 14:10:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: La fecha de nacimiento es obligatoria.
+20220630 14:10:36 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 14:10:36 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:11:53 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:11:53 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:11:53 writeLogParametros
+  --> msg: nombres: ddsss
+20220630 14:11:53 writeLogParametros
+  --> msg: primerApellido: ssss
+20220630 14:11:53 writeLogParametros
+  --> msg: segundoApellido: ssss
+20220630 14:11:53 writeLogParametros
+  --> msg: genero: 
+20220630 14:11:53 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:11:53 writeLogParametros
+  --> msg: rfc: 
+20220630 14:11:53 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:11:53 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:11:53 writeLogParametros
+  --> msg: celular: 
+20220630 14:11:53 writeLogParametros
+  --> msg: correo: 
+20220630 14:11:53 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:11:53 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:11:53 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:11:53 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:11:53 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:11:53 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:11:53 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:11:53 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:11:53 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:11:53 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:11:53 writeLogResult
+  --> msg: Result: 
+20220630 14:11:53 writeLogResult
+  --> msg: Estatus_Procedimiento: ERROR
+20220630 14:11:53 writeLogResult
+  --> msg: Mensaje_Procedimiento:  No.Error: 515 Severidad: 16 Estado: 2 Procedimiento: prospectosSetProsp Linea Error: 172 Mensaje error: Cannot insert the value NULL into column 'genero', table 'db_a627a0_desapreclasifica.dbo.prospectos'; column does not allow nulls. INSERT fails.
+20220630 14:11:53 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:11:53 writeLogResult
+  --> msg: ID: - vacío -
+20220630 14:13:26 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:13:26 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:13:26 writeLogParametros
+  --> msg: nombres: vvv
+20220630 14:13:26 writeLogParametros
+  --> msg: primerApellido: vvv
+20220630 14:13:26 writeLogParametros
+  --> msg: segundoApellido: vvvv
+20220630 14:13:26 writeLogParametros
+  --> msg: genero: 
+20220630 14:13:26 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:13:26 writeLogParametros
+  --> msg: rfc: 
+20220630 14:13:26 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:13:26 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:13:26 writeLogParametros
+  --> msg: celular: 
+20220630 14:13:26 writeLogParametros
+  --> msg: correo: 
+20220630 14:13:26 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:13:26 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:13:26 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:13:26 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:13:26 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:13:26 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:13:26 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:13:26 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:13:26 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:13:26 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:13:27 writeLogResult
+  --> msg: Result: 
+20220630 14:13:27 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:13:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:13:27 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:13:27 writeLogResult
+  --> msg: ID: 1030
+20220630 14:16:00 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:16:00 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:16:00 writeLogParametros
+  --> msg: nombres: eeee
+20220630 14:16:00 writeLogParametros
+  --> msg: primerApellido: wwww
+20220630 14:16:00 writeLogParametros
+  --> msg: segundoApellido: eerrr
+20220630 14:16:00 writeLogParametros
+  --> msg: genero: 
+20220630 14:16:00 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:16:00 writeLogParametros
+  --> msg: rfc: 
+20220630 14:16:00 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:16:00 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:16:00 writeLogParametros
+  --> msg: celular: 
+20220630 14:16:00 writeLogParametros
+  --> msg: correo: 
+20220630 14:16:00 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:16:00 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:16:00 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:16:00 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:16:00 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:16:00 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:16:00 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:16:00 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:16:00 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:16:00 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:16:00 writeLogResult
+  --> msg: Result: 
+20220630 14:16:00 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:16:00 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:16:00 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:16:00 writeLogResult
+  --> msg: ID: 1031
+20220630 14:16:26 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:16:26 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:16:26 writeLogParametros
+  --> msg: nombres: Javito
+20220630 14:16:26 writeLogParametros
+  --> msg: primerApellido: espinoza
+20220630 14:16:26 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 14:16:26 writeLogParametros
+  --> msg: genero: 
+20220630 14:16:26 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:16:26 writeLogParametros
+  --> msg: rfc: 
+20220630 14:16:26 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:16:26 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:16:26 writeLogParametros
+  --> msg: celular: 
+20220630 14:16:26 writeLogParametros
+  --> msg: correo: 
+20220630 14:16:26 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:16:26 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:16:26 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:16:26 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:16:26 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:16:26 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:16:26 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:16:26 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:16:26 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:16:26 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:16:26 writeLogResult
+  --> msg: Result: 
+20220630 14:16:26 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:16:26 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:16:26 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:16:26 writeLogResult
+  --> msg: ID: 1032
+20220630 14:17:38 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:17:38 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:17:38 writeLogParametros
+  --> msg: nombres: Caneia
+20220630 14:17:38 writeLogParametros
+  --> msg: primerApellido: dssdsds
+20220630 14:17:38 writeLogParametros
+  --> msg: segundoApellido: ddsdsdsdsd
+20220630 14:17:38 writeLogParametros
+  --> msg: genero: 
+20220630 14:17:38 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:17:38 writeLogParametros
+  --> msg: rfc: 
+20220630 14:17:38 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:17:38 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:17:38 writeLogParametros
+  --> msg: celular: 
+20220630 14:17:38 writeLogParametros
+  --> msg: correo: 
+20220630 14:17:38 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:17:38 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:17:38 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:17:38 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:17:38 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:17:38 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:17:38 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:17:38 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:17:38 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:17:38 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:17:40 writeLogResult
+  --> msg: Result: 
+20220630 14:17:40 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:17:40 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:17:40 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:17:40 writeLogResult
+  --> msg: ID: 1033
+20220630 14:57:20 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:57:20 writeLogParametros
+  --> msg: idProspecto: 
+20220630 14:57:20 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 14:57:20 writeLogParametros
+  --> msg: primerApellido: aaaa
+20220630 14:57:20 writeLogParametros
+  --> msg: segundoApellido: aaaa
+20220630 14:57:20 writeLogParametros
+  --> msg: genero: 
+20220630 14:57:20 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:57:20 writeLogParametros
+  --> msg: rfc: 
+20220630 14:57:20 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:57:20 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:57:20 writeLogParametros
+  --> msg: celular: 462
+20220630 14:57:20 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 14:57:20 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:57:20 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:57:20 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:57:20 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:57:20 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:57:20 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:57:20 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:57:20 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:57:20 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:57:20 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:57:21 writeLogResult
+  --> msg: Result: 
+20220630 14:57:21 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:57:21 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:57:21 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:57:21 writeLogResult
+  --> msg: ID: 1034
+20220630 14:58:35 writeLogParametros
+  --> msg: Parametros: 
+20220630 14:58:35 writeLogParametros
+  --> msg: idProspecto: 1034
+20220630 14:58:35 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 14:58:35 writeLogParametros
+  --> msg: primerApellido: aaaa
+20220630 14:58:35 writeLogParametros
+  --> msg: segundoApellido: aaaa
+20220630 14:58:35 writeLogParametros
+  --> msg: genero: 
+20220630 14:58:35 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 14:58:35 writeLogParametros
+  --> msg: rfc: 
+20220630 14:58:35 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 14:58:35 writeLogParametros
+  --> msg: calleyNo: 
+20220630 14:58:35 writeLogParametros
+  --> msg: celular: 462
+20220630 14:58:35 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 14:58:35 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 14:58:35 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 14:58:35 writeLogParametros
+  --> msg: idActividad: 1
+20220630 14:58:35 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 14:58:35 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 14:58:35 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 14:58:35 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 14:58:35 writeLogParametros
+  --> msg: domicilio: 
+20220630 14:58:35 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 14:58:35 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 14:58:35 writeLogResult
+  --> msg: Result: 
+20220630 14:58:35 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 14:58:35 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 14:58:35 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 14:58:35 writeLogResult
+  --> msg: ID: 1035
+20220630 15:04:39 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:04:39 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:04:39 writeLogParametros
+  --> msg: nombres: xx
+20220630 15:04:39 writeLogParametros
+  --> msg: primerApellido: xxx
+20220630 15:04:39 writeLogParametros
+  --> msg: segundoApellido: xx
+20220630 15:04:39 writeLogParametros
+  --> msg: genero: 
+20220630 15:04:39 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:04:39 writeLogParametros
+  --> msg: rfc: 
+20220630 15:04:39 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:04:39 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:04:39 writeLogParametros
+  --> msg: celular: 462
+20220630 15:04:39 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:04:39 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:04:39 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:04:39 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:04:39 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:04:39 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:04:39 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:04:39 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:04:39 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:04:39 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:04:39 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:04:40 writeLogResult
+  --> msg: Result: 
+20220630 15:04:40 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:04:40 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:04:40 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:04:40 writeLogResult
+  --> msg: ID: 1036
+20220630 15:06:25 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:06:25 writeLogParametros
+  --> msg: idProspecto: 1036
+20220630 15:06:25 writeLogParametros
+  --> msg: nombres: xx
+20220630 15:06:25 writeLogParametros
+  --> msg: primerApellido: xxx
+20220630 15:06:25 writeLogParametros
+  --> msg: segundoApellido: xx
+20220630 15:06:25 writeLogParametros
+  --> msg: genero: 
+20220630 15:06:25 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:06:25 writeLogParametros
+  --> msg: rfc: 
+20220630 15:06:25 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:06:25 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:06:25 writeLogParametros
+  --> msg: celular: 462
+20220630 15:06:25 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:06:25 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:06:25 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:06:25 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:06:25 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:06:25 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:06:25 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:06:25 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:06:25 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:06:25 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:06:25 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:06:25 writeLogResult
+  --> msg: Result: 
+20220630 15:06:25 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:06:25 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:06:25 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:06:25 writeLogResult
+  --> msg: ID: 1037
+20220630 15:08:55 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:08:55 writeLogParametros
+  --> msg: idProspecto: 1037
+20220630 15:08:55 writeLogParametros
+  --> msg: nombres: xx
+20220630 15:08:55 writeLogParametros
+  --> msg: primerApellido: xxx
+20220630 15:08:55 writeLogParametros
+  --> msg: segundoApellido: xx
+20220630 15:08:55 writeLogParametros
+  --> msg: genero: 
+20220630 15:08:55 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:08:55 writeLogParametros
+  --> msg: rfc: 
+20220630 15:08:55 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:08:55 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:08:55 writeLogParametros
+  --> msg: celular: 462
+20220630 15:08:55 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:08:55 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:08:55 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:08:55 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:08:55 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:08:55 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:08:55 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:08:55 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:08:55 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:08:55 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:08:55 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:08:56 writeLogResult
+  --> msg: Result: 
+20220630 15:08:56 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:08:56 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:08:56 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:08:56 writeLogResult
+  --> msg: ID: 1038
+20220630 15:10:39 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:10:39 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:10:39 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 15:10:39 writeLogParametros
+  --> msg: primerApellido: aaa
+20220630 15:10:39 writeLogParametros
+  --> msg: segundoApellido: ssasasa
+20220630 15:10:39 writeLogParametros
+  --> msg: genero: 
+20220630 15:10:39 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:10:39 writeLogParametros
+  --> msg: rfc: 
+20220630 15:10:39 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:10:39 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:10:39 writeLogParametros
+  --> msg: celular: 462
+20220630 15:10:39 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:10:39 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:10:39 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:10:39 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:10:39 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:10:39 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:10:39 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:10:39 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:10:39 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:10:39 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:10:39 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:10:39 writeLogResult
+  --> msg: Result: 
+20220630 15:10:39 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:10:39 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:10:39 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:10:39 writeLogResult
+  --> msg: ID: 1039
+20220630 15:11:15 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:11:15 writeLogParametros
+  --> msg: idProspecto: 1039
+20220630 15:11:15 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 15:11:15 writeLogParametros
+  --> msg: primerApellido: aaa
+20220630 15:11:15 writeLogParametros
+  --> msg: segundoApellido: ssasasa
+20220630 15:11:15 writeLogParametros
+  --> msg: genero: 
+20220630 15:11:15 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:11:15 writeLogParametros
+  --> msg: rfc: 
+20220630 15:11:15 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:11:15 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:11:15 writeLogParametros
+  --> msg: celular: 462
+20220630 15:11:15 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:11:15 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:11:15 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:11:15 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:11:15 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:11:15 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:11:15 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:11:15 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:11:15 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:11:15 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:11:15 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:11:15 writeLogResult
+  --> msg: Result: 
+20220630 15:11:15 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:11:15 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:11:15 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:11:15 writeLogResult
+  --> msg: ID: 1040
+20220630 15:13:36 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:13:36 writeLogParametros
+  --> msg: idProspecto: 1040
+20220630 15:13:36 writeLogParametros
+  --> msg: nombres: aaaa
+20220630 15:13:36 writeLogParametros
+  --> msg: primerApellido: aaa
+20220630 15:13:36 writeLogParametros
+  --> msg: segundoApellido: ssasasa
+20220630 15:13:36 writeLogParametros
+  --> msg: genero: 
+20220630 15:13:36 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:13:36 writeLogParametros
+  --> msg: rfc: 
+20220630 15:13:36 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:13:36 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:13:36 writeLogParametros
+  --> msg: celular: 462
+20220630 15:13:36 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:13:36 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:13:36 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:13:36 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:13:36 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:13:36 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:13:36 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:13:36 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:13:36 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:13:36 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:13:36 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:13:36 writeLogResult
+  --> msg: Result: 
+20220630 15:13:36 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:13:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:13:36 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:13:36 writeLogResult
+  --> msg: ID: 1041
+20220630 15:30:46 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:30:46 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:30:46 writeLogParametros
+  --> msg: nombres: xxx
+20220630 15:30:46 writeLogParametros
+  --> msg: primerApellido: zxXz
+20220630 15:30:46 writeLogParametros
+  --> msg: segundoApellido: xzxzxz
+20220630 15:30:46 writeLogParametros
+  --> msg: genero: 
+20220630 15:30:46 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:30:46 writeLogParametros
+  --> msg: rfc: 
+20220630 15:30:46 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:30:46 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:30:46 writeLogParametros
+  --> msg: celular: 462
+20220630 15:30:46 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:30:46 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:30:46 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:30:46 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:30:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:30:46 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:30:46 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:30:46 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:30:46 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:30:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:30:46 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:30:51 writeLogResult
+  --> msg: Result: 
+20220630 15:30:51 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:30:51 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:30:51 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:30:51 writeLogResult
+  --> msg: ID: 1042
+20220630 15:37:42 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:37:42 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:37:42 writeLogParametros
+  --> msg: nombres: Javi
+20220630 15:37:42 writeLogParametros
+  --> msg: primerApellido: es
+20220630 15:37:42 writeLogParametros
+  --> msg: segundoApellido: cu
+20220630 15:37:42 writeLogParametros
+  --> msg: genero: 
+20220630 15:37:42 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:37:42 writeLogParametros
+  --> msg: rfc: 
+20220630 15:37:42 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:37:42 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:37:42 writeLogParametros
+  --> msg: celular: 462
+20220630 15:37:42 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:37:42 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:37:42 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:37:42 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:37:42 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:37:42 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:37:42 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:37:42 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:37:42 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:37:42 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:37:42 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:37:44 writeLogResult
+  --> msg: Result: 
+20220630 15:37:44 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:37:45 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:37:45 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:37:45 writeLogResult
+  --> msg: ID: 1043
+20220630 15:42:31 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:42:31 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:42:31 writeLogParametros
+  --> msg: nombres: Canelita
+20220630 15:42:31 writeLogParametros
+  --> msg: primerApellido: Cuevas
+20220630 15:42:31 writeLogParametros
+  --> msg: segundoApellido: Hernandez
+20220630 15:42:31 writeLogParametros
+  --> msg: genero: 
+20220630 15:42:31 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:42:31 writeLogParametros
+  --> msg: rfc: 
+20220630 15:42:31 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:42:31 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:42:31 writeLogParametros
+  --> msg: celular: 462
+20220630 15:42:31 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:42:31 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:42:31 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:42:31 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:42:31 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:42:31 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:42:31 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:42:31 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:42:31 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:42:31 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:42:31 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:42:31 writeLogResult
+  --> msg: Result: 
+20220630 15:42:31 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:42:31 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:42:31 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:42:31 writeLogResult
+  --> msg: ID: 1044
+20220630 15:51:05 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:51:05 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:51:05 writeLogParametros
+  --> msg: nombres: Canela
+20220630 15:51:05 writeLogParametros
+  --> msg: primerApellido: Her
+20220630 15:51:05 writeLogParametros
+  --> msg: segundoApellido: cue
+20220630 15:51:05 writeLogParametros
+  --> msg: genero: 
+20220630 15:51:05 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:51:05 writeLogParametros
+  --> msg: rfc: 
+20220630 15:51:05 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:51:05 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:51:05 writeLogParametros
+  --> msg: celular: 462
+20220630 15:51:05 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:51:05 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:51:05 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:51:05 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:51:05 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:51:05 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:51:05 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:51:05 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:51:05 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:51:05 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:51:05 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:51:06 writeLogResult
+  --> msg: Result: 
+20220630 15:51:06 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:51:06 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:51:06 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:51:06 writeLogResult
+  --> msg: ID: 1045
+20220630 15:52:31 writeLogParametros
+  --> msg: Parametros: 
+20220630 15:52:31 writeLogParametros
+  --> msg: idProspecto: 
+20220630 15:52:31 writeLogParametros
+  --> msg: nombres: cccc
+20220630 15:52:31 writeLogParametros
+  --> msg: primerApellido: ssss
+20220630 15:52:31 writeLogParametros
+  --> msg: segundoApellido: dddd
+20220630 15:52:31 writeLogParametros
+  --> msg: genero: 
+20220630 15:52:31 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 15:52:31 writeLogParametros
+  --> msg: rfc: 
+20220630 15:52:31 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 15:52:31 writeLogParametros
+  --> msg: calleyNo: 
+20220630 15:52:31 writeLogParametros
+  --> msg: celular: 462
+20220630 15:52:31 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 15:52:31 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 15:52:31 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 15:52:31 writeLogParametros
+  --> msg: idActividad: 1
+20220630 15:52:31 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 15:52:31 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 15:52:31 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 15:52:31 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 15:52:31 writeLogParametros
+  --> msg: domicilio: 
+20220630 15:52:31 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 15:52:31 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 15:52:33 writeLogResult
+  --> msg: Result: 
+20220630 15:52:33 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 15:52:33 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 15:52:33 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 15:52:33 writeLogResult
+  --> msg: ID: 1046
+20220630 16:26:08 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:26:08 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:26:08 writeLogParametros
+  --> msg: nombres: Cane 425
+20220630 16:26:08 writeLogParametros
+  --> msg: primerApellido: sd
+20220630 16:26:08 writeLogParametros
+  --> msg: segundoApellido: as
+20220630 16:26:08 writeLogParametros
+  --> msg: genero: 
+20220630 16:26:08 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:26:08 writeLogParametros
+  --> msg: rfc: 
+20220630 16:26:08 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:26:08 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:26:08 writeLogParametros
+  --> msg: celular: 462
+20220630 16:26:08 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 16:26:08 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:26:08 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:26:08 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:26:08 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:26:08 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:26:08 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:26:08 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 16:26:08 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:26:08 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:26:08 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:26:09 writeLogResult
+  --> msg: Result: 
+20220630 16:26:09 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:26:09 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:26:09 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:26:09 writeLogResult
+  --> msg: ID: 1047
+20220630 16:27:38 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:27:38 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:27:38 writeLogParametros
+  --> msg: nombres: ddd
+20220630 16:27:38 writeLogParametros
+  --> msg: primerApellido: dd
+20220630 16:27:38 writeLogParametros
+  --> msg: segundoApellido: saaa
+20220630 16:27:38 writeLogParametros
+  --> msg: genero: 
+20220630 16:27:38 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:27:38 writeLogParametros
+  --> msg: rfc: 
+20220630 16:27:38 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:27:38 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:27:38 writeLogParametros
+  --> msg: celular: 462
+20220630 16:27:38 writeLogParametros
+  --> msg: correo: loorenax@hotmail.com
+20220630 16:27:38 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:27:38 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:27:38 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:27:38 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:27:38 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:27:38 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:27:38 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 16:27:38 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:27:38 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:27:38 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:27:38 writeLogResult
+  --> msg: Result: 
+20220630 16:27:38 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:27:38 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:27:38 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:27:38 writeLogResult
+  --> msg: ID: 1048
+20220630 16:32:54 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:32:54 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:32:54 writeLogParametros
+  --> msg: nombres: Almendra
+20220630 16:32:54 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 16:32:54 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 16:32:54 writeLogParametros
+  --> msg: genero: 
+20220630 16:32:54 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:32:54 writeLogParametros
+  --> msg: rfc: 
+20220630 16:32:54 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:32:54 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:32:54 writeLogParametros
+  --> msg: celular: 462
+20220630 16:32:54 writeLogParametros
+  --> msg: correo: almendra@hotmail.com
+20220630 16:32:54 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:32:54 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:32:54 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:32:54 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:32:54 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220630 16:32:54 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:32:54 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 16:32:54 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:32:54 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:32:54 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:32:54 writeLogResult
+  --> msg: Result: 
+20220630 16:32:54 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:32:54 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:32:54 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:32:54 writeLogResult
+  --> msg: ID: 1049
+20220630 16:45:34 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:45:34 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:45:34 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:45:34 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 16:45:34 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 16:45:34 writeLogParametros
+  --> msg: genero: 
+20220630 16:45:34 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:45:34 writeLogParametros
+  --> msg: rfc: 
+20220630 16:45:34 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:45:34 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:45:34 writeLogParametros
+  --> msg: celular: 461
+20220630 16:45:34 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:45:34 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:45:34 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:45:34 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:45:34 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:45:34 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:45:34 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:45:34 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 16:45:34 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:45:34 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:45:34 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:45:36 writeLogResult
+  --> msg: Result: 
+20220630 16:45:36 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:45:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:45:36 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:45:36 writeLogResult
+  --> msg: ID: 1050
+20220630 16:46:00 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:46:00 writeLogParametros
+  --> msg: idProspecto: 1050
+20220630 16:46:00 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:46:00 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 16:46:00 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 16:46:00 writeLogParametros
+  --> msg: genero: 
+20220630 16:46:00 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:46:00 writeLogParametros
+  --> msg: rfc: 
+20220630 16:46:00 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:46:00 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:46:00 writeLogParametros
+  --> msg: celular: 461
+20220630 16:46:00 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:46:00 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:46:00 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:46:00 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:46:00 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:46:00 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:46:00 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:46:00 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 16:46:00 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:46:00 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:46:00 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:46:00 writeLogResult
+  --> msg: Result: 
+20220630 16:46:00 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:46:00 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:46:00 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:46:00 writeLogResult
+  --> msg: ID: 1051
+20220630 16:46:52 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:46:52 writeLogParametros
+  --> msg: idProspecto: 1051
+20220630 16:46:52 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:46:52 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 16:46:52 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 16:46:52 writeLogParametros
+  --> msg: genero: 
+20220630 16:46:52 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:46:52 writeLogParametros
+  --> msg: rfc: 
+20220630 16:46:52 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:46:52 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:46:52 writeLogParametros
+  --> msg: celular: 461
+20220630 16:46:52 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:46:52 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:46:52 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:46:52 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:46:52 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:46:52 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:46:52 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:46:52 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 16:46:52 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:46:52 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:46:52 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:46:52 writeLogResult
+  --> msg: Result: 
+20220630 16:46:52 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:46:52 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:46:52 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:46:52 writeLogResult
+  --> msg: ID: 1052
+20220630 16:47:07 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:47:07 writeLogParametros
+  --> msg: idProspecto: 1052
+20220630 16:47:07 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:47:07 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 16:47:07 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220630 16:47:07 writeLogParametros
+  --> msg: genero: 
+20220630 16:47:07 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:47:07 writeLogParametros
+  --> msg: rfc: 
+20220630 16:47:07 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:47:07 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:47:07 writeLogParametros
+  --> msg: celular: 461
+20220630 16:47:07 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:47:07 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:47:07 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:47:07 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:47:07 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:47:07 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:47:07 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:47:07 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 16:47:07 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:47:07 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:47:07 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:47:07 writeLogResult
+  --> msg: Result: 
+20220630 16:47:07 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:47:07 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:47:07 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:47:07 writeLogResult
+  --> msg: ID: 1053
+20220630 16:48:10 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:48:10 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:48:10 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:48:10 writeLogParametros
+  --> msg: primerApellido: Juarez
+20220630 16:48:10 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 16:48:10 writeLogParametros
+  --> msg: genero: 
+20220630 16:48:10 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:48:10 writeLogParametros
+  --> msg: rfc: 
+20220630 16:48:10 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:48:10 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:48:10 writeLogParametros
+  --> msg: celular: 461
+20220630 16:48:10 writeLogParametros
+  --> msg: correo: juanita@hotmail.com
+20220630 16:48:10 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:48:10 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:48:10 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:48:10 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:48:10 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:48:10 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:48:10 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 16:48:10 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:48:10 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:48:10 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:48:24 writeLogResult
+  --> msg: Result: 
+20220630 16:48:24 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:48:24 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:48:24 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:48:24 writeLogResult
+  --> msg: ID: 1054
+20220630 16:48:43 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:48:43 writeLogParametros
+  --> msg: idProspecto: 1054
+20220630 16:48:43 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:48:43 writeLogParametros
+  --> msg: primerApellido: Juarez
+20220630 16:48:43 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 16:48:43 writeLogParametros
+  --> msg: genero: 
+20220630 16:48:43 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:48:43 writeLogParametros
+  --> msg: rfc: 
+20220630 16:48:43 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:48:43 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:48:43 writeLogParametros
+  --> msg: celular: 461
+20220630 16:48:43 writeLogParametros
+  --> msg: correo: juanita@hotmail.com
+20220630 16:48:43 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:48:43 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:48:43 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:48:43 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:48:43 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:48:43 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:48:43 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 16:48:43 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:48:43 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:48:43 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220630 16:48:43 writeLogResult
+  --> msg: Result: 
+20220630 16:48:43 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:48:43 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:48:43 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:48:43 writeLogResult
+  --> msg: ID: 1055
+20220630 16:52:57 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:52:57 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:52:57 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:52:57 writeLogParametros
+  --> msg: primerApellido: JJ
+20220630 16:52:57 writeLogParametros
+  --> msg: segundoApellido: ll
+20220630 16:52:57 writeLogParametros
+  --> msg: genero: 
+20220630 16:52:57 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:52:57 writeLogParametros
+  --> msg: rfc: 
+20220630 16:52:57 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:52:57 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:52:57 writeLogParametros
+  --> msg: celular: 462
+20220630 16:52:57 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:52:57 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:52:57 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:52:57 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:52:57 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:52:57 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:52:57 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:52:57 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 16:52:57 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:52:57 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:52:57 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 16:52:57 writeLogResult
+  --> msg: Result: 
+20220630 16:52:57 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:52:57 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:52:57 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:52:57 writeLogResult
+  --> msg: ID: 1056
+20220630 16:53:11 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:53:11 writeLogParametros
+  --> msg: idProspecto: 1056
+20220630 16:53:11 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 16:53:11 writeLogParametros
+  --> msg: primerApellido: JJ
+20220630 16:53:11 writeLogParametros
+  --> msg: segundoApellido: ll
+20220630 16:53:11 writeLogParametros
+  --> msg: genero: 
+20220630 16:53:11 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:53:11 writeLogParametros
+  --> msg: rfc: 
+20220630 16:53:11 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:53:11 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:53:11 writeLogParametros
+  --> msg: celular: 462
+20220630 16:53:11 writeLogParametros
+  --> msg: correo: juanita@gmail.com
+20220630 16:53:11 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:53:11 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:53:11 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:53:11 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:53:11 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:53:11 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:53:11 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 16:53:11 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:53:11 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:53:11 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 16:53:12 writeLogResult
+  --> msg: Result: 
+20220630 16:53:12 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:53:12 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:53:12 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:53:12 writeLogResult
+  --> msg: ID: 1057
+20220630 16:58:00 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:58:00 writeLogParametros
+  --> msg: idProspecto: 
+20220630 16:58:00 writeLogParametros
+  --> msg: nombres: Joselito
+20220630 16:58:00 writeLogParametros
+  --> msg: primerApellido: Perez
+20220630 16:58:00 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 16:58:00 writeLogParametros
+  --> msg: genero: 
+20220630 16:58:00 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:58:00 writeLogParametros
+  --> msg: rfc: 
+20220630 16:58:00 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:58:00 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:58:00 writeLogParametros
+  --> msg: celular: 465
+20220630 16:58:00 writeLogParametros
+  --> msg: correo: joselito@gmail.com
+20220630 16:58:00 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:58:00 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:58:00 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:58:00 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:58:00 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:58:00 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:58:00 writeLogParametros
+  --> msg: valorAproximado: De $4 millones o más…
+20220630 16:58:00 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:58:00 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:58:00 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 16:58:02 writeLogResult
+  --> msg: Result: 
+20220630 16:58:02 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:58:02 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:58:02 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:58:02 writeLogResult
+  --> msg: ID: 1058
+20220630 16:58:25 writeLogParametros
+  --> msg: Parametros: 
+20220630 16:58:25 writeLogParametros
+  --> msg: idProspecto: 1058
+20220630 16:58:25 writeLogParametros
+  --> msg: nombres: Joselito
+20220630 16:58:25 writeLogParametros
+  --> msg: primerApellido: Perez
+20220630 16:58:25 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 16:58:25 writeLogParametros
+  --> msg: genero: 
+20220630 16:58:25 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 16:58:25 writeLogParametros
+  --> msg: rfc: 
+20220630 16:58:25 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 16:58:25 writeLogParametros
+  --> msg: calleyNo: 
+20220630 16:58:25 writeLogParametros
+  --> msg: celular: 465
+20220630 16:58:25 writeLogParametros
+  --> msg: correo: joselito@gmail.com
+20220630 16:58:25 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 16:58:25 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 16:58:25 writeLogParametros
+  --> msg: idActividad: 1
+20220630 16:58:25 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 16:58:25 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 16:58:25 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 16:58:25 writeLogParametros
+  --> msg: valorAproximado: De $4 millones o más…
+20220630 16:58:25 writeLogParametros
+  --> msg: domicilio: 
+20220630 16:58:25 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 16:58:25 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 16:58:26 writeLogResult
+  --> msg: Result: 
+20220630 16:58:26 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 16:58:26 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 16:58:26 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 16:58:26 writeLogResult
+  --> msg: ID: 1059
+20220630 17:05:41 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:05:41 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:05:41 writeLogParametros
+  --> msg: nombres: Jacinto
+20220630 17:05:41 writeLogParametros
+  --> msg: primerApellido: K
+20220630 17:05:41 writeLogParametros
+  --> msg: segundoApellido: P
+20220630 17:05:41 writeLogParametros
+  --> msg: genero: 
+20220630 17:05:41 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:05:41 writeLogParametros
+  --> msg: rfc: 
+20220630 17:05:41 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:05:41 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:05:41 writeLogParametros
+  --> msg: celular: 
+20220630 17:05:41 writeLogParametros
+  --> msg: correo: 
+20220630 17:05:41 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:05:41 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:05:41 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:05:41 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:05:41 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20220630 17:05:41 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:05:41 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 17:05:41 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:05:41 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:05:41 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:05:43 writeLogResult
+  --> msg: Result: 
+20220630 17:05:43 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:05:43 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:05:43 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:05:43 writeLogResult
+  --> msg: ID: 1060
+20220630 17:05:43 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Parameter count does not match Parameter Value count.
+  --> source: Microsoft.ApplicationBlocks.Data
+  --> stacktrace:    at Microsoft.ApplicationBlocks.Data.SqlHelper.AssignParameterValues(SqlParameter[] commandParameters, Object[] parameterValues)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220630 17:09:13 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:09:13 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:09:13 writeLogParametros
+  --> msg: nombres: xxxx
+20220630 17:09:13 writeLogParametros
+  --> msg: primerApellido: zxz
+20220630 17:09:13 writeLogParametros
+  --> msg: segundoApellido: XZxz
+20220630 17:09:13 writeLogParametros
+  --> msg: genero: 
+20220630 17:09:13 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:09:13 writeLogParametros
+  --> msg: rfc: 
+20220630 17:09:13 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:09:13 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:09:13 writeLogParametros
+  --> msg: celular: 
+20220630 17:09:13 writeLogParametros
+  --> msg: correo: 
+20220630 17:09:13 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:09:13 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:09:13 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:09:13 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:09:13 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:09:13 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:09:13 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 17:09:13 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:09:13 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:09:13 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:09:42 writeLogResult
+  --> msg: Result: 
+20220630 17:09:42 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:09:42 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:09:42 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:09:42 writeLogResult
+  --> msg: ID: 1061
+20220630 17:10:08 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Parameter count does not match Parameter Value count.
+  --> source: Microsoft.ApplicationBlocks.Data
+  --> stacktrace:    at Microsoft.ApplicationBlocks.Data.SqlHelper.AssignParameterValues(SqlParameter[] commandParameters, Object[] parameterValues)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220630 17:10:52 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:10:52 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:10:52 writeLogParametros
+  --> msg: nombres: xzxzxz
+20220630 17:10:52 writeLogParametros
+  --> msg: primerApellido: xzxzx
+20220630 17:10:52 writeLogParametros
+  --> msg: segundoApellido: xzxzx
+20220630 17:10:52 writeLogParametros
+  --> msg: genero: 
+20220630 17:10:52 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:10:52 writeLogParametros
+  --> msg: rfc: 
+20220630 17:10:52 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:10:52 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:10:52 writeLogParametros
+  --> msg: celular: 
+20220630 17:10:52 writeLogParametros
+  --> msg: correo: 
+20220630 17:10:52 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:10:52 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:10:52 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:10:52 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:10:52 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:10:52 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:10:52 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 17:10:52 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:10:52 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:10:52 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:10:52 writeLogResult
+  --> msg: Result: 
+20220630 17:10:52 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:10:52 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:10:52 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:10:52 writeLogResult
+  --> msg: ID: 1062
+20220630 17:10:52 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Parameter count does not match Parameter Value count.
+  --> source: Microsoft.ApplicationBlocks.Data
+  --> stacktrace:    at Microsoft.ApplicationBlocks.Data.SqlHelper.AssignParameterValues(SqlParameter[] commandParameters, Object[] parameterValues)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220630 17:11:21 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:11:21 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:11:21 writeLogParametros
+  --> msg: nombres: xxsxscccz
+20220630 17:11:21 writeLogParametros
+  --> msg: primerApellido: sa
+20220630 17:11:21 writeLogParametros
+  --> msg: segundoApellido: sas
+20220630 17:11:21 writeLogParametros
+  --> msg: genero: 
+20220630 17:11:21 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:11:21 writeLogParametros
+  --> msg: rfc: 
+20220630 17:11:21 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:11:21 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:11:21 writeLogParametros
+  --> msg: celular: 
+20220630 17:11:21 writeLogParametros
+  --> msg: correo: 
+20220630 17:11:21 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:11:21 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:11:21 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:11:21 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:11:21 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:11:21 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:11:21 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 17:11:21 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:11:21 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:11:21 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:11:22 writeLogResult
+  --> msg: Result: 
+20220630 17:11:22 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:11:22 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:11:22 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:11:22 writeLogResult
+  --> msg: ID: 1063
+20220630 17:21:01 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:21:01 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:21:01 writeLogParametros
+  --> msg: nombres: ramoncito
+20220630 17:21:01 writeLogParametros
+  --> msg: primerApellido: aas
+20220630 17:21:01 writeLogParametros
+  --> msg: segundoApellido: sdaa
+20220630 17:21:01 writeLogParametros
+  --> msg: genero: 
+20220630 17:21:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:21:01 writeLogParametros
+  --> msg: rfc: 
+20220630 17:21:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:21:01 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:21:01 writeLogParametros
+  --> msg: celular: 
+20220630 17:21:01 writeLogParametros
+  --> msg: correo: 
+20220630 17:21:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:21:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:21:01 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:21:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:21:01 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:21:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:21:01 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 17:21:01 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:21:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:21:01 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:21:03 writeLogResult
+  --> msg: Result: 
+20220630 17:21:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:21:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:21:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:21:03 writeLogResult
+  --> msg: ID: 1064
+20220630 17:24:50 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:24:50 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:24:50 writeLogParametros
+  --> msg: nombres: vvxvv
+20220630 17:24:50 writeLogParametros
+  --> msg: primerApellido: 
+20220630 17:24:50 writeLogParametros
+  --> msg: segundoApellido: 
+20220630 17:24:50 writeLogParametros
+  --> msg: genero: 
+20220630 17:24:50 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:24:50 writeLogParametros
+  --> msg: rfc: 
+20220630 17:24:50 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:24:50 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:24:50 writeLogParametros
+  --> msg: celular: 
+20220630 17:24:50 writeLogParametros
+  --> msg: correo: 
+20220630 17:24:50 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:24:50 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:24:50 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:24:50 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:24:50 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220630 17:24:50 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:24:50 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $2 millones
+20220630 17:24:50 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:24:50 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:24:50 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:24:50 writeLogResult
+  --> msg: Result: 
+20220630 17:24:50 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220630 17:24:50 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL primer apellido es obligatorio.
+20220630 17:24:50 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220630 17:24:50 writeLogResult
+  --> msg: ID: - vacío -
+20220630 17:32:50 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:32:50 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:32:50 writeLogParametros
+  --> msg: nombres: Javier
+20220630 17:32:50 writeLogParametros
+  --> msg: primerApellido: Sanchez
+20220630 17:32:50 writeLogParametros
+  --> msg: segundoApellido: P
+20220630 17:32:50 writeLogParametros
+  --> msg: genero: 
+20220630 17:32:50 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:32:50 writeLogParametros
+  --> msg: rfc: 
+20220630 17:32:50 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:32:50 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:32:50 writeLogParametros
+  --> msg: celular: 
+20220630 17:32:50 writeLogParametros
+  --> msg: correo: 
+20220630 17:32:50 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:32:50 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:32:50 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:32:50 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:32:50 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:32:50 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:32:50 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 17:32:50 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:32:50 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:32:50 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:32:56 writeLogResult
+  --> msg: Result: 
+20220630 17:32:56 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:32:56 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:32:56 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:32:56 writeLogResult
+  --> msg: ID: 1065
+20220630 17:33:09 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:33:09 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:33:09 writeLogParametros
+  --> msg: nombres: ccc
+20220630 17:33:09 writeLogParametros
+  --> msg: primerApellido: zxx
+20220630 17:33:09 writeLogParametros
+  --> msg: segundoApellido: xzxx
+20220630 17:33:09 writeLogParametros
+  --> msg: genero: 
+20220630 17:33:09 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:33:09 writeLogParametros
+  --> msg: rfc: 
+20220630 17:33:09 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:33:09 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:33:09 writeLogParametros
+  --> msg: celular: 
+20220630 17:33:09 writeLogParametros
+  --> msg: correo: 
+20220630 17:33:09 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:33:09 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:33:09 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:33:09 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:33:09 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220630 17:33:09 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:33:09 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 17:33:09 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:33:09 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:33:09 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:33:19 writeLogResult
+  --> msg: Result: 
+20220630 17:33:19 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:33:19 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:33:19 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:33:19 writeLogResult
+  --> msg: ID: 1066
+20220630 17:43:00 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:43:00 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:43:00 writeLogParametros
+  --> msg: nombres: Diego Javier
+20220630 17:43:00 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 17:43:00 writeLogParametros
+  --> msg: segundoApellido: Caudillo
+20220630 17:43:00 writeLogParametros
+  --> msg: genero: 
+20220630 17:43:00 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:43:00 writeLogParametros
+  --> msg: rfc: 
+20220630 17:43:00 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:43:00 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:43:00 writeLogParametros
+  --> msg: celular: 462
+20220630 17:43:00 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220630 17:43:00 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:43:00 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:43:00 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:43:00 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:43:00 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20220630 17:43:00 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:43:00 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 17:43:00 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:43:00 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:43:00 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 17:43:01 writeLogResult
+  --> msg: Result: 
+20220630 17:43:01 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:43:01 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:43:01 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:43:01 writeLogResult
+  --> msg: ID: 1067
+20220630 17:53:21 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:53:21 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:53:21 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 17:53:21 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 17:53:21 writeLogParametros
+  --> msg: segundoApellido: Caudillo
+20220630 17:53:21 writeLogParametros
+  --> msg: genero: 
+20220630 17:53:21 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:53:21 writeLogParametros
+  --> msg: rfc: 
+20220630 17:53:21 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:53:21 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:53:21 writeLogParametros
+  --> msg: celular: 462
+20220630 17:53:21 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220630 17:53:21 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:53:21 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:53:21 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:53:21 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:53:21 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:53:21 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:53:21 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 17:53:21 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:53:21 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:53:21 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 17:53:22 writeLogResult
+  --> msg: Result: 
+20220630 17:53:22 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:53:22 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:53:22 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:53:22 writeLogResult
+  --> msg: ID: 1068
+20220630 17:54:27 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:54:27 writeLogParametros
+  --> msg: idProspecto: 1068
+20220630 17:54:27 writeLogParametros
+  --> msg: nombres: Juanita
+20220630 17:54:27 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220630 17:54:27 writeLogParametros
+  --> msg: segundoApellido: Caudillo
+20220630 17:54:27 writeLogParametros
+  --> msg: genero: 
+20220630 17:54:27 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:54:27 writeLogParametros
+  --> msg: rfc: 
+20220630 17:54:27 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:54:27 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:54:27 writeLogParametros
+  --> msg: celular: 462
+20220630 17:54:27 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220630 17:54:27 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:54:27 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:54:27 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:54:27 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:54:27 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 17:54:27 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:54:27 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 17:54:27 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:54:27 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:54:27 writeLogParametros
+  --> msg: tieneBuenHistorial: true
+20220630 17:54:27 writeLogResult
+  --> msg: Result: 
+20220630 17:54:27 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:54:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:54:27 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:54:27 writeLogResult
+  --> msg: ID: 1069
+20220630 17:57:07 writeLogParametros
+  --> msg: Parametros: 
+20220630 17:57:08 writeLogParametros
+  --> msg: idProspecto: 
+20220630 17:57:08 writeLogParametros
+  --> msg: nombres: Joselito
+20220630 17:57:08 writeLogParametros
+  --> msg: primerApellido: Rodriguez
+20220630 17:57:08 writeLogParametros
+  --> msg: segundoApellido: Perez
+20220630 17:57:08 writeLogParametros
+  --> msg: genero: 
+20220630 17:57:08 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 17:57:08 writeLogParametros
+  --> msg: rfc: 
+20220630 17:57:08 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 17:57:08 writeLogParametros
+  --> msg: calleyNo: 
+20220630 17:57:08 writeLogParametros
+  --> msg: celular: 
+20220630 17:57:08 writeLogParametros
+  --> msg: correo: 
+20220630 17:57:08 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 17:57:08 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 17:57:08 writeLogParametros
+  --> msg: idActividad: 1
+20220630 17:57:08 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 17:57:08 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220630 17:57:08 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 17:57:08 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20220630 17:57:08 writeLogParametros
+  --> msg: domicilio: 
+20220630 17:57:08 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 17:57:08 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 17:57:08 writeLogResult
+  --> msg: Result: 
+20220630 17:57:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 17:57:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 17:57:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 17:57:08 writeLogResult
+  --> msg: ID: 1070
+20220630 18:00:03 writeLogParametros
+  --> msg: Parametros: 
+20220630 18:00:03 writeLogParametros
+  --> msg: idProspecto: 
+20220630 18:00:03 writeLogParametros
+  --> msg: nombres: sssssssss
+20220630 18:00:03 writeLogParametros
+  --> msg: primerApellido: aaaaaaaaaa
+20220630 18:00:03 writeLogParametros
+  --> msg: segundoApellido: ssssssssss
+20220630 18:00:03 writeLogParametros
+  --> msg: genero: 
+20220630 18:00:03 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 18:00:03 writeLogParametros
+  --> msg: rfc: 
+20220630 18:00:03 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 18:00:03 writeLogParametros
+  --> msg: calleyNo: 
+20220630 18:00:03 writeLogParametros
+  --> msg: celular: 
+20220630 18:00:03 writeLogParametros
+  --> msg: correo: 
+20220630 18:00:03 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 18:00:03 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 18:00:03 writeLogParametros
+  --> msg: idActividad: 1
+20220630 18:00:03 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 18:00:03 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 18:00:03 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 18:00:03 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220630 18:00:03 writeLogParametros
+  --> msg: domicilio: 
+20220630 18:00:03 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 18:00:03 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 18:00:03 writeLogResult
+  --> msg: Result: 
+20220630 18:00:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 18:00:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 18:00:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 18:00:03 writeLogResult
+  --> msg: ID: 1071
+20220630 18:01:12 writeLogParametros
+  --> msg: Parametros: 
+20220630 18:01:12 writeLogParametros
+  --> msg: idProspecto: 
+20220630 18:01:12 writeLogParametros
+  --> msg: nombres: ggg
+20220630 18:01:12 writeLogParametros
+  --> msg: primerApellido: fdfdf
+20220630 18:01:12 writeLogParametros
+  --> msg: segundoApellido: fdfd
+20220630 18:01:12 writeLogParametros
+  --> msg: genero: 
+20220630 18:01:12 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 18:01:12 writeLogParametros
+  --> msg: rfc: 
+20220630 18:01:12 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 18:01:12 writeLogParametros
+  --> msg: calleyNo: 
+20220630 18:01:12 writeLogParametros
+  --> msg: celular: 
+20220630 18:01:12 writeLogParametros
+  --> msg: correo: 
+20220630 18:01:12 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 18:01:12 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 18:01:12 writeLogParametros
+  --> msg: idActividad: 1
+20220630 18:01:12 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 18:01:12 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 18:01:12 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 18:01:12 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 18:01:12 writeLogParametros
+  --> msg: domicilio: 
+20220630 18:01:12 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 18:01:12 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 18:01:13 writeLogResult
+  --> msg: Result: 
+20220630 18:01:13 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 18:01:13 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 18:01:13 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 18:01:13 writeLogResult
+  --> msg: ID: 1072
+20220630 18:03:03 writeLogParametros
+  --> msg: Parametros: 
+20220630 18:03:03 writeLogParametros
+  --> msg: idProspecto: 
+20220630 18:03:03 writeLogParametros
+  --> msg: nombres: dsdds
+20220630 18:03:03 writeLogParametros
+  --> msg: primerApellido: sss
+20220630 18:03:03 writeLogParametros
+  --> msg: segundoApellido: sss
+20220630 18:03:03 writeLogParametros
+  --> msg: genero: 
+20220630 18:03:03 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220630 18:03:03 writeLogParametros
+  --> msg: rfc: 
+20220630 18:03:03 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220630 18:03:03 writeLogParametros
+  --> msg: calleyNo: 
+20220630 18:03:03 writeLogParametros
+  --> msg: celular: 
+20220630 18:03:03 writeLogParametros
+  --> msg: correo: 
+20220630 18:03:03 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220630 18:03:03 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220630 18:03:03 writeLogParametros
+  --> msg: idActividad: 1
+20220630 18:03:03 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220630 18:03:03 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220630 18:03:03 writeLogParametros
+  --> msg: ingresoMensual: 
+20220630 18:03:03 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220630 18:03:03 writeLogParametros
+  --> msg: domicilio: 
+20220630 18:03:03 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220630 18:03:03 writeLogParametros
+  --> msg: tieneBuenHistorial: false
+20220630 18:03:03 writeLogResult
+  --> msg: Result: 
+20220630 18:03:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220630 18:03:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220630 18:03:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220630 18:03:03 writeLogResult
+  --> msg: ID: 1073

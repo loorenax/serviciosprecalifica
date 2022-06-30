@@ -43,7 +43,7 @@ namespace wspreclasifica
                     SendWhatsApp whatsApp = new SendWhatsApp();
                     enviado = whatsApp.send(celular, msg);
                 }
-                else if (enviarAvisoPor == "Correo")
+                else //if (enviarAvisoPor == "Correo")
                 {
                     GestorCorreo gestor = new GestorCorreo();
                     enviado = gestor.enviarCorreo(correo, asunto, body);
