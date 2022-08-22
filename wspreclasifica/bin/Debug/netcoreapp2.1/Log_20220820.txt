@@ -1,0 +1,1788 @@
+20220820 12:24:27 writeLogParametros
+  --> msg: idProspecto: 
+20220820 12:24:27 writeLogParametros
+  --> msg: nombres: Canela
+20220820 12:24:27 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 12:24:27 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 12:24:27 writeLogParametros
+  --> msg: genero: 
+20220820 12:24:27 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 12:24:27 writeLogParametros
+  --> msg: rfc: 
+20220820 12:24:27 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 12:24:27 writeLogParametros
+  --> msg: calleyNo: 
+20220820 12:24:27 writeLogParametros
+  --> msg: celular: 
+20220820 12:24:27 writeLogParametros
+  --> msg: correo: 
+20220820 12:24:27 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 12:24:27 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 12:24:27 writeLogParametros
+  --> msg: idActividad: 1
+20220820 12:24:27 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 12:24:27 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 12:24:27 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 12:24:27 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 12:24:27 writeLogParametros
+  --> msg: domicilio: 
+20220820 12:24:27 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 12:24:27 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 12:24:29 writeLogResult
+  --> msg: Result: 
+20220820 12:24:29 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 12:24:29 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 12:24:29 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 12:24:29 writeLogResult
+  --> msg: ID: 1150
+20220820 12:24:29 enviarCorreo
+  --> msg: 
+  --> exception: The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 47
+20220820 12:42:45 writeLogParametros
+  --> msg: Parametros: 
+20220820 12:42:45 writeLogParametros
+  --> msg: idProspecto: 
+20220820 12:42:45 writeLogParametros
+  --> msg: nombres: Canela
+20220820 12:42:45 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 12:42:45 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 12:42:45 writeLogParametros
+  --> msg: genero: 
+20220820 12:42:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 12:42:45 writeLogParametros
+  --> msg: rfc: 
+20220820 12:42:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 12:42:45 writeLogParametros
+  --> msg: calleyNo: 
+20220820 12:42:45 writeLogParametros
+  --> msg: celular: 
+20220820 12:42:45 writeLogParametros
+  --> msg: correo: 
+20220820 12:42:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 12:42:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 12:42:45 writeLogParametros
+  --> msg: idActividad: 1
+20220820 12:42:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 12:42:45 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 12:42:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 12:42:45 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 12:42:45 writeLogParametros
+  --> msg: domicilio: 
+20220820 12:42:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 12:42:45 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 12:42:46 writeLogResult
+  --> msg: Result: 
+20220820 12:42:46 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 12:42:46 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 12:42:46 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 12:42:46 writeLogResult
+  --> msg: ID: 1151
+20220820 12:42:47 enviarCorreo
+  --> msg: 
+  --> exception: The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 47
+20220820 12:46:10 writeLogParametros
+  --> msg: Parametros: 
+20220820 12:46:10 writeLogParametros
+  --> msg: idProspecto: 
+20220820 12:46:10 writeLogParametros
+  --> msg: nombres: Canela
+20220820 12:46:10 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 12:46:10 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 12:46:10 writeLogParametros
+  --> msg: genero: 
+20220820 12:46:10 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 12:46:10 writeLogParametros
+  --> msg: rfc: 
+20220820 12:46:10 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 12:46:10 writeLogParametros
+  --> msg: calleyNo: 
+20220820 12:46:10 writeLogParametros
+  --> msg: celular: 
+20220820 12:46:10 writeLogParametros
+  --> msg: correo: 
+20220820 12:46:10 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 12:46:10 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 12:46:10 writeLogParametros
+  --> msg: idActividad: 1
+20220820 12:46:10 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 12:46:10 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 12:46:10 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 12:46:10 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 12:46:10 writeLogParametros
+  --> msg: domicilio: 
+20220820 12:46:10 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 12:46:10 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 12:46:10 writeLogResult
+  --> msg: Result: 
+20220820 12:46:10 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 12:46:10 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 12:46:10 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 12:46:10 writeLogResult
+  --> msg: ID: 1152
+20220820 12:46:10 enviarCorreo
+  --> msg: 
+  --> exception: The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 47
+20220820 12:57:02 writeLogParametros
+  --> msg: Parametros: 
+20220820 12:57:02 writeLogParametros
+  --> msg: idProspecto: 1152
+20220820 12:57:02 writeLogParametros
+  --> msg: nombres: Canela
+20220820 12:57:02 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 12:57:02 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 12:57:02 writeLogParametros
+  --> msg: genero: 
+20220820 12:57:02 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 12:57:02 writeLogParametros
+  --> msg: rfc: 
+20220820 12:57:02 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 12:57:02 writeLogParametros
+  --> msg: calleyNo: 
+20220820 12:57:02 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 12:57:02 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 12:57:02 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 12:57:02 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 12:57:02 writeLogParametros
+  --> msg: idActividad: 1
+20220820 12:57:02 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 12:57:02 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 12:57:02 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 12:57:02 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 12:57:02 writeLogParametros
+  --> msg: domicilio: 
+20220820 12:57:02 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 12:57:02 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 12:57:02 writeLogResult
+  --> msg: Result: 
+20220820 12:57:02 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 12:57:02 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 12:57:02 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 12:57:02 writeLogResult
+  --> msg: ID: 1153
+20220820 12:57:12 writeLogParametros
+  --> msg: Parametros: 
+20220820 12:57:12 writeLogParametros
+  --> msg: idProspecto: 1153
+20220820 12:57:12 writeLogParametros
+  --> msg: nombres: Canela
+20220820 12:57:12 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 12:57:12 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 12:57:12 writeLogParametros
+  --> msg: genero: 
+20220820 12:57:12 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 12:57:12 writeLogParametros
+  --> msg: rfc: 
+20220820 12:57:12 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 12:57:12 writeLogParametros
+  --> msg: calleyNo: 
+20220820 12:57:12 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 12:57:12 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 12:57:12 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 12:57:12 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 12:57:12 writeLogParametros
+  --> msg: idActividad: 1
+20220820 12:57:12 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 12:57:12 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 12:57:12 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 12:57:12 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 12:57:12 writeLogParametros
+  --> msg: domicilio: 
+20220820 12:57:12 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 12:57:12 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 12:57:13 writeLogResult
+  --> msg: Result: 
+20220820 12:57:13 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 12:57:13 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 12:57:13 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 12:57:13 writeLogResult
+  --> msg: ID: 1154
+20220820 13:38:37 writeLogParametros
+  --> msg: Parametros: 
+20220820 13:38:37 writeLogParametros
+  --> msg: idProspecto: 
+20220820 13:38:37 writeLogParametros
+  --> msg: nombres: Canela
+20220820 13:38:37 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 13:38:37 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 13:38:37 writeLogParametros
+  --> msg: genero: 
+20220820 13:38:37 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 13:38:37 writeLogParametros
+  --> msg: rfc: 
+20220820 13:38:37 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 13:38:37 writeLogParametros
+  --> msg: calleyNo: 
+20220820 13:38:37 writeLogParametros
+  --> msg: celular: 
+20220820 13:38:37 writeLogParametros
+  --> msg: correo: 
+20220820 13:38:37 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 13:38:37 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 13:38:37 writeLogParametros
+  --> msg: idActividad: 1
+20220820 13:38:37 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 13:38:37 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 13:38:37 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 13:38:37 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 13:38:37 writeLogParametros
+  --> msg: domicilio: 
+20220820 13:38:37 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 13:38:37 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 13:38:39 writeLogResult
+  --> msg: Result: 
+20220820 13:38:39 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 13:38:39 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 13:38:39 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 13:38:39 writeLogResult
+  --> msg: ID: 1155
+20220820 13:38:52 enviarCorreo
+  --> msg: 
+  --> exception: The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 47
+20220820 13:46:02 writeLogParametros
+  --> msg: Parametros: 
+20220820 13:46:02 writeLogParametros
+  --> msg: idProspecto: 
+20220820 13:46:02 writeLogParametros
+  --> msg: nombres: Canela
+20220820 13:46:02 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 13:46:02 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 13:46:02 writeLogParametros
+  --> msg: genero: 
+20220820 13:46:02 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 13:46:02 writeLogParametros
+  --> msg: rfc: 
+20220820 13:46:02 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 13:46:02 writeLogParametros
+  --> msg: calleyNo: 
+20220820 13:46:02 writeLogParametros
+  --> msg: celular: 
+20220820 13:46:02 writeLogParametros
+  --> msg: correo: 
+20220820 13:46:02 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 13:46:02 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 13:46:02 writeLogParametros
+  --> msg: idActividad: 1
+20220820 13:46:02 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 13:46:02 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 13:46:02 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 13:46:02 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 13:46:02 writeLogParametros
+  --> msg: domicilio: 
+20220820 13:46:02 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 13:46:02 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 13:46:03 writeLogResult
+  --> msg: Result: 
+20220820 13:46:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 13:46:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 13:46:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 13:46:03 writeLogResult
+  --> msg: ID: 1156
+20220820 13:46:09 enviarCorreo
+  --> msg: 
+  --> exception: The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 47
+20220820 14:09:29 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:09:29 writeLogParametros
+  --> msg: idProspecto: 
+20220820 14:09:29 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:09:29 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:09:29 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:09:29 writeLogParametros
+  --> msg: genero: 
+20220820 14:09:29 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:09:29 writeLogParametros
+  --> msg: rfc: 
+20220820 14:09:29 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:09:29 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:09:29 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:09:29 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:09:29 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:09:29 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:09:29 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:09:29 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:09:29 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:09:29 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:09:29 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:09:29 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:09:29 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:09:29 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:09:31 writeLogResult
+  --> msg: Result: 
+20220820 14:09:31 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:09:31 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:09:31 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:09:31 writeLogResult
+  --> msg: ID: 1157
+20220820 14:10:09 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:10:10 writeLogParametros
+  --> msg: idProspecto: 1157
+20220820 14:10:10 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:10:10 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:10:10 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:10:10 writeLogParametros
+  --> msg: genero: 
+20220820 14:10:10 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:10:10 writeLogParametros
+  --> msg: rfc: 
+20220820 14:10:10 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:10:10 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:10:10 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:10:10 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:10:10 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:10:10 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:10:10 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:10:10 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:10:10 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:10:10 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:10:10 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:10:10 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:10:10 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:10:10 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:10:10 writeLogResult
+  --> msg: Result: 
+20220820 14:10:10 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:10:10 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:10:10 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:10:10 writeLogResult
+  --> msg: ID: 1158
+20220820 14:10:10 setProspectoAutenticado
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoAutenticado(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 367
+20220820 14:18:07 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:18:07 writeLogParametros
+  --> msg: idProspecto: 
+20220820 14:18:07 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:18:07 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:18:07 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:18:07 writeLogParametros
+  --> msg: genero: 
+20220820 14:18:07 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:18:07 writeLogParametros
+  --> msg: rfc: 
+20220820 14:18:07 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:18:07 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:18:07 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:18:07 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:18:07 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:18:07 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:18:07 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:18:07 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:18:07 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:18:07 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:18:07 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:18:07 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:18:07 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:18:07 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:18:08 writeLogResult
+  --> msg: Result: 
+20220820 14:18:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:18:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:18:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:18:08 writeLogResult
+  --> msg: ID: 1159
+20220820 14:24:01 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:24:01 writeLogParametros
+  --> msg: idProspecto: 
+20220820 14:24:01 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:24:01 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:24:01 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:24:01 writeLogParametros
+  --> msg: genero: 
+20220820 14:24:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:24:01 writeLogParametros
+  --> msg: rfc: 
+20220820 14:24:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:24:01 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:24:01 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:24:01 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:24:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:24:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:24:01 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:24:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:24:01 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:24:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:24:01 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:24:01 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:24:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:24:01 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:24:02 writeLogResult
+  --> msg: Result: 
+20220820 14:24:02 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:24:02 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:24:02 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:24:02 writeLogResult
+  --> msg: ID: 1160
+20220820 14:25:21 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:25:21 writeLogParametros
+  --> msg: idProspecto: 1160
+20220820 14:25:21 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:25:21 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:25:21 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:25:21 writeLogParametros
+  --> msg: genero: 
+20220820 14:25:21 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:25:21 writeLogParametros
+  --> msg: rfc: 
+20220820 14:25:21 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:25:21 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:25:21 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:25:21 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:25:21 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:25:21 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:25:21 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:25:21 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:25:21 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:25:21 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:25:21 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:25:21 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:25:21 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:25:21 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:25:21 writeLogResult
+  --> msg: Result: 
+20220820 14:25:21 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:25:21 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:25:21 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:25:21 writeLogResult
+  --> msg: ID: 1161
+20220820 14:25:22 setProspectoAutenticado
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoAutenticado(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 367
+20220820 14:26:58 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:26:58 writeLogParametros
+  --> msg: idProspecto: 
+20220820 14:26:58 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:26:58 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:26:58 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:26:58 writeLogParametros
+  --> msg: genero: 
+20220820 14:26:58 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:26:58 writeLogParametros
+  --> msg: rfc: 
+20220820 14:26:58 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:26:58 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:26:58 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:26:58 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:26:58 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:26:58 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:26:58 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:26:58 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:26:58 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:26:58 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:26:58 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:26:58 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:26:58 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:26:58 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:26:59 writeLogResult
+  --> msg: Result: 
+20220820 14:26:59 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:26:59 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:26:59 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:26:59 writeLogResult
+  --> msg: ID: 1162
+20220820 14:27:38 writeLogParametros
+  --> msg: Parametros: 
+20220820 14:27:38 writeLogParametros
+  --> msg: idProspecto: 1162
+20220820 14:27:38 writeLogParametros
+  --> msg: nombres: Canela
+20220820 14:27:38 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 14:27:38 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 14:27:38 writeLogParametros
+  --> msg: genero: 
+20220820 14:27:38 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 14:27:38 writeLogParametros
+  --> msg: rfc: 
+20220820 14:27:38 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 14:27:38 writeLogParametros
+  --> msg: calleyNo: 
+20220820 14:27:38 writeLogParametros
+  --> msg: celular: 4624202462
+20220820 14:27:38 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20220820 14:27:38 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 14:27:38 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 14:27:38 writeLogParametros
+  --> msg: idActividad: 1
+20220820 14:27:38 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 14:27:38 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 14:27:38 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 14:27:38 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 14:27:38 writeLogParametros
+  --> msg: domicilio: 
+20220820 14:27:38 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 14:27:38 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20220820 14:27:39 writeLogResult
+  --> msg: Result: 
+20220820 14:27:39 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 14:27:39 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 14:27:39 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 14:27:39 writeLogResult
+  --> msg: ID: 1163
+20220820 14:27:39 setProspectoAutenticado
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoAutenticado(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 367
+20220820 15:04:09 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:04:09 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:04:09 writeLogParametros
+  --> msg: nombres: Canela
+20220820 15:04:09 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:04:09 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:04:09 writeLogParametros
+  --> msg: genero: 
+20220820 15:04:09 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:04:09 writeLogParametros
+  --> msg: rfc: 
+20220820 15:04:09 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:04:09 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:04:09 writeLogParametros
+  --> msg: celular: 
+20220820 15:04:09 writeLogParametros
+  --> msg: correo: 
+20220820 15:04:09 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:04:09 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:04:09 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:04:09 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:04:09 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:04:09 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:04:09 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:04:09 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:04:09 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:04:09 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:04:11 writeLogResult
+  --> msg: Result: 
+20220820 15:04:11 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:04:11 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:04:11 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:04:11 writeLogResult
+  --> msg: ID: 1164
+20220820 15:04:12 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:10:52 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:10:52 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:10:52 writeLogParametros
+  --> msg: nombres: Canela
+20220820 15:10:52 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:10:52 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:10:52 writeLogParametros
+  --> msg: genero: 
+20220820 15:10:52 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:10:52 writeLogParametros
+  --> msg: rfc: 
+20220820 15:10:52 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:10:52 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:10:52 writeLogParametros
+  --> msg: celular: 
+20220820 15:10:52 writeLogParametros
+  --> msg: correo: 
+20220820 15:10:52 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:10:52 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:10:52 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:10:52 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:10:52 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:10:52 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:10:52 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:10:52 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:10:52 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:10:52 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:10:54 writeLogResult
+  --> msg: Result: 
+20220820 15:10:54 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:10:54 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:10:54 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:10:54 writeLogResult
+  --> msg: ID: 1165
+20220820 15:10:54 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:12:36 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:12:36 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:12:36 writeLogParametros
+  --> msg: nombres: Canelita
+20220820 15:12:36 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:12:36 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:12:36 writeLogParametros
+  --> msg: genero: 
+20220820 15:12:36 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:12:36 writeLogParametros
+  --> msg: rfc: 
+20220820 15:12:36 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:12:36 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:12:36 writeLogParametros
+  --> msg: celular: 
+20220820 15:12:36 writeLogParametros
+  --> msg: correo: 
+20220820 15:12:36 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:12:36 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:12:36 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:12:36 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:12:36 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:12:36 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:12:36 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:12:36 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:12:36 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:12:36 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:12:37 writeLogResult
+  --> msg: Result: 
+20220820 15:12:37 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:12:37 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:12:37 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:12:37 writeLogResult
+  --> msg: ID: 1166
+20220820 15:12:37 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:14:03 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:14:03 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:14:03 writeLogParametros
+  --> msg: nombres: Canelita
+20220820 15:14:03 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:14:03 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:14:03 writeLogParametros
+  --> msg: genero: 
+20220820 15:14:03 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:14:03 writeLogParametros
+  --> msg: rfc: 
+20220820 15:14:03 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:14:03 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:14:03 writeLogParametros
+  --> msg: celular: 
+20220820 15:14:03 writeLogParametros
+  --> msg: correo: 
+20220820 15:14:03 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:14:03 writeLogParametros
+  --> msg: idEstadoCivil: 3
+20220820 15:14:03 writeLogParametros
+  --> msg: idActividad: 2
+20220820 15:14:03 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:14:03 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:14:03 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:14:03 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:14:03 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:14:03 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:14:03 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:14:03 writeLogResult
+  --> msg: Result: 
+20220820 15:14:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:14:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:14:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:14:03 writeLogResult
+  --> msg: ID: 1167
+20220820 15:14:04 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:20:13 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:20:13 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:20:13 writeLogParametros
+  --> msg: nombres: Canela
+20220820 15:20:13 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:20:13 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:20:13 writeLogParametros
+  --> msg: genero: 
+20220820 15:20:13 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:20:13 writeLogParametros
+  --> msg: rfc: 
+20220820 15:20:13 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:20:13 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:20:13 writeLogParametros
+  --> msg: celular: 
+20220820 15:20:13 writeLogParametros
+  --> msg: correo: 
+20220820 15:20:13 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:20:13 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:20:13 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:20:13 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:20:13 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:20:13 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:20:13 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:20:13 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:20:13 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:20:13 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:20:15 writeLogResult
+  --> msg: Result: 
+20220820 15:20:15 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:20:15 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:20:15 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:20:15 writeLogResult
+  --> msg: ID: 1168
+20220820 15:20:16 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:29:24 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:29:24 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:29:24 writeLogParametros
+  --> msg: nombres: Canela
+20220820 15:29:24 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20220820 15:29:24 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20220820 15:29:24 writeLogParametros
+  --> msg: genero: 
+20220820 15:29:24 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:29:24 writeLogParametros
+  --> msg: rfc: 
+20220820 15:29:24 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:29:24 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:29:24 writeLogParametros
+  --> msg: celular: 
+20220820 15:29:24 writeLogParametros
+  --> msg: correo: 
+20220820 15:29:24 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:29:24 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:29:24 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:29:24 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:29:24 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20220820 15:29:24 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:29:24 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:29:24 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:29:24 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:29:24 writeLogParametros
+  --> msg: tieneBuenHistorial: NO
+20220820 15:29:27 writeLogResult
+  --> msg: Result: 
+20220820 15:29:27 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20220820 15:29:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20220820 15:29:27 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20220820 15:29:27 writeLogResult
+  --> msg: ID: 1169
+20220820 15:29:28 setProspectoMalHistorial
+  --> msg: 
+  --> exception: Failed to convert parameter value from a String to a Boolean.
+  --> source: System.Data.SqlClient
+  --> stacktrace:    at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlParameter.GetCoercedValue()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.SetUpRPCParameters(_SqlRPC rpc, Int32 startCount, Boolean inSchema, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildRPC(Boolean inSchema, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at wspreclasifica.Datos.PreClasifica.setPreclasificacion(Dictionary`2 _Dyparametros) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Datos\PreClasifica.cs:line 123
+   at wspreclasifica.Controllers.preclasifica.preclasificaController.setProspectoMalHistorial(mdlPreclasifica modelRegistro) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\Controllers\preclasifica\preclasificaController.cs:line 327
+20220820 15:39:14 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:39:14 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:39:14 writeLogParametros
+  --> msg: nombres: 
+20220820 15:39:14 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:39:14 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:39:14 writeLogParametros
+  --> msg: genero: 
+20220820 15:39:14 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:39:14 writeLogParametros
+  --> msg: rfc: 
+20220820 15:39:14 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:39:14 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:39:14 writeLogParametros
+  --> msg: celular: 
+20220820 15:39:14 writeLogParametros
+  --> msg: correo: 
+20220820 15:39:14 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:39:14 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:39:14 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:39:14 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:39:14 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:39:14 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:39:14 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:39:14 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:39:14 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:39:14 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:39:15 writeLogResult
+  --> msg: Result: 
+20220820 15:39:15 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:39:15 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:39:15 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:39:15 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:52:01 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:52:01 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:52:01 writeLogParametros
+  --> msg: nombres: 
+20220820 15:52:01 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:52:01 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:52:01 writeLogParametros
+  --> msg: genero: 
+20220820 15:52:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:52:01 writeLogParametros
+  --> msg: rfc: 
+20220820 15:52:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:52:01 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:52:01 writeLogParametros
+  --> msg: celular: 
+20220820 15:52:01 writeLogParametros
+  --> msg: correo: 
+20220820 15:52:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:52:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:52:01 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:52:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:52:01 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:52:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:52:01 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:52:01 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:52:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:52:01 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:52:03 writeLogResult
+  --> msg: Result: 
+20220820 15:52:03 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:52:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:52:03 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:52:03 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:52:35 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:52:35 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:52:35 writeLogParametros
+  --> msg: nombres: 
+20220820 15:52:35 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:52:35 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:52:35 writeLogParametros
+  --> msg: genero: 
+20220820 15:52:35 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:52:35 writeLogParametros
+  --> msg: rfc: 
+20220820 15:52:35 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:52:35 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:52:35 writeLogParametros
+  --> msg: celular: 
+20220820 15:52:35 writeLogParametros
+  --> msg: correo: 
+20220820 15:52:35 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:52:35 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:52:35 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:52:35 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:52:35 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:52:35 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:52:35 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:52:35 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:52:35 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:52:35 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:52:35 writeLogResult
+  --> msg: Result: 
+20220820 15:52:35 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:52:35 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:52:35 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:52:35 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:52:54 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:52:54 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:52:54 writeLogParametros
+  --> msg: nombres: 
+20220820 15:52:54 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:52:54 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:52:54 writeLogParametros
+  --> msg: genero: 
+20220820 15:52:54 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:52:54 writeLogParametros
+  --> msg: rfc: 
+20220820 15:52:54 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:52:54 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:52:54 writeLogParametros
+  --> msg: celular: 
+20220820 15:52:54 writeLogParametros
+  --> msg: correo: 
+20220820 15:52:54 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:52:54 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:52:54 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:52:54 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:52:54 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:52:54 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:52:54 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:52:54 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:52:54 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:52:54 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:52:55 writeLogResult
+  --> msg: Result: 
+20220820 15:52:55 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:52:55 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:52:55 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:52:55 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:53:25 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:53:25 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:53:25 writeLogParametros
+  --> msg: nombres: 
+20220820 15:53:25 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:53:25 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:53:25 writeLogParametros
+  --> msg: genero: 
+20220820 15:53:25 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:53:25 writeLogParametros
+  --> msg: rfc: 
+20220820 15:53:25 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:53:25 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:53:25 writeLogParametros
+  --> msg: celular: 
+20220820 15:53:25 writeLogParametros
+  --> msg: correo: 
+20220820 15:53:25 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:53:25 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:53:25 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:53:25 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:53:25 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:53:25 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:53:25 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:53:25 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:53:25 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:53:25 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:53:26 writeLogResult
+  --> msg: Result: 
+20220820 15:53:26 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:53:26 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:53:26 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:53:26 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:55:07 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:55:07 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:55:07 writeLogParametros
+  --> msg: nombres: 
+20220820 15:55:07 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:55:07 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:55:07 writeLogParametros
+  --> msg: genero: 
+20220820 15:55:07 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:55:07 writeLogParametros
+  --> msg: rfc: 
+20220820 15:55:07 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:55:07 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:55:07 writeLogParametros
+  --> msg: celular: 
+20220820 15:55:07 writeLogParametros
+  --> msg: correo: 
+20220820 15:55:07 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:55:07 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:55:07 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:55:07 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:55:07 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:55:07 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:55:07 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:55:07 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:55:07 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:55:07 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:55:07 writeLogResult
+  --> msg: Result: 
+20220820 15:55:07 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:55:07 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:55:07 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:55:07 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:55:52 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:55:52 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:55:52 writeLogParametros
+  --> msg: nombres: 
+20220820 15:55:52 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:55:52 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:55:52 writeLogParametros
+  --> msg: genero: 
+20220820 15:55:52 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:55:52 writeLogParametros
+  --> msg: rfc: 
+20220820 15:55:52 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:55:52 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:55:52 writeLogParametros
+  --> msg: celular: 
+20220820 15:55:52 writeLogParametros
+  --> msg: correo: 
+20220820 15:55:52 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:55:52 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:55:52 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:55:52 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:55:52 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:55:52 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:55:52 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20220820 15:55:52 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:55:52 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:55:52 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:55:52 writeLogResult
+  --> msg: Result: 
+20220820 15:55:52 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:55:52 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:55:52 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:55:52 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:56:06 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:56:06 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:56:06 writeLogParametros
+  --> msg: nombres: 
+20220820 15:56:06 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:56:06 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:56:06 writeLogParametros
+  --> msg: genero: 
+20220820 15:56:06 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:56:06 writeLogParametros
+  --> msg: rfc: 
+20220820 15:56:06 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:56:06 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:56:06 writeLogParametros
+  --> msg: celular: 
+20220820 15:56:06 writeLogParametros
+  --> msg: correo: 
+20220820 15:56:06 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:56:06 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:56:06 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:56:06 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:56:06 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:56:06 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:56:06 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220820 15:56:06 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:56:06 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:56:06 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:56:06 writeLogResult
+  --> msg: Result: 
+20220820 15:56:06 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:56:06 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:56:06 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:56:06 writeLogResult
+  --> msg: ID: - vacío -
+20220820 15:56:33 writeLogParametros
+  --> msg: Parametros: 
+20220820 15:56:33 writeLogParametros
+  --> msg: idProspecto: 
+20220820 15:56:33 writeLogParametros
+  --> msg: nombres: 
+20220820 15:56:33 writeLogParametros
+  --> msg: primerApellido: 
+20220820 15:56:33 writeLogParametros
+  --> msg: segundoApellido: 
+20220820 15:56:33 writeLogParametros
+  --> msg: genero: 
+20220820 15:56:33 writeLogParametros
+  --> msg: fechaNacimiento: 
+20220820 15:56:33 writeLogParametros
+  --> msg: rfc: 
+20220820 15:56:33 writeLogParametros
+  --> msg: idCodigoPostal: 
+20220820 15:56:33 writeLogParametros
+  --> msg: calleyNo: 
+20220820 15:56:33 writeLogParametros
+  --> msg: celular: 
+20220820 15:56:33 writeLogParametros
+  --> msg: correo: 
+20220820 15:56:33 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20220820 15:56:33 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20220820 15:56:33 writeLogParametros
+  --> msg: idActividad: 1
+20220820 15:56:33 writeLogParametros
+  --> msg: codigoVerificacion: 
+20220820 15:56:33 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20220820 15:56:33 writeLogParametros
+  --> msg: ingresoMensual: 
+20220820 15:56:33 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20220820 15:56:33 writeLogParametros
+  --> msg: domicilio: 
+20220820 15:56:33 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20220820 15:56:33 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20220820 15:56:34 writeLogResult
+  --> msg: Result: 
+20220820 15:56:34 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20220820 15:56:34 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20220820 15:56:34 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20220820 15:56:34 writeLogResult
+  --> msg: ID: - vacío -

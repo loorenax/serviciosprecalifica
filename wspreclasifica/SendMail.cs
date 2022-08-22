@@ -26,19 +26,20 @@ namespace wspreclasifica
 
         public SendMail(DataTable _dtConfiguracionCorreo)
         {
-            //sendHost = _dtConfiguracionCorreo.Rows[0]["servidor"].ToString();
-            //sendFrom = _dtConfiguracionCorreo.Rows[0]["correo"].ToString();
-            //sendPassword = _dtConfiguracionCorreo.Rows[0]["password"].ToString();
-            //if (_dtConfiguracionCorreo.Rows[0]["puerto"] != null)
-            //    sendPort = int.Parse(_dtConfiguracionCorreo.Rows[0]["puerto"].ToString());
-            //sendEnableSsl = bool.Parse(_dtConfiguracionCorreo.Rows[0]["EnableSSL"].ToString());
+            sendHost = _dtConfiguracionCorreo.Rows[0]["servidor"].ToString();
+            sendFrom = _dtConfiguracionCorreo.Rows[0]["correo"].ToString();
+            sendPassword = _dtConfiguracionCorreo.Rows[0]["password"].ToString();
+            if (_dtConfiguracionCorreo.Rows[0]["puerto"] != null)
+                sendPort = int.Parse(_dtConfiguracionCorreo.Rows[0]["puerto"].ToString());
+            sendEnableSsl = bool.Parse(_dtConfiguracionCorreo.Rows[0]["EnableSSL"].ToString());
 
-            sendHost = "smtp.gmail.com";
-            sendPort = 587;
-            sendEnableSsl = true;
 
-            sendFrom = "canespvas@gmail.com";
-            sendPassword = "Canelita123%";
+            //sendHost = "smtp.gmail.com";
+            //sendPort = 587;
+            //sendEnableSsl = true;
+
+            //sendFrom = "canespvas@gmail.com";
+            //sendPassword = "Canelita123%";
             
 
         }

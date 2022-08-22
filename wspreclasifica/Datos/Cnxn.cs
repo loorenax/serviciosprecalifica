@@ -64,6 +64,22 @@ namespace wspreclasifica.Datos
                     dyParametros[nombreparametro] = _DyDatos[nombreparametroalterno];
                 }
 
+                if (dr["tipoDato"].ToString() == "bit") {
+
+                    if (dyParametros[nombreparametro] == null)
+                    {
+                        dyParametros[nombreparametro] = 0;
+                    }
+                    else if (string.IsNullOrEmpty(dyParametros[nombreparametro].ToString()))
+                    {
+                        dyParametros[nombreparametro] = 0;
+                    }
+                    else {
+                        dyParametros[nombreparametro] = (dyParametros[nombreparametro].ToString() == "SI" ? 1 : 0);
+                    }
+
+
+                }
             }
 
 

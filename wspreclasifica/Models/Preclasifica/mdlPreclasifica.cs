@@ -30,7 +30,8 @@ namespace wspreclasifica.Models.Preclasifica
         public string tipoCredito { get; set; }
         public string ingresoMensual { get; set; }
         public string valorAproximado { get; set; }
-        
+        public string AquienDebes { get; set; }
+
         public string domicilio { get; set; }
         public string resultadoPreclasificacion { get; set; }
         public string tieneBuenHistorial { get; set; }
