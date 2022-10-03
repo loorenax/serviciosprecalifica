@@ -15,6 +15,17 @@ namespace wspreclasifica.Datos
     {
         private Cnxn cnxn = new Cnxn();
 
+        public DataSet getPlantillaByCodigo(Dictionary<string, object> _DyParametros)
+        {
+            DataSet ds = null;
+            string spname = "plantillasGetPlantillaByCodigo";
+            Dictionary<string, object> dyparametros = cnxn.SetFormatDyDatos(_DyParametros, spname);
+            SqlParameter[] sqlparameters = cnxn.getSQLParameters(dyparametros);
+
+            ds = SqlHelper.ExecuteDataset(Cnxn.sCon, spname, sqlparameters);
+            ds.Tables[0].TableName = "Plantillas";
+            return ds;
+        }
         public DataSet getColoniasByCP(string _codigoPostal)
         {
             DataSet ds = null;

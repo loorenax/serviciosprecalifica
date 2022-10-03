@@ -156,47 +156,57 @@ namespace wspreclasifica.Controllers.preclasifica
         {
             DataSet ds = new DataSet();
             DataTable dtresult = Utilerias.SchemaDtResult_V2();
+            SendWhatsApp wa = new SendWhatsApp();
 
             try
             {
-                SendWhatsApp whatsApp = new SendWhatsApp();
-                whatsApp.send(celular, "Código de prueba 9999");
+                Dictionary<string, object> dyparametros = new Dictionary<string, object>();
+                dyparametros.Add("P_CodigoPlantilla", "MSGOTP");
+                DataSet dsPlantilla = dat.getPlantillaByCodigo(dyparametros);
 
-                dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                ds = wa.SendTest(dyparametros, dsPlantilla.Tables["Plantillas"]);
+
+                ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
             }
             catch (Exception ex)
             {
                 dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                ds.Tables.Add(dtresult);
+
                 Utilerias.WriteProblems(ex, null);
             }
 
-            ds = new DataSet();
-            ds.Tables.Add(dtresult);
+            
+            
 
             return Utilerias.DataSetToDictionaryArray(ds);
         }
 
         [HttpPost("enviar-whatsapp-directo")]
-        public ActionResult<object> enviarWhatsAppDirecto()
+        public ActionResult<object> enviarWhatsAppDirecto([FromBody] mdlPreclasifica modelRegistro)
         {
             DataSet ds = new DataSet();
             DataTable dtresult = Utilerias.SchemaDtResult_V2();
+            SendWhatsApp wa = new SendWhatsApp();
 
             try
             {
-                SendWhatsApp whatsApp = new SendWhatsApp();
-                whatsApp.sendTest();
+                Dictionary<string, object> dyparametros = Utilerias.Convert_Model_To_Dictionary(modelRegistro);
+                //Dictionary<string, object> dyparametros = new Dictionary<string, object>();
+                dyparametros.Add("P_CodigoPlantilla", "TEST");
+                DataSet dsPlantilla = dat.getPlantillaByCodigo(dyparametros);
 
-                dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                ds = wa.SendTest(dyparametros, dsPlantilla.Tables["Plantillas"]);
+
+                ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
             }
             catch (Exception ex)
             {
                 dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                ds.Tables.Add(dtresult);
+
                 Utilerias.WriteProblems(ex, null);
             }
-
-            ds = new DataSet();
-            ds.Tables.Add(dtresult);
 
             return Utilerias.DataSetToDictionaryArray(ds);
         }

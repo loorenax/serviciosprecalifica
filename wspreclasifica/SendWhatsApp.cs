@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 using Twilio;
@@ -24,10 +25,16 @@ namespace wspreclasifica
             DataSet ds = dat.getConfiguracionWhatsApp();
 
             DataRow dr = ds.Tables["configuracionWhatsApp"].Rows[0];
-            accountSid = dr["w_accountSid"].ToString();
-            authToken = dr["w_authToken"].ToString();
-            fromPhone = dr["w_fromPhone"].ToString();
-            prefijoEnvio = dr["w_prefijoEnvio"].ToString();
+            //accountSid = dr["w_accountSid"].ToString();
+            //authToken = dr["w_authToken"].ToString();
+            //fromPhone = dr["w_fromPhone"].ToString();
+            //prefijoEnvio = dr["w_prefijoEnvio"].ToString();
+
+            accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
+            authToken = "ec565bf3abce5f5bed2ef5a3109706a2";
+            fromPhone = "whatsapp:+5218141702514"; // dr["w_fromPhone"].ToString();
+            prefijoEnvio = "whatsapp:+521";
+
 
         }
 
@@ -56,7 +63,7 @@ namespace wspreclasifica
             return enviado;
         }
 
-        public bool sendTest()
+        public bool sendTest_Respaldo_1()
         {
 
             bool enviado = false;
@@ -82,6 +89,48 @@ namespace wspreclasifica
             }
 
             return enviado;
+        }
+
+        public DataSet SendTest(Dictionary<string, object> _DyParametros, DataTable _DtPlantillas)
+        {
+            DataSet ds = new DataSet();
+            DataTable dt = Utilerias.SchemaDtResult_V2();
+
+            string telefono = "";
+            StringBuilder plantilla = new StringBuilder();
+            //string plantilla = _DtPlantillas.Rows[0]["Plantilla"].ToString();
+
+            try
+            {
+                //De momento usare el template de Notificación de Cita que solo requiere
+                //el nombre de la compañía, una fecha y el telefono a donde se va a enviar.
+                telefono = _DyParametros["celular"].ToString();
+
+                plantilla.Append(_DtPlantillas.Rows[0]["Plantilla"].ToString());
+                plantilla = plantilla.Replace("{{1}}", "7777");
+
+
+                TwilioClient.Init(accountSid, authToken);
+
+                var message = MessageResource.Create(
+                        from: new Twilio.Types.PhoneNumber(fromPhone),
+                        body: plantilla.ToString(),
+                        to: new Twilio.Types.PhoneNumber($"{prefijoEnvio}{telefono}")
+                    );
+
+                dt.Rows[0]["estatusProcedimiento"] = Utilerias._OK_;
+                dt.Rows[0]["mensajeProcedimiento"] = $"El mensaje se envio con estatus: {message.Status}";
+
+            }
+            catch (Exception ex)
+            {
+                Utilerias.WriteProblems(ex, null);
+            }
+
+            ds.Tables.Add(dt);
+
+            return ds;
+
         }
     }
 }

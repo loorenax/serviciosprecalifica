@@ -1,0 +1,24 @@
+20220825 21:09:51 SendTest
+  --> msg: 
+  --> exception: The given key 'plantilla' was not present in the dictionary.
+  --> source: System.Private.CoreLib
+  --> stacktrace:    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas)
+20220825 21:30:42 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 109
+20220825 21:33:30 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 109
