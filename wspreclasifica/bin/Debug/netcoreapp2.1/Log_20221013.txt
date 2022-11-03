@@ -1,0 +1,110 @@
+20221013 13:01:39 writeLogParametros
+  --> msg: idProspecto: 
+20221013 13:01:39 writeLogParametros
+  --> msg: nombres: 
+20221013 13:01:39 writeLogParametros
+  --> msg: primerApellido: 
+20221013 13:01:39 writeLogParametros
+  --> msg: segundoApellido: 
+20221013 13:01:39 writeLogParametros
+  --> msg: genero: 
+20221013 13:01:39 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221013 13:01:39 writeLogParametros
+  --> msg: rfc: 
+20221013 13:01:39 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221013 13:01:39 writeLogParametros
+  --> msg: calleyNo: 
+20221013 13:01:39 writeLogParametros
+  --> msg: celular: 
+20221013 13:01:39 writeLogParametros
+  --> msg: correo: 
+20221013 13:01:39 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221013 13:01:39 writeLogParametros
+  --> msg: idEstadoCivil: 
+20221013 13:01:39 writeLogParametros
+  --> msg: idActividad: 
+20221013 13:01:39 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221013 13:01:39 writeLogParametros
+  --> msg: tipoCredito: 
+20221013 13:01:39 writeLogParametros
+  --> msg: ingresoMensual: 
+20221013 13:01:39 writeLogParametros
+  --> msg: valorAproximado: 
+20221013 13:01:39 writeLogParametros
+  --> msg: AquienDebes: 
+20221013 13:01:39 writeLogParametros
+  --> msg: domicilio: 
+20221013 13:01:39 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221013 13:01:39 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221013 13:01:52 writeLogResult
+  --> msg: Result: 
+20221013 13:01:52 writeLogResult
+  --> msg: Estatus_Procedimiento: RESTRICCION
+20221013 13:01:52 writeLogResult
+  --> msg: Mensaje_Procedimiento: EL nombre es obligatorio.<br>EL primer apellido es obligatorio.
+20221013 13:01:52 writeLogResult
+  --> msg: Solucion_Procedimiento: Adecue los datos para intentar nuevamente.
+20221013 13:01:52 writeLogResult
+  --> msg: ID: - vacío -
+20221013 13:02:05 writeLogParametros
+  --> msg: Parametros: 
+20221013 13:02:05 writeLogParametros
+  --> msg: idProspecto: 
+20221013 13:02:05 writeLogParametros
+  --> msg: nombres: Canelita
+20221013 13:02:05 writeLogParametros
+  --> msg: primerApellido: Espinocita
+20221013 13:02:05 writeLogParametros
+  --> msg: segundoApellido: Cuevitas
+20221013 13:02:05 writeLogParametros
+  --> msg: genero: 
+20221013 13:02:05 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221013 13:02:05 writeLogParametros
+  --> msg: rfc: 
+20221013 13:02:05 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221013 13:02:05 writeLogParametros
+  --> msg: calleyNo: 
+20221013 13:02:05 writeLogParametros
+  --> msg: celular: 4624202462
+20221013 13:02:05 writeLogParametros
+  --> msg: correo: canepi@gmail.com
+20221013 13:02:05 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221013 13:02:05 writeLogParametros
+  --> msg: idEstadoCivil: 
+20221013 13:02:05 writeLogParametros
+  --> msg: idActividad: 
+20221013 13:02:05 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221013 13:02:05 writeLogParametros
+  --> msg: tipoCredito: 
+20221013 13:02:05 writeLogParametros
+  --> msg: ingresoMensual: 
+20221013 13:02:05 writeLogParametros
+  --> msg: valorAproximado: 
+20221013 13:02:05 writeLogParametros
+  --> msg: AquienDebes: 
+20221013 13:02:05 writeLogParametros
+  --> msg: domicilio: 
+20221013 13:02:05 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221013 13:02:05 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221013 13:02:17 writeLogResult
+  --> msg: Result: 
+20221013 13:02:17 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221013 13:02:17 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221013 13:02:17 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221013 13:02:17 writeLogResult
+  --> msg: ID: 1

@@ -1,0 +1,850 @@
+20221022 20:29:06 writeLogParametros
+  --> msg: idProspecto: 
+20221022 20:29:06 writeLogParametros
+  --> msg: nombres: A
+20221022 20:29:06 writeLogParametros
+  --> msg: primerApellido: B
+20221022 20:29:06 writeLogParametros
+  --> msg: segundoApellido: C
+20221022 20:29:06 writeLogParametros
+  --> msg: genero: 
+20221022 20:29:06 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:29:06 writeLogParametros
+  --> msg: rfc: 
+20221022 20:29:06 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:29:06 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:29:06 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:29:06 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:29:06 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:29:06 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:29:06 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:29:06 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:29:06 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:29:06 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:29:06 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:29:06 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:29:06 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:29:06 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:29:06 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:29:09 writeLogResult
+  --> msg: Result: 
+20221022 20:29:09 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:29:09 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:29:09 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:29:09 writeLogResult
+  --> msg: ID: 2
+20221022 20:30:22 writeLogParametros
+  --> msg: Parametros: 
+20221022 20:30:22 writeLogParametros
+  --> msg: idProspecto: 2
+20221022 20:30:22 writeLogParametros
+  --> msg: nombres: A
+20221022 20:30:22 writeLogParametros
+  --> msg: primerApellido: B
+20221022 20:30:22 writeLogParametros
+  --> msg: segundoApellido: C
+20221022 20:30:22 writeLogParametros
+  --> msg: genero: 
+20221022 20:30:22 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:30:22 writeLogParametros
+  --> msg: rfc: 
+20221022 20:30:22 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:30:22 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:30:22 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:30:22 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:30:22 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:30:22 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:30:22 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:30:22 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:30:22 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:30:22 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:30:22 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:30:22 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:30:22 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:30:22 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:30:22 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:30:23 writeLogResult
+  --> msg: Result: 
+20221022 20:30:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:30:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:30:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:30:23 writeLogResult
+  --> msg: ID: 2
+20221022 20:33:28 writeLogParametros
+  --> msg: Parametros: 
+20221022 20:33:28 writeLogParametros
+  --> msg: idProspecto: 
+20221022 20:33:28 writeLogParametros
+  --> msg: nombres: A
+20221022 20:33:28 writeLogParametros
+  --> msg: primerApellido: B
+20221022 20:33:28 writeLogParametros
+  --> msg: segundoApellido: C
+20221022 20:33:28 writeLogParametros
+  --> msg: genero: 
+20221022 20:33:28 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:33:28 writeLogParametros
+  --> msg: rfc: 
+20221022 20:33:28 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:33:28 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:33:28 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:33:28 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:33:28 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:33:28 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:33:28 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:33:28 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:33:28 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:33:28 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:33:28 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:33:28 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:33:28 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:33:28 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:33:28 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:33:30 writeLogResult
+  --> msg: Result: 
+20221022 20:33:30 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:33:30 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:33:30 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:33:30 writeLogResult
+  --> msg: ID: 3
+20221022 20:41:25 writeLogParametros
+  --> msg: Parametros: 
+20221022 20:41:25 writeLogParametros
+  --> msg: idProspecto: 3
+20221022 20:41:25 writeLogParametros
+  --> msg: nombres: A
+20221022 20:41:25 writeLogParametros
+  --> msg: primerApellido: B
+20221022 20:41:25 writeLogParametros
+  --> msg: segundoApellido: C
+20221022 20:41:25 writeLogParametros
+  --> msg: genero: 
+20221022 20:41:25 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:41:25 writeLogParametros
+  --> msg: rfc: 
+20221022 20:41:25 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:41:25 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:41:25 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:41:25 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:41:25 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:41:25 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:41:25 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:41:25 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:41:25 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:41:25 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:41:25 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:41:25 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:41:25 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:41:25 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:41:25 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:41:25 writeLogResult
+  --> msg: Result: 
+20221022 20:41:25 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:41:25 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:41:25 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:41:25 writeLogResult
+  --> msg: ID: 3
+20221022 20:50:22 writeLogParametros
+  --> msg: Parametros: 
+20221022 20:50:22 writeLogParametros
+  --> msg: idProspecto: 
+20221022 20:50:22 writeLogParametros
+  --> msg: nombres: aa
+20221022 20:50:22 writeLogParametros
+  --> msg: primerApellido: bvb
+20221022 20:50:22 writeLogParametros
+  --> msg: segundoApellido: cc
+20221022 20:50:22 writeLogParametros
+  --> msg: genero: 
+20221022 20:50:22 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:50:22 writeLogParametros
+  --> msg: rfc: 
+20221022 20:50:22 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:50:22 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:50:22 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:50:22 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:50:22 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:50:22 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:50:22 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:50:22 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:50:22 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:50:22 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:50:22 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:50:22 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:50:22 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:50:22 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:50:22 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:50:24 writeLogResult
+  --> msg: Result: 
+20221022 20:50:24 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:50:24 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:50:24 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:50:24 writeLogResult
+  --> msg: ID: 4
+20221022 20:52:21 writeLogParametros
+  --> msg: Parametros: 
+20221022 20:52:21 writeLogParametros
+  --> msg: idProspecto: 4
+20221022 20:52:21 writeLogParametros
+  --> msg: nombres: aa
+20221022 20:52:21 writeLogParametros
+  --> msg: primerApellido: bvb
+20221022 20:52:21 writeLogParametros
+  --> msg: segundoApellido: cc
+20221022 20:52:21 writeLogParametros
+  --> msg: genero: 
+20221022 20:52:21 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 20:52:21 writeLogParametros
+  --> msg: rfc: 
+20221022 20:52:21 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 20:52:21 writeLogParametros
+  --> msg: calleyNo: 
+20221022 20:52:21 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 20:52:21 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 20:52:21 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 20:52:21 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 20:52:21 writeLogParametros
+  --> msg: idActividad: 1
+20221022 20:52:21 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 20:52:21 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 20:52:21 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 20:52:21 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 20:52:21 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 20:52:21 writeLogParametros
+  --> msg: domicilio: 
+20221022 20:52:21 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 20:52:21 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221022 20:52:22 writeLogResult
+  --> msg: Result: 
+20221022 20:52:22 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 20:52:22 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 20:52:22 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 20:52:22 writeLogResult
+  --> msg: ID: 4
+20221022 21:10:16 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:10:16 writeLogParametros
+  --> msg: idProspecto: 
+20221022 21:10:16 writeLogParametros
+  --> msg: nombres: bbb
+20221022 21:10:16 writeLogParametros
+  --> msg: primerApellido: b
+20221022 21:10:16 writeLogParametros
+  --> msg: segundoApellido: b
+20221022 21:10:16 writeLogParametros
+  --> msg: genero: 
+20221022 21:10:16 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 21:10:16 writeLogParametros
+  --> msg: rfc: 
+20221022 21:10:16 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 21:10:16 writeLogParametros
+  --> msg: calleyNo: 
+20221022 21:10:16 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:10:16 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:10:16 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:10:16 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:10:16 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:10:16 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:10:16 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:10:16 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 21:10:16 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:10:16 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 21:10:16 writeLogParametros
+  --> msg: domicilio: 
+20221022 21:10:16 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:10:16 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:28:40 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:28:40 writeLogParametros
+  --> msg: idProspecto: 
+20221022 21:28:40 writeLogParametros
+  --> msg: nombres: QQQ
+20221022 21:28:40 writeLogParametros
+  --> msg: primerApellido: Q
+20221022 21:28:40 writeLogParametros
+  --> msg: segundoApellido: Q
+20221022 21:28:40 writeLogParametros
+  --> msg: genero: 
+20221022 21:28:40 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221022 21:28:40 writeLogParametros
+  --> msg: rfc: 
+20221022 21:28:40 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221022 21:28:40 writeLogParametros
+  --> msg: calleyNo: 
+20221022 21:28:40 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:28:40 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:28:40 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:28:40 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:28:40 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:28:40 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:28:40 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:28:40 writeLogParametros
+  --> msg: ingresoMensual: 
+20221022 21:28:40 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:28:40 writeLogParametros
+  --> msg: AquienDebes: 
+20221022 21:28:40 writeLogParametros
+  --> msg: domicilio: 
+20221022 21:28:40 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:28:40 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:39:10 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:39:10 writeLogParametros
+  --> msg: idProspecto: 
+20221022 21:39:10 writeLogParametros
+  --> msg: nombres: ASASSA
+20221022 21:39:10 writeLogParametros
+  --> msg: primerApellido: AA
+20221022 21:39:10 writeLogParametros
+  --> msg: segundoApellido: BBB
+20221022 21:39:10 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:39:10 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:39:10 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:39:10 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:39:10 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:39:10 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:39:10 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:39:10 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:39:10 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:39:10 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:39:10 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:39:10 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:40:13 writeLogResult
+  --> msg: Result: 
+20221022 21:40:13 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 21:40:13 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 21:40:13 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 21:40:13 writeLogResult
+  --> msg: ID: 6
+20221022 21:42:19 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:42:19 writeLogParametros
+  --> msg: idProspecto: 6
+20221022 21:42:19 writeLogParametros
+  --> msg: nombres: ASASSA
+20221022 21:42:19 writeLogParametros
+  --> msg: primerApellido: AA
+20221022 21:42:19 writeLogParametros
+  --> msg: segundoApellido: BBB
+20221022 21:42:19 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:42:19 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:42:19 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:42:19 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:42:19 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:42:19 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:42:19 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:42:19 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:42:19 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:42:19 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:42:19 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:42:19 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:46:33 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:46:33 writeLogParametros
+  --> msg: idProspecto: 
+20221022 21:46:33 writeLogParametros
+  --> msg: nombres: BBBB
+20221022 21:46:33 writeLogParametros
+  --> msg: primerApellido: BBB
+20221022 21:46:33 writeLogParametros
+  --> msg: segundoApellido: B
+20221022 21:46:33 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:46:33 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:46:33 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:46:33 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:46:33 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:46:33 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:46:33 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:46:33 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:46:33 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:46:33 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:46:33 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221022 21:46:33 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:46:33 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:47:16 writeLogResult
+  --> msg: Result: 
+20221022 21:47:16 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 21:47:16 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 21:47:16 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 21:47:16 writeLogResult
+  --> msg: ID: 7
+20221022 21:48:43 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:48:43 writeLogParametros
+  --> msg: idProspecto: 7
+20221022 21:48:43 writeLogParametros
+  --> msg: nombres: BBBB
+20221022 21:48:43 writeLogParametros
+  --> msg: primerApellido: BBB
+20221022 21:48:43 writeLogParametros
+  --> msg: segundoApellido: B
+20221022 21:48:43 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:48:43 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:48:43 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:48:43 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:48:43 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:48:43 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:48:43 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:48:43 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:48:43 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:48:43 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:48:43 writeLogParametros
+  --> msg: autorizoContactoAsesor: True
+20221022 21:48:43 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:48:43 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:49:58 writeLogResult
+  --> msg: Result: 
+20221022 21:49:58 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 21:49:58 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 21:49:58 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 21:49:58 writeLogResult
+  --> msg: ID: 7
+20221022 21:51:51 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:51:51 writeLogParametros
+  --> msg: idProspecto: 
+20221022 21:51:51 writeLogParametros
+  --> msg: nombres: wwww
+20221022 21:51:51 writeLogParametros
+  --> msg: primerApellido: www
+20221022 21:51:51 writeLogParametros
+  --> msg: segundoApellido: ww
+20221022 21:51:51 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:51:51 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:51:51 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:51:51 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:51:51 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:51:51 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:51:51 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:51:51 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:51:51 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:51:51 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:51:51 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221022 21:51:51 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:51:51 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:53:18 writeLogResult
+  --> msg: Result: 
+20221022 21:53:18 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 21:53:18 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 21:53:18 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 21:53:18 writeLogResult
+  --> msg: ID: 8
+20221022 21:53:57 writeLogParametros
+  --> msg: Parametros: 
+20221022 21:53:57 writeLogParametros
+  --> msg: idProspecto: 8
+20221022 21:53:57 writeLogParametros
+  --> msg: nombres: wwww
+20221022 21:53:57 writeLogParametros
+  --> msg: primerApellido: www
+20221022 21:53:57 writeLogParametros
+  --> msg: segundoApellido: ww
+20221022 21:53:57 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 21:53:57 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 21:53:57 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 21:53:57 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 21:53:57 writeLogParametros
+  --> msg: idActividad: 1
+20221022 21:53:57 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 21:53:57 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221022 21:53:57 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 21:53:57 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221022 21:53:57 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 21:53:57 writeLogParametros
+  --> msg: autorizoContactoAsesor: True
+20221022 21:53:57 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 21:53:57 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 21:54:54 writeLogResult
+  --> msg: Result: 
+20221022 21:54:54 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 21:54:54 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 21:54:54 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 21:54:54 writeLogResult
+  --> msg: ID: 8
+20221022 22:26:57 writeLogParametros
+  --> msg: Parametros: 
+20221022 22:26:57 writeLogParametros
+  --> msg: idProspecto: 
+20221022 22:26:57 writeLogParametros
+  --> msg: nombres: lllll
+20221022 22:26:57 writeLogParametros
+  --> msg: primerApellido: ll
+20221022 22:26:57 writeLogParametros
+  --> msg: segundoApellido: ll
+20221022 22:26:57 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 22:26:57 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 22:26:57 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 22:26:57 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 22:26:57 writeLogParametros
+  --> msg: idActividad: 1
+20221022 22:26:57 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 22:26:57 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221022 22:26:57 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 22:26:57 writeLogParametros
+  --> msg: MontoCredito: 
+20221022 22:26:57 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 22:26:57 writeLogParametros
+  --> msg: MontoHipotecaActual: 
+20221022 22:26:57 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: 
+20221022 22:26:57 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221022 22:26:57 writeLogParametros
+  --> msg: AquienDebes: BANCO + INFONAVIT
+20221022 22:26:57 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221022 22:26:57 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 22:26:57 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 22:27:01 writeLogResult
+  --> msg: Result: 
+20221022 22:27:01 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 22:27:01 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 22:27:01 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 22:27:01 writeLogResult
+  --> msg: ID: 9
+20221022 22:28:01 writeLogParametros
+  --> msg: Parametros: 
+20221022 22:28:01 writeLogParametros
+  --> msg: idProspecto: 9
+20221022 22:28:01 writeLogParametros
+  --> msg: nombres: lllll
+20221022 22:28:01 writeLogParametros
+  --> msg: primerApellido: ll
+20221022 22:28:01 writeLogParametros
+  --> msg: segundoApellido: ll
+20221022 22:28:01 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 22:28:01 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 22:28:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 22:28:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 22:28:01 writeLogParametros
+  --> msg: idActividad: 1
+20221022 22:28:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 22:28:01 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221022 22:28:01 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 22:28:01 writeLogParametros
+  --> msg: MontoCredito: 
+20221022 22:28:01 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 22:28:01 writeLogParametros
+  --> msg: MontoHipotecaActual: 
+20221022 22:28:01 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: 
+20221022 22:28:01 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221022 22:28:01 writeLogParametros
+  --> msg: AquienDebes: BANCO + INFONAVIT
+20221022 22:28:01 writeLogParametros
+  --> msg: autorizoContactoAsesor: True
+20221022 22:28:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 22:28:01 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 22:28:04 writeLogResult
+  --> msg: Result: 
+20221022 22:28:04 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 22:28:04 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 22:28:04 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 22:28:04 writeLogResult
+  --> msg: ID: 9
+20221022 22:35:18 writeLogParametros
+  --> msg: Parametros: 
+20221022 22:35:18 writeLogParametros
+  --> msg: idProspecto: 
+20221022 22:35:18 writeLogParametros
+  --> msg: nombres: zzzz
+20221022 22:35:18 writeLogParametros
+  --> msg: primerApellido: zzz
+20221022 22:35:18 writeLogParametros
+  --> msg: segundoApellido: zz
+20221022 22:35:18 writeLogParametros
+  --> msg: celular: 4623340393
+20221022 22:35:18 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221022 22:35:18 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221022 22:35:18 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221022 22:35:18 writeLogParametros
+  --> msg: idActividad: 1
+20221022 22:35:18 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221022 22:35:18 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221022 22:35:18 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221022 22:35:18 writeLogParametros
+  --> msg: MontoCredito: 
+20221022 22:35:18 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221022 22:35:18 writeLogParametros
+  --> msg: MontoHipotecaActual: De $500 mil  a $1 millón
+20221022 22:35:18 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Entre $1millón y  $2 millones
+20221022 22:35:18 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221022 22:35:18 writeLogParametros
+  --> msg: AquienDebes: BANCO + INFONAVIT
+20221022 22:35:18 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221022 22:35:18 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221022 22:35:18 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221022 22:35:54 writeLogResult
+  --> msg: Result: 
+20221022 22:35:54 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221022 22:35:54 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221022 22:35:54 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221022 22:35:54 writeLogResult
+  --> msg: ID: 10

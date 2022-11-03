@@ -89,7 +89,7 @@ namespace wspreclasifica
             return enviado;
         }
 
-        public bool sendCodigoValidacion(mdlPreclasifica _mdlPreclasifica)
+        public bool sendCodigoValidacionRespaldo(mdlPreclasifica _mdlPreclasifica)
         {
             bool elCorreoFueEnviado = false;
             try
@@ -108,6 +108,30 @@ namespace wspreclasifica
 
             }
             catch (Exception ex) {
+
+                Utilerias.WriteProblems(ex, null);
+            }
+
+            return elCorreoFueEnviado;
+        }
+        public bool sendCodigoValidacion(string _correo, string _codigo)
+        {
+            bool elCorreoFueEnviado = false;
+            try
+            {
+
+                string body = "<div style=\"width: 520px;\">" +
+                                $"<h1>{_codigo}</h1>" +
+                                $"<small>CÓDIGO VALIDACIÓN</small>" +
+                              "</div> ";
+
+                elCorreoFueEnviado = send(_correo, "MAAY -- Código de Validación --", body);
+
+                codigoValidacion = _codigo;
+
+            }
+            catch (Exception ex)
+            {
 
                 Utilerias.WriteProblems(ex, null);
             }

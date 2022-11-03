@@ -11,11 +11,6 @@ namespace wspreclasifica.Models.Preclasifica
         public string nombres { get; set; }
         public string primerApellido { get; set; }
         public string segundoApellido { get; set; }
-        public string genero { get; set; }
-        public string fechaNacimiento { get; set; }
-        public string rfc { get; set; }
-        public string idCodigoPostal { get; set; }
-        public string calleyNo { get; set; }
         
         
         public string celular { get; set; }
@@ -27,12 +22,27 @@ namespace wspreclasifica.Models.Preclasifica
 
         /********************   Para el registro de las preclasificaciones  **********************************/
         public string codigoVerificacion { get; set; }
-        public string tipoCredito { get; set; }
-        public string ingresoMensual { get; set; }
-        public string valorAproximado { get; set; }
+
+
+        public string tipoCredito              { get; set; }
+        public string valorAproximado          { get; set; }
+        public string MontoCredito             { get; set; }
+        public string HistorialCreditoBueno { get; set; }
+
+        /*Credito Hipotecario*/
+        public string MontoHipotecaActual { get; set; }
+        public string ValorAproximadoInmuebleHipotecaMejorar { get; set; }
+        public string PagoPuntualHipoteca { get; set; }
         public string AquienDebes { get; set; }
 
-        public string domicilio { get; set; }
+
+        /*Liquidez*/
+        public string ValorAproximadoInmuebleGarantia { get; set; }
+
+
+        public bool autorizoContactoAsesor { get; set; }
+
+
         public string resultadoPreclasificacion { get; set; }
         public string tieneBuenHistorial { get; set; }
     }

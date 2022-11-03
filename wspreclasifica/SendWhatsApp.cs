@@ -30,68 +30,21 @@ namespace wspreclasifica
             //fromPhone = dr["w_fromPhone"].ToString();
             //prefijoEnvio = dr["w_prefijoEnvio"].ToString();
 
+            //accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
+            //authToken = "ec565bf3abce5f5bed2ef5a3109706a2";
+            //fromPhone = "whatsapp:+5218141702514"; // dr["w_fromPhone"].ToString();
+            //prefijoEnvio = "whatsapp:+521";
+
+            //Para envio de SMS
             accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
-            authToken = "ec565bf3abce5f5bed2ef5a3109706a2";
-            fromPhone = "whatsapp:+5218141702514"; // dr["w_fromPhone"].ToString();
-            prefijoEnvio = "whatsapp:+521";
+            authToken = "9ffdf6dd5f8c001d81226da364956f5b";
+            fromPhone = "+15136475686";
+            prefijoEnvio = "+52";
 
 
         }
 
-        public bool send(string _telefono, string _mensaje) {
-
-            bool enviado = false;
-
-            try
-            {
-                TwilioClient.Init(accountSid, authToken);
-
-                var messageOptions = new CreateMessageOptions(
-                    new PhoneNumber(prefijoEnvio + _telefono)
-                    );
-
-                messageOptions.From = new PhoneNumber(fromPhone);
-                messageOptions.Body = _mensaje;
-
-                var message = MessageResource.Create(messageOptions);
-                Console.WriteLine(message.Body);
-            }
-            catch (Exception ex) {
-                Utilerias.WriteProblems(ex, null);
-            }
-
-            return enviado;
-        }
-
-        public bool sendTest_Respaldo_1()
-        {
-
-            bool enviado = false;
-
-            try
-            {
-                var accountSid = "";
-                var authToken = "";
-
-                TwilioClient.Init(accountSid, authToken);
-
-                var messageOptions = new CreateMessageOptions(
-                    new PhoneNumber("whatsapp:+521" + "8116988508"));
-                messageOptions.From = new PhoneNumber("whatsapp:+14155238886");
-                messageOptions.Body = "Si jala!!!";
-
-                var message = MessageResource.Create(messageOptions);
-                Console.WriteLine(message.Body);
-            }
-            catch (Exception ex)
-            {
-                Utilerias.WriteProblems(ex, null);
-            }
-
-            return enviado;
-        }
-
-        public DataSet SendTest(Dictionary<string, object> _DyParametros, DataTable _DtPlantillas)
+        public DataSet SendSMSTest()
         {
             DataSet ds = new DataSet();
             DataTable dt = Utilerias.SchemaDtResult_V2();
@@ -102,13 +55,21 @@ namespace wspreclasifica
 
             try
             {
+
+                accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
+                authToken = "9ffdf6dd5f8c001d81226da364956f5b";
+
+                //fromPhone = "whatsapp:+15136475686"; // dr["w_fromPhone"].ToString();
+                fromPhone = "+15136475686"; // dr["w_fromPhone"].ToString();
+                prefijoEnvio = "+52";
+
+
                 //De momento usare el template de Notificación de Cita que solo requiere
                 //el nombre de la compañía, una fecha y el telefono a donde se va a enviar.
-                telefono = _DyParametros["celular"].ToString();
+                telefono = "4624202462";
 
-                plantilla.Append(_DtPlantillas.Rows[0]["Plantilla"].ToString());
+                plantilla.Append("¡Hola! Tu código de seguridad para MAAY CAPITAL es *{{1}}*");
                 plantilla = plantilla.Replace("{{1}}", "7777");
-
 
                 TwilioClient.Init(accountSid, authToken);
 
@@ -118,12 +79,15 @@ namespace wspreclasifica
                         to: new Twilio.Types.PhoneNumber($"{prefijoEnvio}{telefono}")
                     );
 
-                dt.Rows[0]["estatusProcedimiento"] = Utilerias._OK_;
-                dt.Rows[0]["mensajeProcedimiento"] = $"El mensaje se envio con estatus: {message.Status}";
+                dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                dt.Rows[0]["Mensaje_Procedimiento"] = $"El mensaje se envio con estatus: {message.Status}";
 
             }
             catch (Exception ex)
             {
+                dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                dt.Rows[0]["Mensaje_Procedimiento"] = ex.Message;
+
                 Utilerias.WriteProblems(ex, null);
             }
 
@@ -132,5 +96,67 @@ namespace wspreclasifica
             return ds;
 
         }
+        public DataSet SendSMSCodigo(string _celular, string msg)
+        {
+            DataSet ds = new DataSet();
+            DataTable dt = Utilerias.SchemaDtResult_V2();
+
+            string telefono = "";
+            StringBuilder plantilla = new StringBuilder();
+
+            try
+            {
+
+                Random rdm = new Random();
+                string strcodigo = rdm.Next(0, 9999).ToString("0000");
+
+                //De momento usare el template de Notificación de Cita que solo requiere
+                //el nombre de la compañía, una fecha y el telefono a donde se va a enviar.
+                //telefono = "4624202462";
+                telefono = _celular;
+
+                plantilla.Append(msg);
+
+                TwilioClient.Init(accountSid, authToken);
+
+                var message = MessageResource.Create(
+                        from: new Twilio.Types.PhoneNumber(fromPhone),
+                        body: plantilla.ToString(),
+                        to: new Twilio.Types.PhoneNumber($"{prefijoEnvio}{telefono}")
+                    );
+
+                dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                dt.Rows[0]["Mensaje_Procedimiento"] = $"El mensaje se envio con estatus: {message.Status}";
+
+            }
+            catch (Twilio.Exceptions.ApiException twex) {
+
+                if (twex.Code == 21211)
+                {
+                    //The 'To' number +52444444444444455555555 is not a valid phone number.
+                    dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._RESTRICCION_;
+                    dt.Rows[0]["Mensaje_Procedimiento"] = twex.Message;
+                }
+                else {
+                    dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                    dt.Rows[0]["Mensaje_Procedimiento"] = twex.Message;
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                dt.Rows[0]["Mensaje_Procedimiento"] = ex.Message;
+
+                Utilerias.WriteProblems(ex, null);
+            }
+
+            ds.Tables.Add(dt);
+
+            return ds;
+
+        }
+
     }
 }

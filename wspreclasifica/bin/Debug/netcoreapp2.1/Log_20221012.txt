@@ -1,0 +1,1790 @@
+20221012 09:59:54 writeLogParametros
+  --> msg: idProspecto: 
+20221012 09:59:54 writeLogParametros
+  --> msg: nombres: Diego
+20221012 09:59:54 writeLogParametros
+  --> msg: primerApellido: Fernandez
+20221012 09:59:54 writeLogParametros
+  --> msg: segundoApellido: M
+20221012 09:59:54 writeLogParametros
+  --> msg: genero: 
+20221012 09:59:54 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 09:59:54 writeLogParametros
+  --> msg: rfc: 
+20221012 09:59:54 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 09:59:54 writeLogParametros
+  --> msg: calleyNo: 
+20221012 09:59:54 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 09:59:54 writeLogParametros
+  --> msg: correo: x
+20221012 09:59:54 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 09:59:54 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 09:59:54 writeLogParametros
+  --> msg: idActividad: 1
+20221012 09:59:54 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 09:59:54 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 09:59:54 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 09:59:54 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 09:59:54 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 09:59:54 writeLogParametros
+  --> msg: domicilio: 
+20221012 09:59:54 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 09:59:54 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 09:59:55 writeLogResult
+  --> msg: Result: 
+20221012 09:59:55 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 09:59:55 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 09:59:55 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 09:59:55 writeLogResult
+  --> msg: ID: 1194
+20221012 10:00:17 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:00:17 writeLogParametros
+  --> msg: idProspecto: 1194
+20221012 10:00:17 writeLogParametros
+  --> msg: nombres: Diego
+20221012 10:00:17 writeLogParametros
+  --> msg: primerApellido: Fernandez
+20221012 10:00:17 writeLogParametros
+  --> msg: segundoApellido: M
+20221012 10:00:17 writeLogParametros
+  --> msg: genero: 
+20221012 10:00:17 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:00:17 writeLogParametros
+  --> msg: rfc: 
+20221012 10:00:17 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:00:17 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:00:17 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:00:17 writeLogParametros
+  --> msg: correo: x
+20221012 10:00:17 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:00:17 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:00:17 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:00:17 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:00:17 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:00:17 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:00:17 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:00:17 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:00:17 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:00:17 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:00:17 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:00:18 writeLogResult
+  --> msg: Result: 
+20221012 10:00:18 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:00:18 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:00:18 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:00:18 writeLogResult
+  --> msg: ID: 1195
+20221012 10:00:48 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:00:48 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:00:48 writeLogParametros
+  --> msg: nombres: Diego
+20221012 10:00:48 writeLogParametros
+  --> msg: primerApellido: FF
+20221012 10:00:48 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 10:00:48 writeLogParametros
+  --> msg: genero: 
+20221012 10:00:48 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:00:48 writeLogParametros
+  --> msg: rfc: 
+20221012 10:00:48 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:00:48 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:00:48 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:00:48 writeLogParametros
+  --> msg: correo: x
+20221012 10:00:48 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:00:48 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:00:48 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:00:48 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:00:48 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:00:48 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:00:48 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:00:48 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:00:48 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:00:48 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:00:48 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:00:49 writeLogResult
+  --> msg: Result: 
+20221012 10:00:49 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:00:49 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:00:49 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:00:49 writeLogResult
+  --> msg: ID: 1196
+20221012 10:03:23 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:03:23 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:03:23 writeLogParametros
+  --> msg: nombres: Diego
+20221012 10:03:23 writeLogParametros
+  --> msg: primerApellido: FFF
+20221012 10:03:23 writeLogParametros
+  --> msg: segundoApellido: MM
+20221012 10:03:23 writeLogParametros
+  --> msg: genero: 
+20221012 10:03:23 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:03:23 writeLogParametros
+  --> msg: rfc: 
+20221012 10:03:23 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:03:23 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:03:23 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:03:23 writeLogParametros
+  --> msg: correo: xxx
+20221012 10:03:23 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:03:23 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:03:23 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:03:23 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:03:23 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:03:23 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:03:23 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:03:23 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 10:03:23 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:03:23 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:03:23 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:03:23 writeLogResult
+  --> msg: Result: 
+20221012 10:03:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:03:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:03:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:03:23 writeLogResult
+  --> msg: ID: 1197
+20221012 10:19:22 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:19:22 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:19:22 writeLogParametros
+  --> msg: nombres: AAAA
+20221012 10:19:22 writeLogParametros
+  --> msg: primerApellido: AA
+20221012 10:19:22 writeLogParametros
+  --> msg: segundoApellido: AA
+20221012 10:19:22 writeLogParametros
+  --> msg: genero: 
+20221012 10:19:22 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:19:22 writeLogParametros
+  --> msg: rfc: 
+20221012 10:19:22 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:19:22 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:19:22 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:19:22 writeLogParametros
+  --> msg: correo: AAA
+20221012 10:19:22 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:19:22 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:19:22 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:19:22 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:19:22 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:19:22 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:19:22 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:19:22 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:19:22 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:19:22 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:19:22 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:19:24 writeLogResult
+  --> msg: Result: 
+20221012 10:19:24 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:19:24 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:19:24 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:19:24 writeLogResult
+  --> msg: ID: 1198
+20221012 10:25:36 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:25:36 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:25:36 writeLogParametros
+  --> msg: nombres: bbb
+20221012 10:25:36 writeLogParametros
+  --> msg: primerApellido: bb
+20221012 10:25:36 writeLogParametros
+  --> msg: segundoApellido: bb
+20221012 10:25:36 writeLogParametros
+  --> msg: genero: 
+20221012 10:25:36 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:25:36 writeLogParametros
+  --> msg: rfc: 
+20221012 10:25:36 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:25:36 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:25:36 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:25:36 writeLogParametros
+  --> msg: correo: bb
+20221012 10:25:36 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:25:36 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:25:36 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:25:36 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:25:36 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:25:36 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:25:36 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:25:36 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 10:25:36 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:25:36 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:25:36 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:25:36 writeLogResult
+  --> msg: Result: 
+20221012 10:25:36 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:25:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:25:36 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:25:36 writeLogResult
+  --> msg: ID: 1199
+20221012 10:25:47 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:25:47 writeLogParametros
+  --> msg: idProspecto: 1199
+20221012 10:25:47 writeLogParametros
+  --> msg: nombres: bbb
+20221012 10:25:47 writeLogParametros
+  --> msg: primerApellido: bb
+20221012 10:25:47 writeLogParametros
+  --> msg: segundoApellido: bb
+20221012 10:25:47 writeLogParametros
+  --> msg: genero: 
+20221012 10:25:47 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:25:47 writeLogParametros
+  --> msg: rfc: 
+20221012 10:25:47 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:25:47 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:25:47 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:25:47 writeLogParametros
+  --> msg: correo: bb
+20221012 10:25:47 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:25:47 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:25:47 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:25:47 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:25:47 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:25:47 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:25:47 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:25:47 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 10:25:47 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:25:47 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:25:47 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:25:47 writeLogResult
+  --> msg: Result: 
+20221012 10:25:47 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:25:47 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:25:47 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:25:47 writeLogResult
+  --> msg: ID: 1200
+20221012 10:29:36 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:29:36 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:29:36 writeLogParametros
+  --> msg: nombres: ssss
+20221012 10:29:36 writeLogParametros
+  --> msg: primerApellido: ss
+20221012 10:29:36 writeLogParametros
+  --> msg: segundoApellido: ss
+20221012 10:29:36 writeLogParametros
+  --> msg: genero: 
+20221012 10:29:36 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:29:36 writeLogParametros
+  --> msg: rfc: 
+20221012 10:29:36 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:29:36 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:29:36 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:29:36 writeLogParametros
+  --> msg: correo: sss
+20221012 10:29:36 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:29:36 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:29:36 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:29:36 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:29:36 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:29:36 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:29:36 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $3 millones
+20221012 10:29:36 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:29:36 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:29:36 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:29:36 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:29:36 writeLogResult
+  --> msg: Result: 
+20221012 10:29:36 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:29:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:29:36 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:29:36 writeLogResult
+  --> msg: ID: 1201
+20221012 10:29:46 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:29:46 writeLogParametros
+  --> msg: idProspecto: 1201
+20221012 10:29:46 writeLogParametros
+  --> msg: nombres: ssss
+20221012 10:29:46 writeLogParametros
+  --> msg: primerApellido: ss
+20221012 10:29:46 writeLogParametros
+  --> msg: segundoApellido: ss
+20221012 10:29:46 writeLogParametros
+  --> msg: genero: 
+20221012 10:29:46 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:29:46 writeLogParametros
+  --> msg: rfc: 
+20221012 10:29:46 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:29:46 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:29:46 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:29:46 writeLogParametros
+  --> msg: correo: sss
+20221012 10:29:46 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:29:46 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:29:46 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:29:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:29:46 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:29:46 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:29:46 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $3 millones
+20221012 10:29:46 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:29:46 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:29:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:29:46 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:29:47 writeLogResult
+  --> msg: Result: 
+20221012 10:29:47 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:29:47 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:29:47 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:29:47 writeLogResult
+  --> msg: ID: 1202
+20221012 10:30:38 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:30:38 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:30:38 writeLogParametros
+  --> msg: nombres: wwww
+20221012 10:30:38 writeLogParametros
+  --> msg: primerApellido: ww
+20221012 10:30:38 writeLogParametros
+  --> msg: segundoApellido: www
+20221012 10:30:38 writeLogParametros
+  --> msg: genero: 
+20221012 10:30:38 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:30:38 writeLogParametros
+  --> msg: rfc: 
+20221012 10:30:38 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:30:38 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:30:38 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:30:38 writeLogParametros
+  --> msg: correo: wwwww
+20221012 10:30:38 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:30:38 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:30:38 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:30:38 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:30:38 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:30:38 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:30:38 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:30:38 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:30:38 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:30:38 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:30:38 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:30:38 writeLogResult
+  --> msg: Result: 
+20221012 10:30:38 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:30:38 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:30:38 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:30:38 writeLogResult
+  --> msg: ID: 1203
+20221012 10:30:45 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:30:45 writeLogParametros
+  --> msg: idProspecto: 1203
+20221012 10:30:45 writeLogParametros
+  --> msg: nombres: wwww
+20221012 10:30:45 writeLogParametros
+  --> msg: primerApellido: ww
+20221012 10:30:45 writeLogParametros
+  --> msg: segundoApellido: www
+20221012 10:30:45 writeLogParametros
+  --> msg: genero: 
+20221012 10:30:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:30:45 writeLogParametros
+  --> msg: rfc: 
+20221012 10:30:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:30:45 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:30:45 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:30:45 writeLogParametros
+  --> msg: correo: wwwww
+20221012 10:30:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:30:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:30:45 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:30:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:30:45 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:30:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:30:45 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:30:45 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:30:45 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:30:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:30:45 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:30:45 writeLogResult
+  --> msg: Result: 
+20221012 10:30:45 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:30:45 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:30:45 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:30:45 writeLogResult
+  --> msg: ID: 1204
+20221012 10:35:24 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:35:24 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:35:24 writeLogParametros
+  --> msg: nombres: aaaassss
+20221012 10:35:24 writeLogParametros
+  --> msg: primerApellido: aa
+20221012 10:35:24 writeLogParametros
+  --> msg: segundoApellido: aa
+20221012 10:35:24 writeLogParametros
+  --> msg: genero: 
+20221012 10:35:24 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:35:24 writeLogParametros
+  --> msg: rfc: 
+20221012 10:35:24 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:35:24 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:35:24 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:35:24 writeLogParametros
+  --> msg: correo: sasa
+20221012 10:35:24 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:35:24 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:35:24 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:35:24 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:35:24 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:35:24 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:35:24 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:35:24 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 10:35:24 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:35:24 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:35:24 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:35:24 writeLogResult
+  --> msg: Result: 
+20221012 10:35:24 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:35:24 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:35:24 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:35:24 writeLogResult
+  --> msg: ID: 1205
+20221012 10:35:39 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:35:39 writeLogParametros
+  --> msg: idProspecto: 1205
+20221012 10:35:39 writeLogParametros
+  --> msg: nombres: aaaassss
+20221012 10:35:39 writeLogParametros
+  --> msg: primerApellido: aa
+20221012 10:35:39 writeLogParametros
+  --> msg: segundoApellido: aa
+20221012 10:35:39 writeLogParametros
+  --> msg: genero: 
+20221012 10:35:39 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:35:39 writeLogParametros
+  --> msg: rfc: 
+20221012 10:35:39 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:35:39 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:35:39 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:35:39 writeLogParametros
+  --> msg: correo: sasa
+20221012 10:35:39 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:35:39 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:35:39 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:35:39 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:35:39 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:35:39 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:35:39 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:35:39 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 10:35:39 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:35:39 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:35:39 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:35:39 writeLogResult
+  --> msg: Result: 
+20221012 10:35:39 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:35:39 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:35:39 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:35:39 writeLogResult
+  --> msg: ID: 1206
+20221012 10:36:10 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:36:10 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:36:10 writeLogParametros
+  --> msg: nombres: qqqqqq
+20221012 10:36:10 writeLogParametros
+  --> msg: primerApellido: qqq
+20221012 10:36:10 writeLogParametros
+  --> msg: segundoApellido: qqq
+20221012 10:36:10 writeLogParametros
+  --> msg: genero: 
+20221012 10:36:10 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:36:10 writeLogParametros
+  --> msg: rfc: 
+20221012 10:36:10 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:36:10 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:36:10 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:36:10 writeLogParametros
+  --> msg: correo: ssss
+20221012 10:36:10 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:36:10 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:36:10 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:36:10 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:36:10 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:36:10 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:36:10 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 10:36:10 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 10:36:10 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:36:10 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:36:10 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:36:10 writeLogResult
+  --> msg: Result: 
+20221012 10:36:10 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:36:10 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:36:10 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:36:10 writeLogResult
+  --> msg: ID: 1207
+20221012 10:36:15 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:36:15 writeLogParametros
+  --> msg: idProspecto: 1207
+20221012 10:36:15 writeLogParametros
+  --> msg: nombres: qqqqqq
+20221012 10:36:15 writeLogParametros
+  --> msg: primerApellido: qqq
+20221012 10:36:15 writeLogParametros
+  --> msg: segundoApellido: qqq
+20221012 10:36:15 writeLogParametros
+  --> msg: genero: 
+20221012 10:36:15 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:36:15 writeLogParametros
+  --> msg: rfc: 
+20221012 10:36:15 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:36:15 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:36:15 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:36:15 writeLogParametros
+  --> msg: correo: ssss
+20221012 10:36:15 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:36:15 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:36:15 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:36:15 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:36:15 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:36:15 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:36:15 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 10:36:15 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 10:36:15 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:36:15 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:36:15 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:36:15 writeLogResult
+  --> msg: Result: 
+20221012 10:36:15 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:36:15 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:36:15 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:36:15 writeLogResult
+  --> msg: ID: 1208
+20221012 10:36:19 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:36:19 writeLogParametros
+  --> msg: idProspecto: 1208
+20221012 10:36:19 writeLogParametros
+  --> msg: nombres: qqqqqq
+20221012 10:36:19 writeLogParametros
+  --> msg: primerApellido: qqq
+20221012 10:36:19 writeLogParametros
+  --> msg: segundoApellido: qqq
+20221012 10:36:19 writeLogParametros
+  --> msg: genero: 
+20221012 10:36:19 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:36:19 writeLogParametros
+  --> msg: rfc: 
+20221012 10:36:19 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:36:19 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:36:19 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:36:19 writeLogParametros
+  --> msg: correo: ssss
+20221012 10:36:19 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:36:19 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:36:19 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:36:19 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:36:19 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:36:19 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:36:19 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 10:36:19 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 10:36:19 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:36:19 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:36:19 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:36:19 writeLogResult
+  --> msg: Result: 
+20221012 10:36:19 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:36:19 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:36:19 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:36:19 writeLogResult
+  --> msg: ID: 1209
+20221012 10:36:46 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:36:46 writeLogParametros
+  --> msg: idProspecto: 1209
+20221012 10:36:46 writeLogParametros
+  --> msg: nombres: qqqqqq
+20221012 10:36:46 writeLogParametros
+  --> msg: primerApellido: qqq
+20221012 10:36:46 writeLogParametros
+  --> msg: segundoApellido: qqq
+20221012 10:36:46 writeLogParametros
+  --> msg: genero: 
+20221012 10:36:46 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:36:46 writeLogParametros
+  --> msg: rfc: 
+20221012 10:36:46 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:36:46 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:36:46 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:36:46 writeLogParametros
+  --> msg: correo: ssss
+20221012 10:36:46 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:36:46 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:36:46 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:36:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:36:46 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:36:46 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:36:46 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 10:36:46 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 10:36:46 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:36:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:36:46 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:36:46 writeLogResult
+  --> msg: Result: 
+20221012 10:36:46 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:36:46 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:36:46 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:36:46 writeLogResult
+  --> msg: ID: 1210
+20221012 10:40:16 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:40:16 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:40:16 writeLogParametros
+  --> msg: nombres: eeeqeqeqe
+20221012 10:40:16 writeLogParametros
+  --> msg: primerApellido: eeee
+20221012 10:40:16 writeLogParametros
+  --> msg: segundoApellido: eee
+20221012 10:40:16 writeLogParametros
+  --> msg: genero: 
+20221012 10:40:16 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:40:16 writeLogParametros
+  --> msg: rfc: 
+20221012 10:40:16 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:40:16 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:40:16 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:40:16 writeLogParametros
+  --> msg: correo: ee
+20221012 10:40:16 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:40:16 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:40:16 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:40:16 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:40:16 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:40:16 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:40:16 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:40:16 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:40:16 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:40:16 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:40:16 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:40:17 writeLogResult
+  --> msg: Result: 
+20221012 10:40:17 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:40:17 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:40:17 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:40:17 writeLogResult
+  --> msg: ID: 1211
+20221012 10:40:26 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:40:26 writeLogParametros
+  --> msg: idProspecto: 1211
+20221012 10:40:26 writeLogParametros
+  --> msg: nombres: eeeqeqeqe
+20221012 10:40:26 writeLogParametros
+  --> msg: primerApellido: eeee
+20221012 10:40:26 writeLogParametros
+  --> msg: segundoApellido: eee
+20221012 10:40:26 writeLogParametros
+  --> msg: genero: 
+20221012 10:40:26 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:40:26 writeLogParametros
+  --> msg: rfc: 
+20221012 10:40:26 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:40:26 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:40:26 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:40:26 writeLogParametros
+  --> msg: correo: ee
+20221012 10:40:26 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:40:26 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:40:26 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:40:26 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:40:26 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 10:40:26 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:40:26 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 10:40:26 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 10:40:26 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:40:26 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:40:26 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:40:26 writeLogResult
+  --> msg: Result: 
+20221012 10:40:26 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:40:26 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:40:26 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:40:26 writeLogResult
+  --> msg: ID: 1212
+20221012 10:49:01 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:49:01 writeLogParametros
+  --> msg: idProspecto: 
+20221012 10:49:01 writeLogParametros
+  --> msg: nombres: CDSDSDSD
+20221012 10:49:01 writeLogParametros
+  --> msg: primerApellido: DSD
+20221012 10:49:01 writeLogParametros
+  --> msg: segundoApellido: DSD
+20221012 10:49:01 writeLogParametros
+  --> msg: genero: 
+20221012 10:49:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:49:01 writeLogParametros
+  --> msg: rfc: 
+20221012 10:49:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:49:01 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:49:01 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:49:01 writeLogParametros
+  --> msg: correo: DDD
+20221012 10:49:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:49:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:49:01 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:49:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:49:01 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:49:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:49:01 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221012 10:49:01 writeLogParametros
+  --> msg: AquienDebes: BANCO + INFONAVIT
+20221012 10:49:01 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:49:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:49:01 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:49:02 writeLogResult
+  --> msg: Result: 
+20221012 10:49:02 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:49:02 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:49:02 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:49:02 writeLogResult
+  --> msg: ID: 1213
+20221012 10:49:34 writeLogParametros
+  --> msg: Parametros: 
+20221012 10:49:34 writeLogParametros
+  --> msg: idProspecto: 1213
+20221012 10:49:34 writeLogParametros
+  --> msg: nombres: CDSDSDSD
+20221012 10:49:34 writeLogParametros
+  --> msg: primerApellido: DSD
+20221012 10:49:34 writeLogParametros
+  --> msg: segundoApellido: DSD
+20221012 10:49:34 writeLogParametros
+  --> msg: genero: 
+20221012 10:49:34 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 10:49:34 writeLogParametros
+  --> msg: rfc: 
+20221012 10:49:34 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 10:49:34 writeLogParametros
+  --> msg: calleyNo: 
+20221012 10:49:34 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 10:49:34 writeLogParametros
+  --> msg: correo: DDD
+20221012 10:49:34 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 10:49:34 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 10:49:34 writeLogParametros
+  --> msg: idActividad: 1
+20221012 10:49:34 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 10:49:34 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 10:49:34 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 10:49:34 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221012 10:49:34 writeLogParametros
+  --> msg: AquienDebes: BANCO + INFONAVIT
+20221012 10:49:34 writeLogParametros
+  --> msg: domicilio: 
+20221012 10:49:34 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 10:49:34 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 10:49:34 writeLogResult
+  --> msg: Result: 
+20221012 10:49:34 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 10:49:34 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 10:49:34 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 10:49:34 writeLogResult
+  --> msg: ID: 1214
+20221012 11:03:01 writeLogParametros
+  --> msg: Parametros: 
+20221012 11:03:01 writeLogParametros
+  --> msg: idProspecto: 
+20221012 11:03:01 writeLogParametros
+  --> msg: nombres: Javier
+20221012 11:03:01 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221012 11:03:01 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20221012 11:03:01 writeLogParametros
+  --> msg: genero: 
+20221012 11:03:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 11:03:01 writeLogParametros
+  --> msg: rfc: 
+20221012 11:03:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 11:03:01 writeLogParametros
+  --> msg: calleyNo: 
+20221012 11:03:01 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 11:03:01 writeLogParametros
+  --> msg: correo: no tengo
+20221012 11:03:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 11:03:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 11:03:01 writeLogParametros
+  --> msg: idActividad: 1
+20221012 11:03:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 11:03:01 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 11:03:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 11:03:01 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 11:03:01 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 11:03:01 writeLogParametros
+  --> msg: domicilio: 
+20221012 11:03:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 11:03:01 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 11:03:02 writeLogResult
+  --> msg: Result: 
+20221012 11:03:02 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 11:03:02 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 11:03:02 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 11:03:02 writeLogResult
+  --> msg: ID: 1215
+20221012 11:03:16 writeLogParametros
+  --> msg: Parametros: 
+20221012 11:03:16 writeLogParametros
+  --> msg: idProspecto: 1215
+20221012 11:03:16 writeLogParametros
+  --> msg: nombres: Javier
+20221012 11:03:16 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221012 11:03:16 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20221012 11:03:16 writeLogParametros
+  --> msg: genero: 
+20221012 11:03:16 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 11:03:16 writeLogParametros
+  --> msg: rfc: 
+20221012 11:03:16 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 11:03:16 writeLogParametros
+  --> msg: calleyNo: 
+20221012 11:03:16 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 11:03:16 writeLogParametros
+  --> msg: correo: no tengo
+20221012 11:03:16 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 11:03:16 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 11:03:16 writeLogParametros
+  --> msg: idActividad: 1
+20221012 11:03:16 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 11:03:16 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 11:03:16 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 11:03:16 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221012 11:03:16 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221012 11:03:16 writeLogParametros
+  --> msg: domicilio: 
+20221012 11:03:16 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 11:03:16 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 11:03:16 writeLogResult
+  --> msg: Result: 
+20221012 11:03:16 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 11:03:16 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 11:03:16 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 11:03:16 writeLogResult
+  --> msg: ID: 1216
+20221012 13:30:55 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:30:55 writeLogParametros
+  --> msg: idProspecto: 
+20221012 13:30:55 writeLogParametros
+  --> msg: nombres: Alejandra
+20221012 13:30:55 writeLogParametros
+  --> msg: primerApellido: Avalos
+20221012 13:30:55 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:30:55 writeLogParametros
+  --> msg: genero: 
+20221012 13:30:55 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:30:55 writeLogParametros
+  --> msg: rfc: 
+20221012 13:30:55 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:30:55 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:30:55 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:30:55 writeLogParametros
+  --> msg: correo: d
+20221012 13:30:55 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:30:55 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:30:55 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:30:55 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:30:55 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 13:30:55 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:30:55 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:30:55 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:30:55 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:30:55 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:30:55 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:31:08 writeLogResult
+  --> msg: Result: 
+20221012 13:31:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:31:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:31:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:31:08 writeLogResult
+  --> msg: ID: 5
+20221012 13:31:45 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:31:45 writeLogParametros
+  --> msg: idProspecto: 5
+20221012 13:31:45 writeLogParametros
+  --> msg: nombres: Alejandra
+20221012 13:31:45 writeLogParametros
+  --> msg: primerApellido: Avalos
+20221012 13:31:45 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:31:45 writeLogParametros
+  --> msg: genero: 
+20221012 13:31:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:31:45 writeLogParametros
+  --> msg: rfc: 
+20221012 13:31:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:31:45 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:31:45 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:31:45 writeLogParametros
+  --> msg: correo: d
+20221012 13:31:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:31:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:31:45 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:31:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:31:45 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 13:31:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:31:45 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:31:45 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:31:45 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:31:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:31:45 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:31:53 writeLogResult
+  --> msg: Result: 
+20221012 13:31:53 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:31:53 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:31:53 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:31:53 writeLogResult
+  --> msg: ID: 6
+20221012 13:32:45 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:32:45 writeLogParametros
+  --> msg: idProspecto: 6
+20221012 13:32:45 writeLogParametros
+  --> msg: nombres: Alejandra
+20221012 13:32:45 writeLogParametros
+  --> msg: primerApellido: Avalos
+20221012 13:32:45 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:32:45 writeLogParametros
+  --> msg: genero: 
+20221012 13:32:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:32:45 writeLogParametros
+  --> msg: rfc: 
+20221012 13:32:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:32:45 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:32:45 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:32:45 writeLogParametros
+  --> msg: correo: d
+20221012 13:32:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:32:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:32:45 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:32:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:32:45 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 13:32:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:32:45 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:32:45 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:32:45 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:32:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:32:45 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:33:06 writeLogResult
+  --> msg: Result: 
+20221012 13:33:06 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:33:06 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:33:06 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:33:06 writeLogResult
+  --> msg: ID: 7
+20221012 13:35:13 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:35:13 writeLogParametros
+  --> msg: idProspecto: 
+20221012 13:35:13 writeLogParametros
+  --> msg: nombres: Diego
+20221012 13:35:13 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221012 13:35:13 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:35:13 writeLogParametros
+  --> msg: genero: 
+20221012 13:35:13 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:35:13 writeLogParametros
+  --> msg: rfc: 
+20221012 13:35:13 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:35:13 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:35:13 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:35:13 writeLogParametros
+  --> msg: correo: a
+20221012 13:35:13 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:35:13 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:35:13 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:35:13 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:35:13 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 13:35:13 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:35:13 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:35:13 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:35:13 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:35:13 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:35:13 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:35:21 writeLogResult
+  --> msg: Result: 
+20221012 13:35:21 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:35:21 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:35:21 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:35:21 writeLogResult
+  --> msg: ID: 1
+20221012 13:36:15 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:36:15 writeLogParametros
+  --> msg: idProspecto: 1
+20221012 13:36:15 writeLogParametros
+  --> msg: nombres: Diego
+20221012 13:36:15 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221012 13:36:15 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:36:15 writeLogParametros
+  --> msg: genero: 
+20221012 13:36:15 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:36:15 writeLogParametros
+  --> msg: rfc: 
+20221012 13:36:15 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:36:15 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:36:15 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:36:15 writeLogParametros
+  --> msg: correo: a
+20221012 13:36:15 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:36:15 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:36:15 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:36:15 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:36:15 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221012 13:36:15 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:36:15 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:36:15 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:36:15 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:36:15 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:36:15 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:36:23 writeLogResult
+  --> msg: Result: 
+20221012 13:36:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:36:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:36:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:36:23 writeLogResult
+  --> msg: ID: 1
+20221012 13:37:52 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:37:52 writeLogParametros
+  --> msg: idProspecto: 
+20221012 13:37:52 writeLogParametros
+  --> msg: nombres: Brenda
+20221012 13:37:52 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221012 13:37:52 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:37:52 writeLogParametros
+  --> msg: genero: 
+20221012 13:37:52 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:37:52 writeLogParametros
+  --> msg: rfc: 
+20221012 13:37:52 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:37:52 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:37:52 writeLogParametros
+  --> msg: celular: 4621008602
+20221012 13:37:52 writeLogParametros
+  --> msg: correo: b
+20221012 13:37:52 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:37:52 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:37:52 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:37:52 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:37:52 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 13:37:52 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:37:52 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:37:52 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 13:37:52 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:37:52 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:37:52 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:37:54 writeLogResult
+  --> msg: Result: 
+20221012 13:37:54 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:37:54 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:37:54 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:37:54 writeLogResult
+  --> msg: ID: 2
+20221012 13:39:04 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:39:04 writeLogParametros
+  --> msg: idProspecto: 2
+20221012 13:39:04 writeLogParametros
+  --> msg: nombres: Brenda
+20221012 13:39:04 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221012 13:39:04 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:39:04 writeLogParametros
+  --> msg: genero: 
+20221012 13:39:04 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:39:04 writeLogParametros
+  --> msg: rfc: 
+20221012 13:39:04 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:39:04 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:39:04 writeLogParametros
+  --> msg: celular: 4621008602
+20221012 13:39:04 writeLogParametros
+  --> msg: correo: b
+20221012 13:39:04 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:39:04 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:39:04 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:39:04 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:39:04 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221012 13:39:04 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:39:04 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221012 13:39:04 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221012 13:39:04 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:39:04 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:39:04 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:39:05 writeLogResult
+  --> msg: Result: 
+20221012 13:39:05 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:39:05 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:39:05 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:39:05 writeLogResult
+  --> msg: ID: 2
+20221012 13:39:55 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:39:55 writeLogParametros
+  --> msg: idProspecto: 
+20221012 13:39:55 writeLogParametros
+  --> msg: nombres: Laura
+20221012 13:39:55 writeLogParametros
+  --> msg: primerApellido: Mendez
+20221012 13:39:55 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:39:55 writeLogParametros
+  --> msg: genero: 
+20221012 13:39:55 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:39:55 writeLogParametros
+  --> msg: rfc: 
+20221012 13:39:55 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:39:55 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:39:55 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:39:55 writeLogParametros
+  --> msg: correo: b
+20221012 13:39:55 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:39:55 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:39:55 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:39:55 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:39:55 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20221012 13:39:55 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:39:55 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $3 millones
+20221012 13:39:55 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:39:55 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:39:55 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:39:55 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:39:59 writeLogResult
+  --> msg: Result: 
+20221012 13:39:59 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:39:59 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:39:59 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:39:59 writeLogResult
+  --> msg: ID: 3
+20221012 13:41:02 writeLogParametros
+  --> msg: Parametros: 
+20221012 13:41:02 writeLogParametros
+  --> msg: idProspecto: 3
+20221012 13:41:02 writeLogParametros
+  --> msg: nombres: Laura
+20221012 13:41:02 writeLogParametros
+  --> msg: primerApellido: Mendez
+20221012 13:41:02 writeLogParametros
+  --> msg: segundoApellido: 
+20221012 13:41:02 writeLogParametros
+  --> msg: genero: 
+20221012 13:41:02 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221012 13:41:02 writeLogParametros
+  --> msg: rfc: 
+20221012 13:41:02 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221012 13:41:02 writeLogParametros
+  --> msg: calleyNo: 
+20221012 13:41:02 writeLogParametros
+  --> msg: celular: 4624202462
+20221012 13:41:02 writeLogParametros
+  --> msg: correo: b
+20221012 13:41:02 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221012 13:41:02 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221012 13:41:02 writeLogParametros
+  --> msg: idActividad: 1
+20221012 13:41:02 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221012 13:41:02 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20221012 13:41:02 writeLogParametros
+  --> msg: ingresoMensual: 
+20221012 13:41:02 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $3 millones
+20221012 13:41:02 writeLogParametros
+  --> msg: AquienDebes: 
+20221012 13:41:02 writeLogParametros
+  --> msg: domicilio: 
+20221012 13:41:02 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221012 13:41:02 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221012 13:41:03 writeLogResult
+  --> msg: Result: 
+20221012 13:41:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221012 13:41:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221012 13:41:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221012 13:41:03 writeLogResult
+  --> msg: ID: 3

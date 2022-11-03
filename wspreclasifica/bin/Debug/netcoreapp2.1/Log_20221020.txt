@@ -1,0 +1,706 @@
+20221020 10:36:45 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:36:45 writeLogParametros
+  --> msg: nombres: xxxxx
+20221020 10:36:45 writeLogParametros
+  --> msg: primerApellido: ssss
+20221020 10:36:45 writeLogParametros
+  --> msg: segundoApellido: dddd
+20221020 10:36:45 writeLogParametros
+  --> msg: genero: 
+20221020 10:36:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:36:45 writeLogParametros
+  --> msg: rfc: 
+20221020 10:36:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:36:45 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:36:45 writeLogParametros
+  --> msg: celular: 54545454545454
+20221020 10:36:45 writeLogParametros
+  --> msg: correo: ssasasa
+20221020 10:36:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:36:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:36:45 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:36:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:36:45 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:36:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:36:45 writeLogParametros
+  --> msg: valorAproximado: Entre $2millones y  $3 millones
+20221020 10:36:45 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 10:36:45 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:36:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:36:45 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:36:47 writeLogResult
+  --> msg: Result: 
+20221020 10:36:47 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:36:47 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:36:47 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:36:47 writeLogResult
+  --> msg: ID: 8
+20221020 10:36:52 SendSMSCodigo
+  --> msg: 
+  --> exception: The 'To' number +5254545454545454 is not a valid phone number.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendSMSCodigo(String _celular, String msg) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 122
+20221020 10:38:50 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:38:50 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:38:50 writeLogParametros
+  --> msg: nombres: asasasawqwqwq
+20221020 10:38:50 writeLogParametros
+  --> msg: primerApellido: ewewewwrwere
+20221020 10:38:50 writeLogParametros
+  --> msg: segundoApellido: werererr
+20221020 10:38:50 writeLogParametros
+  --> msg: genero: 
+20221020 10:38:50 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:38:50 writeLogParametros
+  --> msg: rfc: 
+20221020 10:38:50 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:38:50 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:38:50 writeLogParametros
+  --> msg: celular: 313132424335454
+20221020 10:38:50 writeLogParametros
+  --> msg: correo: ss
+20221020 10:38:50 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:38:50 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:38:50 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:38:50 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:38:50 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:38:50 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:38:50 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:38:50 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 10:38:50 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:38:50 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:38:50 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:38:53 writeLogResult
+  --> msg: Result: 
+20221020 10:38:53 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:38:53 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:38:53 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:38:53 writeLogResult
+  --> msg: ID: 9
+20221020 10:39:39 SendSMSCodigo
+  --> msg: 
+  --> exception: The 'To' number +52313132424335454 is not a valid phone number.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendSMSCodigo(String _celular, String msg) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 122
+20221020 10:41:08 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:41:08 writeLogParametros
+  --> msg: idProspecto: 9
+20221020 10:41:08 writeLogParametros
+  --> msg: nombres: asasasawqwqwq
+20221020 10:41:08 writeLogParametros
+  --> msg: primerApellido: ewewewwrwere
+20221020 10:41:08 writeLogParametros
+  --> msg: segundoApellido: werererr
+20221020 10:41:08 writeLogParametros
+  --> msg: genero: 
+20221020 10:41:08 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:41:08 writeLogParametros
+  --> msg: rfc: 
+20221020 10:41:08 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:41:08 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:41:08 writeLogParametros
+  --> msg: celular: 313132424335454
+20221020 10:41:08 writeLogParametros
+  --> msg: correo: ss
+20221020 10:41:08 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:41:08 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:41:08 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:41:08 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:41:08 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:41:08 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:41:08 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:41:08 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 10:41:08 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:41:08 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:41:08 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:41:09 writeLogResult
+  --> msg: Result: 
+20221020 10:41:09 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:41:09 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:41:09 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:41:09 writeLogResult
+  --> msg: ID: 9
+20221020 10:41:27 SendSMSCodigo
+  --> msg: 
+  --> exception: The 'To' number +52313132424335454 is not a valid phone number.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendSMSCodigo(String _celular, String msg) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 122
+20221020 10:46:32 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:46:32 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:46:32 writeLogParametros
+  --> msg: nombres: jajadjiwerei
+20221020 10:46:32 writeLogParametros
+  --> msg: primerApellido: jijiji
+20221020 10:46:32 writeLogParametros
+  --> msg: segundoApellido: jij
+20221020 10:46:32 writeLogParametros
+  --> msg: genero: 
+20221020 10:46:32 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:46:32 writeLogParametros
+  --> msg: rfc: 
+20221020 10:46:32 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:46:32 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:46:32 writeLogParametros
+  --> msg: celular: 45454545454545
+20221020 10:46:32 writeLogParametros
+  --> msg: correo: cccc
+20221020 10:46:32 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:46:32 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:46:32 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:46:32 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:46:32 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20221020 10:46:32 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:46:32 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:46:32 writeLogParametros
+  --> msg: AquienDebes: 
+20221020 10:46:32 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:46:32 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:46:32 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:46:35 writeLogResult
+  --> msg: Result: 
+20221020 10:46:35 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:46:35 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:46:35 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:46:35 writeLogResult
+  --> msg: ID: 10
+20221020 10:46:51 SendSMSCodigo
+  --> msg: 
+  --> exception: The 'To' number +5245454545454545 is not a valid phone number.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendSMSCodigo(String _celular, String msg) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 122
+20221020 10:47:31 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:47:31 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:47:31 writeLogParametros
+  --> msg: nombres: jajadjiwerei
+20221020 10:47:31 writeLogParametros
+  --> msg: primerApellido: jijiji
+20221020 10:47:31 writeLogParametros
+  --> msg: segundoApellido: jij
+20221020 10:47:31 writeLogParametros
+  --> msg: genero: 
+20221020 10:47:31 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:47:31 writeLogParametros
+  --> msg: rfc: 
+20221020 10:47:31 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:47:31 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:47:31 writeLogParametros
+  --> msg: celular: 45454545454545
+20221020 10:47:31 writeLogParametros
+  --> msg: correo: cccc
+20221020 10:47:31 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:47:31 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:47:31 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:47:31 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:47:31 writeLogParametros
+  --> msg: tipoCredito: LIQUIDEZ
+20221020 10:47:31 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:47:31 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:47:31 writeLogParametros
+  --> msg: AquienDebes: 
+20221020 10:47:31 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:47:31 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:47:31 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:47:33 writeLogResult
+  --> msg: Result: 
+20221020 10:47:33 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:47:33 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:47:33 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:47:33 writeLogResult
+  --> msg: ID: 11
+20221020 10:52:16 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:52:16 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:52:16 writeLogParametros
+  --> msg: nombres: pedrito
+20221020 10:52:16 writeLogParametros
+  --> msg: primerApellido: sola
+20221020 10:52:16 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 10:52:16 writeLogParametros
+  --> msg: genero: 
+20221020 10:52:16 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:52:16 writeLogParametros
+  --> msg: rfc: 
+20221020 10:52:16 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:52:16 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:52:16 writeLogParametros
+  --> msg: celular: 444444444444455555555
+20221020 10:52:16 writeLogParametros
+  --> msg: correo: correo
+20221020 10:52:16 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:52:16 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:52:16 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:52:16 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:52:16 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:52:16 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:52:16 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:52:16 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221020 10:52:16 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:52:16 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:52:16 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:52:18 writeLogResult
+  --> msg: Result: 
+20221020 10:52:18 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:52:18 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:52:18 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:52:18 writeLogResult
+  --> msg: ID: 12
+20221020 10:55:45 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:55:45 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:55:45 writeLogParametros
+  --> msg: nombres: PAQUITO
+20221020 10:55:45 writeLogParametros
+  --> msg: primerApellido: PEREZ
+20221020 10:55:45 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 10:55:45 writeLogParametros
+  --> msg: genero: 
+20221020 10:55:45 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:55:45 writeLogParametros
+  --> msg: rfc: 
+20221020 10:55:45 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:55:45 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:55:45 writeLogParametros
+  --> msg: celular: 78787878454545454545
+20221020 10:55:45 writeLogParametros
+  --> msg: correo: CCCCC
+20221020 10:55:45 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:55:45 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:55:45 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:55:45 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:55:45 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:55:45 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:55:45 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221020 10:55:45 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 10:55:45 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:55:45 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:55:45 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:55:46 writeLogResult
+  --> msg: Result: 
+20221020 10:55:46 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:55:46 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:55:46 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:55:46 writeLogResult
+  --> msg: ID: 13
+20221020 10:59:37 writeLogParametros
+  --> msg: Parametros: 
+20221020 10:59:37 writeLogParametros
+  --> msg: idProspecto: 
+20221020 10:59:37 writeLogParametros
+  --> msg: nombres: Jacinto
+20221020 10:59:37 writeLogParametros
+  --> msg: primerApellido: Bonito
+20221020 10:59:37 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 10:59:37 writeLogParametros
+  --> msg: genero: 
+20221020 10:59:37 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 10:59:37 writeLogParametros
+  --> msg: rfc: 
+20221020 10:59:37 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 10:59:37 writeLogParametros
+  --> msg: calleyNo: 
+20221020 10:59:37 writeLogParametros
+  --> msg: celular: 54545454878787
+20221020 10:59:37 writeLogParametros
+  --> msg: correo: sss
+20221020 10:59:37 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 10:59:37 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 10:59:37 writeLogParametros
+  --> msg: idActividad: 1
+20221020 10:59:37 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 10:59:37 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 10:59:37 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 10:59:37 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 10:59:37 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 10:59:37 writeLogParametros
+  --> msg: domicilio: 
+20221020 10:59:37 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 10:59:37 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 10:59:38 writeLogResult
+  --> msg: Result: 
+20221020 10:59:38 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 10:59:38 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 10:59:38 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 10:59:38 writeLogResult
+  --> msg: ID: 14
+20221020 11:01:58 writeLogParametros
+  --> msg: Parametros: 
+20221020 11:01:58 writeLogParametros
+  --> msg: idProspecto: 
+20221020 11:01:58 writeLogParametros
+  --> msg: nombres: Jacinto
+20221020 11:01:58 writeLogParametros
+  --> msg: primerApellido: Bonito
+20221020 11:01:58 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 11:01:58 writeLogParametros
+  --> msg: genero: 
+20221020 11:01:58 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 11:01:58 writeLogParametros
+  --> msg: rfc: 
+20221020 11:01:58 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 11:01:58 writeLogParametros
+  --> msg: calleyNo: 
+20221020 11:01:58 writeLogParametros
+  --> msg: celular: 4623340393
+20221020 11:01:58 writeLogParametros
+  --> msg: correo: cooor
+20221020 11:01:58 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 11:01:58 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 11:01:58 writeLogParametros
+  --> msg: idActividad: 1
+20221020 11:01:58 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 11:01:58 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 11:01:58 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 11:01:58 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 11:01:58 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 11:01:58 writeLogParametros
+  --> msg: domicilio: 
+20221020 11:01:58 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 11:01:58 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 11:01:59 writeLogResult
+  --> msg: Result: 
+20221020 11:01:59 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 11:01:59 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 11:01:59 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 11:01:59 writeLogResult
+  --> msg: ID: 15
+20221020 11:07:23 writeLogParametros
+  --> msg: Parametros: 
+20221020 11:07:23 writeLogParametros
+  --> msg: idProspecto: 15
+20221020 11:07:23 writeLogParametros
+  --> msg: nombres: Jacinto
+20221020 11:07:23 writeLogParametros
+  --> msg: primerApellido: Bonito
+20221020 11:07:23 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 11:07:23 writeLogParametros
+  --> msg: genero: 
+20221020 11:07:23 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 11:07:23 writeLogParametros
+  --> msg: rfc: 
+20221020 11:07:23 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 11:07:23 writeLogParametros
+  --> msg: calleyNo: 
+20221020 11:07:23 writeLogParametros
+  --> msg: celular: 4623340393
+20221020 11:07:23 writeLogParametros
+  --> msg: correo: cooor
+20221020 11:07:23 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 11:07:23 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 11:07:23 writeLogParametros
+  --> msg: idActividad: 1
+20221020 11:07:23 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 11:07:23 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 11:07:23 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 11:07:23 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 11:07:23 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 11:07:23 writeLogParametros
+  --> msg: domicilio: 
+20221020 11:07:23 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 11:07:23 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 11:07:23 writeLogResult
+  --> msg: Result: 
+20221020 11:07:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 11:07:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 11:07:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 11:07:23 writeLogResult
+  --> msg: ID: 15
+20221020 11:08:02 writeLogParametros
+  --> msg: Parametros: 
+20221020 11:08:02 writeLogParametros
+  --> msg: idProspecto: 15
+20221020 11:08:02 writeLogParametros
+  --> msg: nombres: Jacinto
+20221020 11:08:02 writeLogParametros
+  --> msg: primerApellido: Bonito
+20221020 11:08:02 writeLogParametros
+  --> msg: segundoApellido: 
+20221020 11:08:02 writeLogParametros
+  --> msg: genero: 
+20221020 11:08:02 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 11:08:02 writeLogParametros
+  --> msg: rfc: 
+20221020 11:08:02 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 11:08:02 writeLogParametros
+  --> msg: calleyNo: 
+20221020 11:08:02 writeLogParametros
+  --> msg: celular: 4623340393
+20221020 11:08:02 writeLogParametros
+  --> msg: correo: cooor
+20221020 11:08:02 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 11:08:02 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221020 11:08:02 writeLogParametros
+  --> msg: idActividad: 1
+20221020 11:08:02 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 11:08:02 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 11:08:02 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 11:08:02 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 11:08:02 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 11:08:02 writeLogParametros
+  --> msg: domicilio: 
+20221020 11:08:02 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 11:08:02 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 11:08:03 writeLogResult
+  --> msg: Result: 
+20221020 11:08:03 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 11:08:03 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 11:08:03 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 11:08:03 writeLogResult
+  --> msg: ID: 15
+20221020 13:41:48 writeLogParametros
+  --> msg: Parametros: 
+20221020 13:41:48 writeLogParametros
+  --> msg: idProspecto: 
+20221020 13:41:48 writeLogParametros
+  --> msg: nombres: Maria Canela
+20221020 13:41:48 writeLogParametros
+  --> msg: primerApellido: Mendezo
+20221020 13:41:48 writeLogParametros
+  --> msg: segundoApellido: Martinez
+20221020 13:41:48 writeLogParametros
+  --> msg: genero: 
+20221020 13:41:48 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221020 13:41:48 writeLogParametros
+  --> msg: rfc: 
+20221020 13:41:48 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221020 13:41:48 writeLogParametros
+  --> msg: calleyNo: 
+20221020 13:41:48 writeLogParametros
+  --> msg: celular: 4623340393
+20221020 13:41:48 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221020 13:41:48 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221020 13:41:48 writeLogParametros
+  --> msg: idEstadoCivil: 2
+20221020 13:41:48 writeLogParametros
+  --> msg: idActividad: 2
+20221020 13:41:48 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221020 13:41:48 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221020 13:41:48 writeLogParametros
+  --> msg: ingresoMensual: 
+20221020 13:41:48 writeLogParametros
+  --> msg: valorAproximado: Entre $1millón y  $2 millones
+20221020 13:41:48 writeLogParametros
+  --> msg: AquienDebes: BANCO
+20221020 13:41:48 writeLogParametros
+  --> msg: domicilio: 
+20221020 13:41:48 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221020 13:41:48 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221020 13:41:50 writeLogResult
+  --> msg: Result: 
+20221020 13:41:50 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221020 13:41:50 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221020 13:41:50 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221020 13:41:50 writeLogResult
+  --> msg: ID: 16

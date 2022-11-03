@@ -39,18 +39,19 @@ namespace wspreclasifica
                 string msg = $"MAAY *Código de Validación* {strcodigo}";
                 bool enviado = false;
 
-                if (enviarAvisoPor == "WhatsApp") {
-                    SendWhatsApp whatsApp = new SendWhatsApp();
-                    enviado = whatsApp.send(celular, msg);
-                }
-                else //if (enviarAvisoPor == "Correo")
-                {
-                    GestorCorreo gestor = new GestorCorreo();
-                    enviado = gestor.enviarCorreo(correo, asunto, body);
-                }
+                SendWhatsApp whatsApp = new SendWhatsApp();
+                ds = whatsApp.SendSMSCodigo(celular, msg);
 
-                ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
-                ds.Tables["result"].Rows[0]["Mensaje_Procedimiento"] = $"{enviarAvisoPor} enviado.";
+                if (ds.Tables["result"].Rows[0]["Estatus_Procedimiento"].ToString() == Utilerias._OK_)
+                {
+                    ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                    ds.Tables["result"].Rows[0]["Mensaje_Procedimiento"] = $"{enviarAvisoPor} SMS Enviado.";
+
+
+                    GestorCorreo correo = new GestorCorreo();
+                    correo.enviarCorreo(this.correo, "MAAY -- Código de validación --", body);
+
+                }
 
             }
             catch (Exception ex) {

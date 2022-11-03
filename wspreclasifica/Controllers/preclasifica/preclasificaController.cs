@@ -164,7 +164,9 @@ namespace wspreclasifica.Controllers.preclasifica
                 dyparametros.Add("P_CodigoPlantilla", "MSGOTP");
                 DataSet dsPlantilla = dat.getPlantillaByCodigo(dyparametros);
 
-                ds = wa.SendTest(dyparametros, dsPlantilla.Tables["Plantillas"]);
+                dyparametros = new Dictionary<string, object>();
+                dyparametros.Add("celular", celular);
+                //ds = wa.SendTest(dyparametros, dsPlantilla.Tables["Plantillas"]);
 
                 ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
             }
@@ -182,8 +184,11 @@ namespace wspreclasifica.Controllers.preclasifica
             return Utilerias.DataSetToDictionaryArray(ds);
         }
 
-        [HttpPost("enviar-whatsapp-directo")]
-        public ActionResult<object> enviarWhatsAppDirecto([FromBody] mdlPreclasifica modelRegistro)
+
+
+
+        [HttpPost("enviar-sms-test")]
+        public ActionResult<object> enviarSMSDirecto()
         {
             DataSet ds = new DataSet();
             DataTable dtresult = Utilerias.SchemaDtResult_V2();
@@ -191,14 +196,9 @@ namespace wspreclasifica.Controllers.preclasifica
 
             try
             {
-                Dictionary<string, object> dyparametros = Utilerias.Convert_Model_To_Dictionary(modelRegistro);
-                //Dictionary<string, object> dyparametros = new Dictionary<string, object>();
-                dyparametros.Add("P_CodigoPlantilla", "TEST");
-                DataSet dsPlantilla = dat.getPlantillaByCodigo(dyparametros);
+                ds = wa.SendSMSTest();
 
-                ds = wa.SendTest(dyparametros, dsPlantilla.Tables["Plantillas"]);
-
-                ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                //ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
             }
             catch (Exception ex)
             {

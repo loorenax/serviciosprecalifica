@@ -1,0 +1,730 @@
+20221011 18:06:41 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 119
+20221011 18:14:14 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 119
+20221011 18:16:29 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 119
+20221011 18:17:56 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest(Dictionary`2 _DyParametros, DataTable _DtPlantillas) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 119
+20221011 18:28:30 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest() in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 127
+20221011 18:29:20 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest() in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 127
+20221011 18:30:40 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:31:38 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:33:17 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:34:27 SendTest
+  --> msg: 
+  --> exception: Authenticate
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:36:53 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:37:00 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:37:49 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:40:18 SendTest
+  --> msg: 
+  --> exception: The 'From' number whatsapp:+5218141702514 is not a valid phone number, shortcode, or alphanumeric sender ID.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:43:20 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:44:13 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 18:45:06 SendTest
+  --> msg: 
+  --> exception: Twilio could not find a Channel with the specified From address
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest()
+20221011 19:02:35 SendTest
+  --> msg: 
+  --> exception: The From phone number +528141702514 is not a valid, SMS-capable inbound phone number or short code for your account.
+  --> source: Twilio
+  --> stacktrace:    at Twilio.Clients.TwilioRestClient.ProcessResponse(Response response)
+   at Twilio.Clients.TwilioRestClient.Request(Request request)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(CreateMessageOptions options, ITwilioRestClient client)
+   at Twilio.Rest.Api.V2010.Account.MessageResource.Create(PhoneNumber to, String pathAccountSid, PhoneNumber from, String messagingServiceSid, String body, List`1 mediaUrl, Uri statusCallback, String applicationSid, Nullable`1 maxPrice, Nullable`1 provideFeedback, Nullable`1 attempt, Nullable`1 validityPeriod, Nullable`1 forceDelivery, ContentRetentionEnum contentRetention, AddressRetentionEnum addressRetention, Nullable`1 smartEncoded, List`1 persistentAction, ITwilioRestClient client)
+   at wspreclasifica.SendWhatsApp.SendTest() in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 175
+20221011 19:23:39 writeLogParametros
+  --> msg: Parametros: 
+20221011 19:23:39 writeLogParametros
+  --> msg: idProspecto: 
+20221011 19:23:39 writeLogParametros
+  --> msg: nombres: Diego Javier
+20221011 19:23:39 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221011 19:23:39 writeLogParametros
+  --> msg: segundoApellido: Caudillo
+20221011 19:23:39 writeLogParametros
+  --> msg: genero: 
+20221011 19:23:39 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 19:23:39 writeLogParametros
+  --> msg: rfc: 
+20221011 19:23:39 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 19:23:39 writeLogParametros
+  --> msg: calleyNo: 
+20221011 19:23:39 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 19:23:39 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221011 19:23:39 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 19:23:39 writeLogParametros
+  --> msg: idEstadoCivil: 2
+20221011 19:23:39 writeLogParametros
+  --> msg: idActividad: 2
+20221011 19:23:39 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 19:23:39 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 19:23:39 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 19:23:39 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 19:23:39 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 19:23:39 writeLogParametros
+  --> msg: domicilio: 
+20221011 19:23:39 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 19:23:39 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 19:23:43 writeLogResult
+  --> msg: Result: 
+20221011 19:23:43 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 19:23:43 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 19:23:43 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 19:23:43 writeLogResult
+  --> msg: ID: 1184
+20221011 19:25:37 enviarCodigo
+  --> msg: 
+  --> exception: Column 'estatusProcedimiento' does not belong to table result.
+  --> source: System.Data.Common
+  --> stacktrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at wspreclasifica.SendWhatsApp.SendSMSCodigo(String _celular, String msg) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\SendWhatsApp.cs:line 135
+   at wspreclasifica.OTP.enviarCodigo() in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\OTP.cs:line 43
+20221011 19:28:27 writeLogParametros
+  --> msg: Parametros: 
+20221011 19:28:27 writeLogParametros
+  --> msg: idProspecto: 1184
+20221011 19:28:27 writeLogParametros
+  --> msg: nombres: Diego Javier
+20221011 19:28:27 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221011 19:28:27 writeLogParametros
+  --> msg: segundoApellido: Caudillo
+20221011 19:28:27 writeLogParametros
+  --> msg: genero: 
+20221011 19:28:27 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 19:28:27 writeLogParametros
+  --> msg: rfc: 
+20221011 19:28:27 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 19:28:27 writeLogParametros
+  --> msg: calleyNo: 
+20221011 19:28:27 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 19:28:27 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221011 19:28:27 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 19:28:27 writeLogParametros
+  --> msg: idEstadoCivil: 2
+20221011 19:28:27 writeLogParametros
+  --> msg: idActividad: 2
+20221011 19:28:27 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 19:28:27 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 19:28:27 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 19:28:27 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 19:28:27 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 19:28:27 writeLogParametros
+  --> msg: domicilio: 
+20221011 19:28:27 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 19:28:27 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 19:28:28 writeLogResult
+  --> msg: Result: 
+20221011 19:28:28 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 19:28:28 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 19:28:28 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 19:28:28 writeLogResult
+  --> msg: ID: 1185
+20221011 20:22:21 writeLogParametros
+  --> msg: Parametros: 
+20221011 20:22:21 writeLogParametros
+  --> msg: idProspecto: 
+20221011 20:22:21 writeLogParametros
+  --> msg: nombres: xxxxxx
+20221011 20:22:21 writeLogParametros
+  --> msg: primerApellido: xxxx
+20221011 20:22:21 writeLogParametros
+  --> msg: segundoApellido: xxxxx
+20221011 20:22:21 writeLogParametros
+  --> msg: genero: 
+20221011 20:22:21 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 20:22:21 writeLogParametros
+  --> msg: rfc: 
+20221011 20:22:21 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 20:22:21 writeLogParametros
+  --> msg: calleyNo: 
+20221011 20:22:21 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 20:22:21 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221011 20:22:21 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 20:22:21 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 20:22:21 writeLogParametros
+  --> msg: idActividad: 1
+20221011 20:22:21 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 20:22:21 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 20:22:21 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 20:22:21 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 20:22:21 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 20:22:21 writeLogParametros
+  --> msg: domicilio: 
+20221011 20:22:21 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 20:22:21 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 20:22:26 writeLogResult
+  --> msg: Result: 
+20221011 20:22:26 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 20:22:26 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 20:22:26 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 20:22:26 writeLogResult
+  --> msg: ID: 1186
+20221011 20:40:08 writeLogParametros
+  --> msg: Parametros: 
+20221011 20:40:08 writeLogParametros
+  --> msg: idProspecto: 
+20221011 20:40:08 writeLogParametros
+  --> msg: nombres: aaassaaa
+20221011 20:40:08 writeLogParametros
+  --> msg: primerApellido: aaasas
+20221011 20:40:08 writeLogParametros
+  --> msg: segundoApellido: assasas
+20221011 20:40:08 writeLogParametros
+  --> msg: genero: 
+20221011 20:40:08 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 20:40:08 writeLogParametros
+  --> msg: rfc: 
+20221011 20:40:08 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 20:40:08 writeLogParametros
+  --> msg: calleyNo: 
+20221011 20:40:08 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 20:40:08 writeLogParametros
+  --> msg: correo: cc
+20221011 20:40:08 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 20:40:08 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 20:40:08 writeLogParametros
+  --> msg: idActividad: 1
+20221011 20:40:08 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 20:40:08 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 20:40:08 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 20:40:08 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 20:40:08 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 20:40:08 writeLogParametros
+  --> msg: domicilio: 
+20221011 20:40:08 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 20:40:08 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:02:07 writeLogResult
+  --> msg: Result: 
+20221011 21:02:07 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:02:07 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:02:07 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:02:07 writeLogResult
+  --> msg: ID: 1187
+20221011 21:30:46 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:30:46 writeLogParametros
+  --> msg: idProspecto: 
+20221011 21:30:46 writeLogParametros
+  --> msg: nombres: Diego
+20221011 21:30:46 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221011 21:30:46 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20221011 21:30:46 writeLogParametros
+  --> msg: genero: 
+20221011 21:30:46 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:30:46 writeLogParametros
+  --> msg: rfc: 
+20221011 21:30:46 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:30:46 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:30:46 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 21:30:46 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221011 21:30:46 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:30:46 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:30:46 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:30:46 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:30:46 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:30:46 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:30:46 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:30:46 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:30:46 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:30:46 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:30:46 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:30:47 writeLogResult
+  --> msg: Result: 
+20221011 21:30:47 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:30:47 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:30:47 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:30:47 writeLogResult
+  --> msg: ID: 1188
+20221011 21:31:22 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:31:22 writeLogParametros
+  --> msg: idProspecto: 1188
+20221011 21:31:22 writeLogParametros
+  --> msg: nombres: Diego
+20221011 21:31:22 writeLogParametros
+  --> msg: primerApellido: Espinoza
+20221011 21:31:22 writeLogParametros
+  --> msg: segundoApellido: Cuevas
+20221011 21:31:22 writeLogParametros
+  --> msg: genero: 
+20221011 21:31:22 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:31:22 writeLogParametros
+  --> msg: rfc: 
+20221011 21:31:22 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:31:22 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:31:22 writeLogParametros
+  --> msg: celular: 4624202462
+20221011 21:31:22 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221011 21:31:22 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:31:23 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:31:23 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:31:23 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:31:23 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:31:23 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:31:23 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:31:23 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:31:23 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:31:23 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:31:23 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:31:32 writeLogResult
+  --> msg: Result: 
+20221011 21:31:32 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:31:32 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:31:32 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:31:32 writeLogResult
+  --> msg: ID: 1189
+20221011 21:33:54 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:33:54 writeLogParametros
+  --> msg: idProspecto: 
+20221011 21:33:54 writeLogParametros
+  --> msg: nombres: Bca
+20221011 21:33:54 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221011 21:33:54 writeLogParametros
+  --> msg: segundoApellido: 
+20221011 21:33:54 writeLogParametros
+  --> msg: genero: 
+20221011 21:33:54 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:33:54 writeLogParametros
+  --> msg: rfc: 
+20221011 21:33:54 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:33:54 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:33:54 writeLogParametros
+  --> msg: celular: 462100562
+20221011 21:33:54 writeLogParametros
+  --> msg: correo: b
+20221011 21:33:54 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:33:54 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:33:54 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:33:54 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:33:54 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:33:54 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:33:54 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:33:54 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:33:54 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:33:54 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:33:54 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:33:55 writeLogResult
+  --> msg: Result: 
+20221011 21:33:55 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:33:55 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:33:55 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:33:55 writeLogResult
+  --> msg: ID: 1190
+20221011 21:34:32 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:34:32 writeLogParametros
+  --> msg: idProspecto: 1190
+20221011 21:34:32 writeLogParametros
+  --> msg: nombres: Bca
+20221011 21:34:32 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221011 21:34:32 writeLogParametros
+  --> msg: segundoApellido: 
+20221011 21:34:32 writeLogParametros
+  --> msg: genero: 
+20221011 21:34:32 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:34:32 writeLogParametros
+  --> msg: rfc: 
+20221011 21:34:32 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:34:32 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:34:32 writeLogParametros
+  --> msg: celular: 462100862
+20221011 21:34:32 writeLogParametros
+  --> msg: correo: b
+20221011 21:34:32 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:34:32 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:34:32 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:34:32 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:34:32 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:34:32 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:34:32 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:34:32 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:34:32 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:34:32 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:34:32 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:34:32 writeLogResult
+  --> msg: Result: 
+20221011 21:34:32 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:34:32 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:34:32 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:34:32 writeLogResult
+  --> msg: ID: 1191
+20221011 21:35:01 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:35:01 writeLogParametros
+  --> msg: idProspecto: 1191
+20221011 21:35:01 writeLogParametros
+  --> msg: nombres: Bca
+20221011 21:35:01 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221011 21:35:01 writeLogParametros
+  --> msg: segundoApellido: 
+20221011 21:35:01 writeLogParametros
+  --> msg: genero: 
+20221011 21:35:01 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:35:01 writeLogParametros
+  --> msg: rfc: 
+20221011 21:35:01 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:35:01 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:35:01 writeLogParametros
+  --> msg: celular: 4621008602
+20221011 21:35:01 writeLogParametros
+  --> msg: correo: b
+20221011 21:35:01 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:35:01 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:35:01 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:35:01 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:35:01 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:35:01 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:35:01 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:35:01 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:35:01 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:35:01 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:35:01 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:35:01 writeLogResult
+  --> msg: Result: 
+20221011 21:35:01 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:35:01 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:35:01 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:35:01 writeLogResult
+  --> msg: ID: 1192
+20221011 21:35:47 writeLogParametros
+  --> msg: Parametros: 
+20221011 21:35:47 writeLogParametros
+  --> msg: idProspecto: 1192
+20221011 21:35:47 writeLogParametros
+  --> msg: nombres: Bca
+20221011 21:35:47 writeLogParametros
+  --> msg: primerApellido: Caudillo
+20221011 21:35:47 writeLogParametros
+  --> msg: segundoApellido: 
+20221011 21:35:47 writeLogParametros
+  --> msg: genero: 
+20221011 21:35:47 writeLogParametros
+  --> msg: fechaNacimiento: 
+20221011 21:35:47 writeLogParametros
+  --> msg: rfc: 
+20221011 21:35:47 writeLogParametros
+  --> msg: idCodigoPostal: 
+20221011 21:35:47 writeLogParametros
+  --> msg: calleyNo: 
+20221011 21:35:47 writeLogParametros
+  --> msg: celular: 4621008602
+20221011 21:35:47 writeLogParametros
+  --> msg: correo: b
+20221011 21:35:47 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221011 21:35:47 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221011 21:35:47 writeLogParametros
+  --> msg: idActividad: 1
+20221011 21:35:47 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221011 21:35:47 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221011 21:35:47 writeLogParametros
+  --> msg: ingresoMensual: 
+20221011 21:35:47 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221011 21:35:47 writeLogParametros
+  --> msg: AquienDebes: 
+20221011 21:35:47 writeLogParametros
+  --> msg: domicilio: 
+20221011 21:35:47 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221011 21:35:47 writeLogParametros
+  --> msg: tieneBuenHistorial: SI
+20221011 21:36:08 writeLogResult
+  --> msg: Result: 
+20221011 21:36:08 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221011 21:36:08 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221011 21:36:08 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221011 21:36:08 writeLogResult
+  --> msg: ID: 1193

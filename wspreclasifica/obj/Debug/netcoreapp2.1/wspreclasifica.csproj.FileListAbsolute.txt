@@ -47,7 +47,6 @@ C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\System.Web.Entity.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\bin\Debug\netcoreapp2.1\System.Web.Extensions.dll
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.AssemblyReference.cache
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.GeneratedMSBuildEditorConfig.editorconfig
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.AssemblyInfoInputs.cache
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.AssemblyInfo.cs
@@ -59,3 +58,4 @@ C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.pdb
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.genruntimeconfig.cache
+C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.AssemblyReference.cache

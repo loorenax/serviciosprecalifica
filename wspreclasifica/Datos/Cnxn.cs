@@ -75,7 +75,7 @@ namespace wspreclasifica.Datos
                         dyParametros[nombreparametro] = 0;
                     }
                     else {
-                        dyParametros[nombreparametro] = (dyParametros[nombreparametro].ToString() == "SI" ? 1 : 0);
+                        dyParametros[nombreparametro] = (dyParametros[nombreparametro].ToString() == "SI" || dyParametros[nombreparametro].ToString() == "True" ? 1 : 0);
                     }
 
 
