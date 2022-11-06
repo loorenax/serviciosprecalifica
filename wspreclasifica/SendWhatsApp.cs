@@ -25,21 +25,20 @@ namespace wspreclasifica
             DataSet ds = dat.getConfiguracionWhatsApp();
 
             DataRow dr = ds.Tables["configuracionWhatsApp"].Rows[0];
-            //accountSid = dr["w_accountSid"].ToString();
-            //authToken = dr["w_authToken"].ToString();
-            //fromPhone = dr["w_fromPhone"].ToString();
-            //prefijoEnvio = dr["w_prefijoEnvio"].ToString();
 
-            //accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
-            //authToken = "ec565bf3abce5f5bed2ef5a3109706a2";
-            //fromPhone = "whatsapp:+5218141702514"; // dr["w_fromPhone"].ToString();
-            //prefijoEnvio = "whatsapp:+521";
+            accountSid = dr["w_accountSid"].ToString();
+            authToken = dr["w_authToken"].ToString();
+            fromPhone = dr["w_fromPhone"].ToString();
+            prefijoEnvio = dr["w_prefijoEnvio"].ToString();
+
 
             //Para envio de SMS
-            accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
-            authToken = "9ffdf6dd5f8c001d81226da364956f5b";
-            fromPhone = "+15136475686";
-            prefijoEnvio = "+52";
+            //accountSid = "AC40b8f32037264e3f32e5aaa0f6056c62";
+            // authToken = "cfd3657271ffa837e13db250c517d9ab";
+            //fromPhone = "+15136475686";
+            //prefijoEnvio = "+52";
+
+
 
 
         }
@@ -138,10 +137,11 @@ namespace wspreclasifica
                     dt.Rows[0]["Mensaje_Procedimiento"] = twex.Message;
                 }
                 else {
-                    dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                    dt.Rows[0]["Estatus_Procedimiento"] = Utilerias._RESTRICCION_;
                     dt.Rows[0]["Mensaje_Procedimiento"] = twex.Message;
                 }
 
+                Utilerias.WriteProblems(null, $"Error Twilio: {twex.Message}");
             }
             catch (Exception ex)
             {

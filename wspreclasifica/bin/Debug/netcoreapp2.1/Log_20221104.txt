@@ -1,0 +1,304 @@
+20221104 16:39:32 writeLogParametros
+  --> msg: idProspecto: 
+20221104 16:39:32 writeLogParametros
+  --> msg: nombres: aaaaaa
+20221104 16:39:32 writeLogParametros
+  --> msg: primerApellido: aaa
+20221104 16:39:32 writeLogParametros
+  --> msg: segundoApellido: aa
+20221104 16:39:32 writeLogParametros
+  --> msg: celular: 4623340393
+20221104 16:39:32 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221104 16:39:32 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221104 16:39:32 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221104 16:39:32 writeLogParametros
+  --> msg: idActividad: 1
+20221104 16:39:32 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221104 16:39:32 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221104 16:39:32 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221104 16:39:32 writeLogParametros
+  --> msg: MontoCredito: 
+20221104 16:39:32 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221104 16:39:32 writeLogParametros
+  --> msg: MontoHipotecaActual: Menos de 500 mil 
+20221104 16:39:32 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Menos de 500 mil 
+20221104 16:39:32 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221104 16:39:32 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221104 16:39:32 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221104 16:39:32 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221104 16:39:32 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221104 16:39:32 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221104 16:39:36 writeLogResult
+  --> msg: Result: 
+20221104 16:39:36 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 16:39:36 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 16:39:36 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 16:39:36 writeLogResult
+  --> msg: ID: 21
+20221104 16:40:48 writeLogParametros
+  --> msg: Parametros: 
+20221104 16:40:48 writeLogParametros
+  --> msg: idProspecto: 21
+20221104 16:40:48 writeLogParametros
+  --> msg: nombres: aaaaaa
+20221104 16:40:48 writeLogParametros
+  --> msg: primerApellido: aaa
+20221104 16:40:48 writeLogParametros
+  --> msg: segundoApellido: aa
+20221104 16:40:48 writeLogParametros
+  --> msg: celular: 4623340393
+20221104 16:40:48 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221104 16:40:48 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221104 16:40:48 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221104 16:40:48 writeLogParametros
+  --> msg: idActividad: 1
+20221104 16:40:48 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221104 16:40:48 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221104 16:40:48 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221104 16:40:48 writeLogParametros
+  --> msg: MontoCredito: 
+20221104 16:40:48 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221104 16:40:48 writeLogParametros
+  --> msg: MontoHipotecaActual: Menos de 500 mil 
+20221104 16:40:48 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Menos de 500 mil 
+20221104 16:40:48 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221104 16:40:48 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221104 16:40:48 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221104 16:40:48 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221104 16:40:48 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221104 16:40:48 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221104 16:40:59 writeLogResult
+  --> msg: Result: 
+20221104 16:40:59 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 16:40:59 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 16:40:59 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 16:40:59 writeLogResult
+  --> msg: ID: 21
+20221104 16:47:11 writeLogParametros
+  --> msg: Parametros: 
+20221104 16:47:11 writeLogParametros
+  --> msg: idProspecto: 
+20221104 16:47:11 writeLogParametros
+  --> msg: nombres: fdfddggdgg
+20221104 16:47:11 writeLogParametros
+  --> msg: primerApellido: fgfgdfgfgdg
+20221104 16:47:11 writeLogParametros
+  --> msg: segundoApellido: dgdgdgdgdg
+20221104 16:47:11 writeLogParametros
+  --> msg: celular: 4623340393
+20221104 16:47:11 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221104 16:47:11 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221104 16:47:11 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221104 16:47:11 writeLogParametros
+  --> msg: idActividad: 1
+20221104 16:47:11 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221104 16:47:11 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221104 16:47:11 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221104 16:47:11 writeLogParametros
+  --> msg: MontoCredito: 
+20221104 16:47:11 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221104 16:47:11 writeLogParametros
+  --> msg: MontoHipotecaActual: Menos de 500 mil 
+20221104 16:47:11 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Entre $1millón y  $2 millones
+20221104 16:47:11 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221104 16:47:11 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221104 16:47:11 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221104 16:47:11 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221104 16:47:11 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221104 16:47:11 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221104 16:47:34 writeLogResult
+  --> msg: Result: 
+20221104 16:47:34 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 16:47:34 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 16:47:34 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 16:47:34 writeLogResult
+  --> msg: ID: 22
+20221104 16:49:47 writeLogParametros
+  --> msg: Parametros: 
+20221104 16:49:48 writeLogParametros
+  --> msg: idProspecto: 22
+20221104 16:49:48 writeLogParametros
+  --> msg: nombres: fdfddggdgg
+20221104 16:49:48 writeLogParametros
+  --> msg: primerApellido: fgfgdfgfgdg
+20221104 16:49:48 writeLogParametros
+  --> msg: segundoApellido: dgdgdgdgdg
+20221104 16:49:48 writeLogParametros
+  --> msg: celular: 4623340393
+20221104 16:49:48 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221104 16:49:48 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221104 16:49:48 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221104 16:49:48 writeLogParametros
+  --> msg: idActividad: 1
+20221104 16:49:48 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221104 16:49:48 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221104 16:49:48 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221104 16:49:48 writeLogParametros
+  --> msg: MontoCredito: 
+20221104 16:49:48 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221104 16:49:48 writeLogParametros
+  --> msg: MontoHipotecaActual: Menos de 500 mil 
+20221104 16:49:48 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Entre $1millón y  $2 millones
+20221104 16:49:48 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221104 16:49:48 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221104 16:49:48 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221104 16:49:48 writeLogParametros
+  --> msg: autorizoContactoAsesor: True
+20221104 16:49:48 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221104 16:49:48 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221104 16:49:48 writeLogResult
+  --> msg: Result: 
+20221104 16:49:48 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 16:49:48 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 16:49:48 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 16:49:48 writeLogResult
+  --> msg: ID: 22
+20221104 16:53:09 writeLogParametros
+  --> msg: Parametros: 
+20221104 16:53:09 writeLogParametros
+  --> msg: idProspecto: 
+20221104 16:53:09 writeLogParametros
+  --> msg: nombres: Henry
+20221104 16:53:09 writeLogParametros
+  --> msg: primerApellido: lll
+20221104 16:53:09 writeLogParametros
+  --> msg: segundoApellido: 
+20221104 16:53:09 writeLogParametros
+  --> msg: celular: 4623340393
+20221104 16:53:09 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221104 16:53:09 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221104 16:53:09 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221104 16:53:09 writeLogParametros
+  --> msg: idActividad: 1
+20221104 16:53:09 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221104 16:53:09 writeLogParametros
+  --> msg: tipoCredito: MEJORA DE HIPOTECA
+20221104 16:53:09 writeLogParametros
+  --> msg: valorAproximado: De $500 mil  a $1 millón
+20221104 16:53:09 writeLogParametros
+  --> msg: MontoCredito: 
+20221104 16:53:09 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221104 16:53:09 writeLogParametros
+  --> msg: MontoHipotecaActual: De $500 mil  a $1 millón
+20221104 16:53:09 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: Entre $1millón y  $2 millones
+20221104 16:53:09 writeLogParametros
+  --> msg: PagoPuntualHipoteca: SI
+20221104 16:53:09 writeLogParametros
+  --> msg: AquienDebes: INFONAVIT
+20221104 16:53:09 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221104 16:53:09 writeLogParametros
+  --> msg: autorizoContactoAsesor: False
+20221104 16:53:09 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221104 16:53:09 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221104 16:53:10 writeLogResult
+  --> msg: Result: 
+20221104 16:53:10 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 16:53:10 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 16:53:10 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 16:53:10 writeLogResult
+  --> msg: ID: 23
+20221104 17:09:38 writeLogResult
+  --> msg: Result: 
+20221104 17:09:38 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 17:09:38 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 17:09:38 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 17:09:38 writeLogResult
+  --> msg: ID: 26
+20221104 18:11:27 writeLogResult
+  --> msg: Result: 
+20221104 18:11:27 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221104 18:11:27 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221104 18:11:27 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221104 18:11:27 writeLogResult
+  --> msg: ID: 32
+20221104 18:15:04 enviarCorreo
+  --> msg: 
+  --> exception: The operation has timed out.
+  --> source: System.Net.Mail
+  --> stacktrace:    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at wspreclasifica.GestorCorreo.enviarCorreo(String _correoTo, String _asunto, String _body) in C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\GestorCorreo.cs:line 63

@@ -34,6 +34,20 @@ namespace wspreclasifica
 
             sendFrom = dr["correo"].ToString();
             sendPassword = dr["password"].ToString();
+
+
+            /*El de maaay*/
+            //sendHost = "mail.maaycapital.com";
+            //sendPort = 25;
+            //sendEnableSsl = false;
+
+            //sendFrom = "info@maaycapital.com";
+            //sendPassword = "maaycapital01";
+
+
+
+
+
         }
 
         public bool enviarCorreo(string _correoTo, string _asunto, string _body)

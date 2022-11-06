@@ -1,0 +1,66 @@
+20221105 17:47:17 writeLogResult
+  --> msg: Result: 
+20221105 17:47:17 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221105 17:47:17 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221105 17:47:17 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221105 17:47:17 writeLogResult
+  --> msg: ID: 34
+20221105 17:47:56 writeLogParametros
+  --> msg: Parametros: 
+20221105 17:47:56 writeLogParametros
+  --> msg: idProspecto: 34
+20221105 17:47:56 writeLogParametros
+  --> msg: nombres: dddddddddddddddd
+20221105 17:47:56 writeLogParametros
+  --> msg: primerApellido: sssssssssssssss
+20221105 17:47:56 writeLogParametros
+  --> msg: segundoApellido: sssssssss
+20221105 17:47:56 writeLogParametros
+  --> msg: celular: 4623340393
+20221105 17:47:56 writeLogParametros
+  --> msg: correo: capi.al.roja@gmail.com
+20221105 17:47:56 writeLogParametros
+  --> msg: enviarAvisoPor: 
+20221105 17:47:56 writeLogParametros
+  --> msg: idEstadoCivil: 1
+20221105 17:47:56 writeLogParametros
+  --> msg: idActividad: 1
+20221105 17:47:56 writeLogParametros
+  --> msg: codigoVerificacion: 
+20221105 17:47:56 writeLogParametros
+  --> msg: tipoCredito: ADQUISICION
+20221105 17:47:56 writeLogParametros
+  --> msg: valorAproximado: Menos de 500 mil 
+20221105 17:47:56 writeLogParametros
+  --> msg: MontoCredito: Menos de 500 mil 
+20221105 17:47:56 writeLogParametros
+  --> msg: HistorialCreditoBueno: SI
+20221105 17:47:56 writeLogParametros
+  --> msg: MontoHipotecaActual: 
+20221105 17:47:56 writeLogParametros
+  --> msg: ValorAproximadoInmuebleHipotecaMejorar: 
+20221105 17:47:56 writeLogParametros
+  --> msg: PagoPuntualHipoteca: 
+20221105 17:47:56 writeLogParametros
+  --> msg: AquienDebes: 
+20221105 17:47:56 writeLogParametros
+  --> msg: ValorAproximadoInmuebleGarantia: 
+20221105 17:47:56 writeLogParametros
+  --> msg: autorizoContactoAsesor: True
+20221105 17:47:56 writeLogParametros
+  --> msg: resultadoPreclasificacion: 
+20221105 17:47:56 writeLogParametros
+  --> msg: tieneBuenHistorial: 
+20221105 17:47:56 writeLogResult
+  --> msg: Result: 
+20221105 17:47:56 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221105 17:47:56 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221105 17:47:56 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221105 17:47:56 writeLogResult
+  --> msg: ID: 34

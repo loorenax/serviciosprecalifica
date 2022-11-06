@@ -65,7 +65,7 @@ namespace wspreclasifica.Controllers.preclasifica
             {
                 //ds = D_Laboratorio.ws_ResLab_getResultados(modelRegistro.CURP, modelRegistro.Fecha_Toma);
                 Dictionary<string, object> dydatos = Utilerias.Convert_Model_To_Dictionary(modelRegistro);
-                Utilerias.writeLogParametros(dydatos);
+                //Utilerias.writeLogParametros(dydatos);
 
                 ds = dat.setProspecto(dydatos);
 
@@ -199,6 +199,42 @@ namespace wspreclasifica.Controllers.preclasifica
                 ds = wa.SendSMSTest();
 
                 //ds.Tables["result"].Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+            }
+            catch (Exception ex)
+            {
+                dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                ds.Tables.Add(dtresult);
+
+                Utilerias.WriteProblems(ex, null);
+            }
+
+            return Utilerias.DataSetToDictionaryArray(ds);
+        }
+
+        [HttpPost("enviar-mail-test")]
+        public ActionResult<object> enviarmailDirecto(string email)
+        {
+            DataSet ds = new DataSet();
+            DataTable dtresult = Utilerias.SchemaDtResult_V2();
+            SendWhatsApp wa = new SendWhatsApp();
+
+            try
+            {
+
+                GestorCorreo correo = new GestorCorreo();
+                bool correoEnviado = correo.enviarCorreo(email, "MAAY -- Correo de Prueba --", "Hola!, esto solo es una prueba de envio de correo.");
+
+                if (correoEnviado) {
+                    dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._OK_;
+                    dtresult.Rows[0]["Mensaje_Procedimiento"] = "Se envio correo";
+                }
+                else
+                {
+                    dtresult.Rows[0]["Estatus_Procedimiento"] = Utilerias._ERROR_;
+                    dtresult.Rows[0]["Mensaje_Procedimiento"] = "No se envio";
+                }
+
+                ds.Tables.Add(dtresult);
             }
             catch (Exception ex)
             {

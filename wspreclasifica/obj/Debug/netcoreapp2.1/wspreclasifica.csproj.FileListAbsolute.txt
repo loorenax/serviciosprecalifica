@@ -58,4 +58,3 @@ C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.dll
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.pdb
 C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.genruntimeconfig.cache
-C:\Trabajo\Proyectos H\serviciosprecalifica\wspreclasifica\obj\Debug\netcoreapp2.1\wspreclasifica.csproj.AssemblyReference.cache
