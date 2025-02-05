@@ -1,0 +1,8 @@
+20221107 17:18:23 writeLogResult
+  --> msg: Estatus_Procedimiento: OK
+20221107 17:18:23 writeLogResult
+  --> msg: Mensaje_Procedimiento: 
+20221107 17:18:23 writeLogResult
+  --> msg: Solucion_Procedimiento: 
+20221107 17:18:23 writeLogResult
+  --> msg: ID: 45
